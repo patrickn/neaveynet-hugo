@@ -1,3 +1,4 @@
-# neaveynet-hugo
+# neavey.net
 
-My personal website, built using [Hugo](https://gohugo.io).
+Currently in development this will be my personal website, ported to [Hugo](https://gohugo.io) from Wordpress.
+
