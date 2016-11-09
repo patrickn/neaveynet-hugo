@@ -54,14 +54,14 @@ theme = "hugo-icarus-theme"
 
 # Enter a link for the follow button on the left
 [params.profile]
-    follow_button = "https://github.com/digitalcraftsman"
+    follow_button = "https://twitter.com/Neavey"
 
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-    #github          = ""
+    github          = "patrickn"
     instagram       = "pneavey"
     youtube         = "PatrickN0"
     googleplus      = "PatrickN0"
