@@ -4,7 +4,7 @@ title = "neavey.net - Adventure Miles"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "neaveynet"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-87135551-1"
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
