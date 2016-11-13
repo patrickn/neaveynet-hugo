@@ -15,24 +15,17 @@ tags:
   - Norway
 
 ---
-Total mileage: 1774.8
 
-Fuel stops: 7
-
-Nights in a tent: 5
-
-Nights in a shed: 1
-
-Ferry crossings (exc. Harwich): 6
-
-Average ferry cost (exc. Harwich): 60kr (£5)
-
-Tunnels: dozens
-
-Daily Temperature (max/min): 28°/7°
-
-Highest point: 1300m
-
-Punctures: 1
-
-Lost: 1 CamelBak in Denmark
+_      |_
+---------|--------
+Total mileage | 1774.8
+Fuel stops | 7
+Nights in a tent| 5
+Nights in a shed | 1
+Ferry crossings (exc. Harwich) | 6
+Average ferry cost (exc. Harwich) | 60kr (£5)
+Tunnels | dozens
+Daily Temperature (max/min) | 28°/7°
+Highest point | 1300m
+Punctures | 1
+Lost | 1 CamelBak in Denmark

@@ -5,15 +5,9 @@ layout: post
 date: 2016-06-03T10:30:33+00:00
 geo_latitude:
   - 54.9092748
-  - 54.9092748
-  - 54.9092748
 geo_longitude:
   - 9.8073405
-  - 9.8073405
-  - 9.8073405
 geo_public:
-  - 1
-  - 1
   - 1
 categories:
   - Arctic Roll

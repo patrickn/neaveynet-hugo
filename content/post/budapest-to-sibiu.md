@@ -16,4 +16,4 @@ Crossing into Romania, I stopped at the border to show my passport (first time s
 
 Turns out though, that half the autoroutes haven’t been built yet! You can be cruising along one minute, next the road is blocked off and you are diverted onto the old secondary routes. And some sections of autoroutes that have been built are a mystery to the sat nav, obviously recently opened.
 
-Anyway, I made it about 20:00, just in time for dinner and beer. I’m in a hotel right at the north end of the Transfăgărășan. Can’t wait for timorrow 😀.
+Anyway, I made it about 20:00, just in time for dinner and beer. I’m in a hotel right at the north end of the Transfăgărășan. Can’t wait for tomorrow 😀.
