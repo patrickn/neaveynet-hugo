@@ -3,8 +3,8 @@ go:
   - 1.4
 sudo: required
 install:
-  - go get github.com/patrickn/neaveynet-hugo
-script: hugo
+  - go get -v github.com/spf13/hugo
+script: hugo -t hugo-icarus-theme
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY
@@ -16,3 +16,6 @@ deploy:
   skip_cleanup: true
   on:
     repo: patrickn/neaveynet-hugo
+notifications:
+  email:
+    on_failure: always
