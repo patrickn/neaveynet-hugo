@@ -1,6 +1,6 @@
 # neavey.net
 
-![](https://travis-ci.org/patrickn/neaveynet-hugo)
+![](https://travis-ci.org/patrickn/neaveynet-hugo.svg?branch=master)
 
 This site has been generated with [Hugo](https://gohugo.io) using the [Icarus theme](https://github.com/digitalcraftsman/hugo-icarus-theme), and stored publicly here on Github. Updates are done on the go using a Git client, changes are then uploaded to Github where a [Travis CI](https://travis-ci.org/) job generates the site and deploys to Amazon S3.
 
