@@ -1,8 +1,6 @@
 # neavey.net
 
-Currently in development this will be my personal website, ported to [Hugo](https://gohugo.io) from Wordpress.
-
-This site has been generated [Hugo](https://gohugo.io) using the Icarus theme, and stored publicly here on Github. Updates are done on the go using a Git client, changes are then uploaded to Github where a Travis CI job generates the site and pushes the changes to Amazon.
+This site has been generated [Hugo](https://gohugo.io) using the [Icarus theme](https://github.com/digitalcraftsman/hugo-icarus-theme), and stored publicly here on Github. Updates are done on the go using a Git client, changes are then uploaded to Github where a [Travis CI](https://travis-ci.org/) job generates the site and pushes the changes to Amazon.
 
 The S3 site is behind Amazons CloudFront CDN, which enables the use of https.
 

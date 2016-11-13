@@ -1,0 +1,18 @@
+language: go
+go:
+  - 1.4
+sudo: required
+install:
+  - go get github.com/patrickn/neaveynet-hugo
+script: hugo
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: www.neavey.net
+  region: eu-west-1
+  endpoint: www.neavey.net.s3-website-eu-west-1.amazonaws.com
+  local-dir: public
+  skip_cleanup: true
+  on:
+    repo: patrickn/neaveynet-hugo
