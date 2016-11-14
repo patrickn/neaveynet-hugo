@@ -17,4 +17,4 @@ tags:
   - Malta
 
 ---
-There will now be a short interlude (cue music). I have arrived in Pozzallo to get the catamaran to Malta. There I wil be spending 2 weeks holiday with family. Just sea, sand and beer.&nbsp;
+There will now be a short interlude (cue music). I have arrived in Pozzallo to get the catamaran to Malta. There I wil be spending 2 weeks holiday with family. Just sea, sand and beer.

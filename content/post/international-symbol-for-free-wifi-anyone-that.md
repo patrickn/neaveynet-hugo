@@ -2,6 +2,7 @@
 title: International symbol for free WiFi
 author: patrick
 layout: post
+banner: /img/2015//07/IMG_1876-cropped.jpg
 date: 2015-07-13T22:22:27+00:00
 categories:
   - Hungarian Tour
