@@ -11,8 +11,8 @@ footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 
 
-[permalinks]
-    post = "/:year/:month/:day/:slug"
+# [permalinks]
+#     post = "/:year/:month/:day/:slug"
 
 
 [params]
@@ -21,7 +21,7 @@ theme = "hugo-icarus-theme"
     location = "Bristol, UK"
     #site_description = "Site Description"
     copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
-    avatar = "/css/images/logo.png"
+    avatar = "css/images/logo.png"
     #logo = "css/images/logo.png"
 
     # Format dates with Go's time formatting

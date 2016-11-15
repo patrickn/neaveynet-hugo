@@ -22,7 +22,7 @@ After wandering around the harbour in Bari I spent the rest of the afternoon sle
 
 I was now 1 of 7, 4 bikes and a car, and after brief hellos and introductions we were heading out of Bari on the A14 in the general direction of Taranto. It was already starting to get dark and we hadn't gone far before stopping for something to eat near a small village called Casamassima. It was too late to continue so whilst the car and three passengers searched for a hotel or B&B, we decided to do a spot of wild camping. Only what seemed to be a quiet, secluded spot when we stopped soon turned out to be one of the busiest roads in southern Italy when trying to sleep.
 
-Early the next morning we continued en route to Taranto. We were just the 4 bikes and arranged to meet up with the car later. After riding solo for so long it was great to be in a group. We spent the next few days exploring southern Italy, from Taranto &nbsp;we followed the coast road around to Policoro where we rented a cabin near the beach for a night.
+Early the next morning we continued en route to Taranto. We were just the 4 bikes and arranged to meet up with the car later. After riding solo for so long it was great to be in a group. We spent the next few days exploring southern Italy, from Taranto we followed the coast road around to Policoro where we rented a cabin near the beach for a night.
 
 Then it was across to the west coast and a town called Paola, before heading south to Reggio di Calabria to catch the ferry to Sicily. We were taking a relaxed pace, spending a few hours in the morning on the road then stopping for lunch on the beach and a mid afternoon swim, then a few more miles on the road before stopping for the night.
 
@@ -32,7 +32,7 @@ We took a small detour to see Mount Etna, and spent what seemed like ages ascend
 
 We just about made it to the car park at 1800m and the end of the road before it got dark, and whether it was the time of the year or the time of day the restaurant/bar/cafe was closed with no sign of life. When the road runs out the trail to the very top continues with black volcanic sand. This is very loose and I had a couple of near misses before deciding I was carrying too much weight to go any further. Marko was a good few meters ahead, but also decided it was probably a good idea to turn round and head back to asphalt.
 
-The next day it was time to say goodbye to the group, they were heading north to Palermo, I needed to go south to Pozzallo. I had a great few days with Marko and friends and hope we can ride together again. Perhaps you can show me around Montenegro sometime.  😄
+The next day it was time to say goodbye to the group, they were heading north to Palermo, I needed to go south to Pozzallo. I had a great few days with Marko and friends and hope we can ride together again. Perhaps you can show me around Montenegro sometime. 😄
 
 Big thanks to:
 
