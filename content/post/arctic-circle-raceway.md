@@ -22,7 +22,7 @@ Across the other side of the circuit I could see a car and signs of life so I we
 
 "Sure, we don't see anything.", one of the guys said.
 
-So I did, I rode back to the pit lane and out onto the track. I was taking it easy to start as I didn't know the track and didn't want to go too mad. It was difficult to hold back on the straights though, however the straights are quite short and it's not long before you hit another bend.&nbsp;
+So I did, I rode back to the pit lane and out onto the track. I was taking it easy to start as I didn't know the track and didn't want to go too mad. It was difficult to hold back on the straights though, however the straights are quite short and it's not long before you hit another bend.
 
 On the second lap I was a bit faster. If I could have stayed longer I am sure my lap times would have improved. 😊
 

@@ -10,13 +10,7 @@ tags:
 format: gallery
 
 ---
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 <div id='gallery-2' class='gallery galleryid-8 gallery-columns-3 gallery-size-full'>
   <figure class='gallery-item'> 
