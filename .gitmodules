@@ -1,3 +1,4 @@
 [submodule "themes/hugo-icarus-theme"]
 	path = themes/hugo-icarus-theme
-	url = https://github.com/digitalcraftsman/hugo-icarus-theme.git
+	url = git@github.com:patrickn/hugo-icarus-theme.git
+  branch = fix_s3_double_slash
