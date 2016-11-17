@@ -9,7 +9,7 @@ googleAnalytics = "UA-87135551-2"
 paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
-
+enableRobotsTXT = true
 
 # [permalinks]
 #     post = "/:year/:month/:day/:slug"
