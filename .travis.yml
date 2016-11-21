@@ -4,7 +4,7 @@ go:
 sudo: required
 install:
   - go get github.com/spf13/hugo
-script: hugo -t hugo-icarus-theme
+script: hugo
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY
