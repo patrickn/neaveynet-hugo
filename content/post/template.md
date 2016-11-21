@@ -1,8 +1,9 @@
 +++
 title = "title"
-date = "2015-06-22T00:00:00-00:00"
+banner = "/img/201x/xx/IMG_.jpg"
+date = "2000-01-00T00:00:00-00:00"
 draft = true
-image = "img/" 
 tags = []
 categories = []
 +++
+

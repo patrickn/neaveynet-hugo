@@ -1,4 +1,4 @@
-baseurl = "https://www.neavey.net/"
+baseurl = "https://www.neavey.net"
 languageCode = "en-gb"
 title = "neavey.net - Adventure Miles"
 # Enable comments by entering your Disqus shortname
@@ -8,7 +8,7 @@ googleAnalytics = "UA-87135551-2"
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
+theme = "pn-hugo-icarus-theme"
 enableRobotsTXT = true
 
 # [permalinks]
