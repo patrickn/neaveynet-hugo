@@ -1,7 +1,8 @@
 ---
-title: To the rescue 
+title: To the rescue
 author: patrick
 layout: post
+banner: /img/2016/06/IMG_2472.jpg
 date: 2016-06-08T07:36:39+00:00
 geo_latitude:
   - 61.5185134043

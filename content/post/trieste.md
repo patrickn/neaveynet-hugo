@@ -9,8 +9,6 @@ geo_longitude:
   - 13.7785154
 geo_public:
   - 1
-travelify_sidebarlayout:
-  - default
 categories:
   - Arctic Roll
 tags:
@@ -25,38 +23,18 @@ Finding a little farmhouse hostel in Molini in the Province of Trento I booked i
 
 Last year I traversed Croatia from south to north, but somehow missed the Adriatic Coast Highway. Also, Marko, who I had originally arranged to meet in Italy was getting the ferry from Dubrovnik to Bari, Italy. Looking at the map I wasn't far from Trieste and the Croation border. Instead of riding south through Italy, I could ride down the Adriatic Coast Highway to Dubrovnik and get the ferry to Italy. So, that's how I ended up in Trieste.
 
-<div id='gallery-5' class='gallery galleryid-655 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3173.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3173-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3173" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3176.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3176-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3176" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3175-1.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3175-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3175" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3178.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3178-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3178" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon portrait'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3179-1.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3179-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3179" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3180.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3180-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3180" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3177.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3177-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3177" srcset="http://localhost/wordpress/wp-content/uploads/2016/07/img_3177-150x150.jpg 150w, http://localhost/wordpress/wp-content/uploads/2016/07/img_3177-300x300.jpg 300w, http://localhost/wordpress/wp-content/uploads/2016/07/img_3177-768x768.jpg 768w, http://localhost/wordpress/wp-content/uploads/2016/07/img_3177.jpg 960w" sizes="(max-width: 150px) 85vw, 150px" /></a>
-  </div></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://localhost/wordpress/wp-content/uploads/2016/07/img_3172-3.jpg'><img width="150" height="150" src="http://localhost/wordpress/wp-content/uploads/2016/07/img_3172-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="img_3172" /></a>
-  </div></figure>
-</div>
+![Boats...](/img/2016/07/img_3173.jpg)
+
+![Walking towards the main square](/img/2016/07/img_3176.jpg)
+
+![...boats...](/img/2016/07/img_3175.jpg)
+
+![Main square by day](/img/2016/07/img_3178.jpg)
+
+![Lots of these narrow alleyways](/img/2016/07/img_3179.jpg)
+
+![Main square by night](/img/2016/07/img_3180.jpg)
+
+![The beer I ordered, the rest was complimentary](/img/2016/07/img_3177.jpg)
+
+![...and more boats](/img/2016/07/IMG_3158.jpg)

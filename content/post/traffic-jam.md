@@ -2,6 +2,7 @@
 title: Traffic jam
 author: patrick
 layout: post
+banner: /img/2016/06/IMG_2455.jpg
 date: 2016-06-06T19:51:06+00:00
 geo_latitude:
   - 60.7257019601
