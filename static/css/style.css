@@ -340,7 +340,7 @@ code {
 }
 #header a,
 #header a:visited {
-  white-space: nowrap;
+  /* white-space: nowrap; */
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
   -ms-transition: 0.2s ease;
