@@ -1667,6 +1667,10 @@ ol.toc {
   line-height: 1.6em;
   font-size: 0.85em;
 }
+#footer-info img {
+  width: 88px;
+  height: 31px;
+}
 @media screen and (min-width: 1200px) {
   #sidebar {
     display: inline;
