@@ -2,7 +2,7 @@
 title: Transfăgărășan
 author: patrick
 layout: post
-banner: /img/2015/07/Transfăgărășan-1018.460.jpg
+banner: /img/2015/07/Transfagarasan-1018.460.jpg
 date: 2015-07-19T22:27:18+00:00
 geo_latitude:
   - 45.4532545
