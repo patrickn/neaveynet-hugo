@@ -1668,6 +1668,7 @@ ol.toc {
   font-size: 0.85em;
 }
 #footer-info img {
+  vertical-align: -10px;
   width: 88px;
   height: 31px;
 }
