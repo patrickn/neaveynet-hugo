@@ -1,0 +1,91 @@
++++
+description = "Route Map"
+title = "Route Map"
+disable_comments = true
+disable_profile = true
+disable_widgets = true
+type = "page"
+layout = "routemap"
++++
+  <article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+      <header class="article-header">
+        <a href="https://www.neavey.net/post/2016/11/27/menu-test1">
+          <h1 class="article-title" itemprop="name">Route Map</h1>
+        </a>
+      </header>
+      <div class="article-entry" itemprop="articleBody">
+      <p>
+        Note: This page is still in development so may not function as expected.
+
+        <br />
+        To see the actual routes taken for some of my journeys select the tour from the menu at the top
+        right corner of the map.
+      </p>
+    </div>
+  </article>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css"/>
+  <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+  <script src="https://rawgithub.com/mpetazzoni/leaflet-gpx/master/gpx.js"></script>
+
+  <div id="map" style="width: 100%; height: 500px"></div>
+
+  <script>
+    var morocco = new L.LayerGroup();
+    var hungary = new L.LayerGroup();
+    var arctic = new L.LayerGroup();
+
+    var osmLink = '<a href="https://openstreetmap.org">OpenStreetMap</a>',
+        thunLink = '<a href="https://thunderforest.com/">Thunderforest</a>';
+
+    var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        osmAttrib = '&copy; ' + osmLink + ' Contributors',
+        landUrl = 'https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png',
+        thunAttrib = '&copy; '+osmLink+' Contributors & '+thunLink;
+
+    var osmMap = L.tileLayer(osmUrl, {attribution: osmAttrib}),
+        landMap = L.tileLayer(landUrl, {attribution: thunAttrib});
+
+    var map = L.map('map', {
+			layers: [osmMap] // only add one!
+		}).setView([51.4545, -2.5879], 8);
+
+		var baseLayers = {
+			"Standard": osmMap,
+			"Terrain": landMap
+		};
+
+		var overlays = {
+	    "Wrong Direction": morocco,
+	    "Hungarian Tour": hungary,
+	    "Arctic Roll": arctic,
+    };
+
+    new L.GPX('/map/gpx/Morocco.gpx', {
+      async: true,
+      gpx_options: {
+        parseElements: ['track', 'route', 'waypoint']
+      }
+    }).addTo(morocco);
+
+    new L.GPX('/map/gpx/Hungary.gpx', {
+      async: true,
+      gpx_options: {
+        parseElements: ['track', 'route', 'waypoint']
+      }
+    }).addTo(hungary);
+
+	L.control.layers(baseLayers, overlays).addTo(map);
+
+  map.scrollWheelZoom.disable();
+  map.on('click', function() {
+    if (map.scrollWheelZoom.enabled()) {
+      map.scrollWheelZoom.disable();
+    }
+    else {
+      map.scrollWheelZoom.enable();
+    }
+  });
+
+  </script>

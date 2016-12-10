@@ -54,6 +54,12 @@ enableRobotsTXT = true
   label  = "Categories"
   link   = "categories/"
 
+[[params.menu]]
+  before = false
+  label  = "Route Map"
+  link   = "map/"
+
+
 # Enter a link for the follow button on the left
 [params.profile]
   follow_button = "https://twitter.com/Neavey"
