@@ -13,8 +13,8 @@ enableRobotsTXT = true
 
 
 [permalinks]
-  post = "/post/:year/:month/:day/:slug"
-
+  post = "/:year/:month/:day/:slug"
+  #page = "/:slug/"
 
 [params]
   author = "Adventure Miles"
