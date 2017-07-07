@@ -3,7 +3,7 @@ title: Two things to remember
 author: patrick
 layout: post
 banner: /img/2017/07/dover-boarding.jpg
-date: {{ now }}
+date: {{ time now }}
 geo_longitude:
   - 7.600016
 geo_latitude:
