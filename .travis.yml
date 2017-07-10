@@ -4,7 +4,9 @@ go:
 sudo: required
 install:
   - go get github.com/spf13/hugo
-script: hugo -v
+script: 
+  git submodule update --init --recursive
+  hugo -v
 deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY
