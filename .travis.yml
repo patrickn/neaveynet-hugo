@@ -4,8 +4,7 @@ go:
 sudo: required
 install:
   - go get github.com/spf13/hugo
-script: 
-  - git submodule update --init --recursive
+script:
   - hugo -v
 deploy:
   provider: s3

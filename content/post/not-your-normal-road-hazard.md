@@ -3,7 +3,7 @@ title: Not your normal road hazard
 author: patrick
 layout: post
 banner: /img/2017/07/sinkhole.jpg
-date: "2017-07-06"
+date: 2017-07-06T12:14:10+00:00
 geo_longitude:
   - 11.094248
 geo_latitude:
