@@ -3,7 +3,7 @@ go:
   - 1.8.x
 sudo: required
 install:
-  - go get github.com/spf13/hugo
+  - go get github.com/gohugoio/hugo.git
 script:
   - hugo -v
 deploy:
