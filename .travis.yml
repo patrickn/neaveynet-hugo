@@ -5,6 +5,7 @@ sudo: required
 install:
   - go get github.com/spf13/hugo
 script:
+  - hugo version
   - hugo -v
 deploy:
   provider: s3
