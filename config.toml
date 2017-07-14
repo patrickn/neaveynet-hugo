@@ -26,7 +26,7 @@ enableRobotsTXT = true
   #logo = "css/images/logo.png"
 
   # Format dates with Go's time formatting
-  date_format = "02-01-2006"
+  date_format = "2006-01-02"
 
   # Add custom assets with their paths relative to the static folder
 	custom_css = []
