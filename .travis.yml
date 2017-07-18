@@ -2,6 +2,8 @@ language: go
 go:
   - 1.8.x
 sudo: required
+before_install:
+  - git submodule update --init --recursive
 install:
   - go get github.com/spf13/hugo
 script:
