@@ -1,7 +1,6 @@
 ---
 title: Arctic Circle Raceway
 author: patrick
-layout: post
 banner: /img/2016/06/img_2686.jpg
 date: 2016-06-14T23:05:41+00:00
 categories:

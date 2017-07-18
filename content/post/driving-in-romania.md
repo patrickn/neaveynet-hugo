@@ -1,7 +1,6 @@
 ---
 title: Driving in Romania
 author: patrick
-layout: post
 date: 2015-07-19T09:15:10+00:00
 categories:
   - Hungarian Tour

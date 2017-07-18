@@ -1,7 +1,6 @@
 ---
 title: Pictures from Italy
 author: patrick
-layout: post
 banner: /img/2016/08/img_3474.jpg
 date: 2016-08-01T22:33:33+00:00
 categories:

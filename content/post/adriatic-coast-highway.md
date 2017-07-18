@@ -1,7 +1,6 @@
 ---
 title: Adriatic Coast Highway
 author: patrick
-layout: post
 date: 2016-07-19T12:55:29+00:00
 geo_longitude:
   - 15.2422222

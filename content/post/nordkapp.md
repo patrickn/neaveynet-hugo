@@ -1,7 +1,6 @@
 ---
 title: Nordkapp
 author: patrick
-layout: post
 banner: /img/2016/06/_DSC2106.jpg
 date: 2016-06-20T07:50:52+00:00
 geo_longitude:

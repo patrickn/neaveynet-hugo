@@ -1,7 +1,6 @@
 ---
 title: Trieste
 author: patrick
-layout: post
 date: 2016-07-06T19:46:30+00:00
 geo_latitude:
   - 45.6535974

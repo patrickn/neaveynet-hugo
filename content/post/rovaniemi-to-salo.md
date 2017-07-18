@@ -1,7 +1,6 @@
 ---
 title: Rovaniemi to Salo
 author: patrick
-layout: post
 banner: /img/2016/06/img_2873.jpg
 date: 2016-06-23T10:52:50+00:00
 geo_latitude:

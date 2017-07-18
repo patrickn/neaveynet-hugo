@@ -1,7 +1,6 @@
 ---
 title: Thanks for the comments
 author: patrick
-layout: post
 date: 2016-06-21T08:07:41+00:00
 categories:
   - Arctic Roll

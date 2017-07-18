@@ -1,7 +1,6 @@
 ---
 title: Final Stats
 author: patrick
-layout: post
 date: 2016-08-09T13:16:50+00:00
 categories:
   - Arctic Roll

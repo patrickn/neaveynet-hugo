@@ -1,7 +1,6 @@
 ---
 title: Rovaniemi 
 author: patrick
-layout: post
 banner: /img/2016/06/img_2867.jpg
 date: 2016-06-22T18:06:03+00:00
 geo_latitude:

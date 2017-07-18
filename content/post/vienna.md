@@ -1,7 +1,6 @@
 ---
 title: Vienna
 author: patrick
-layout: post
 date: 2015-07-13T13:37:41+00:00
 categories:
   - Hungarian Tour

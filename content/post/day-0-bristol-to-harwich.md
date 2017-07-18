@@ -1,7 +1,6 @@
 ---
 title: Day 0 – Bristol to Harwich
 author: patrick
-layout: post
 date: 2016-05-31T21:42:54+00:00
 geo_public:
   - 1

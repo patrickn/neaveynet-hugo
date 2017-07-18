@@ -1,7 +1,6 @@
 ---
 title: Budapest to Sibiu
 author: patrick
-layout: post
 date: 2015-07-17T19:16:48+00:00
 categories:
   - Hungarian Tour

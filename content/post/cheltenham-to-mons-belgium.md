@@ -1,7 +1,6 @@
 ---
 title: Cheltenham to Mons (Belgium)
 author: patrick
-layout: post
 date: 2015-07-10T22:03:06+00:00
 categories:
   - Hungarian Tour

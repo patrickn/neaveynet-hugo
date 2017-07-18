@@ -1,7 +1,6 @@
 ---
 title: Fact of the day
 author: patrick
-layout: post
 banner: /img/2016/06/IMG_2343.jpg
 date: 2016-06-03T10:30:33+00:00
 geo_latitude:

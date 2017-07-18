@@ -1,7 +1,6 @@
 ---
 title: Through Holland and into Germany
 author: patrick
-layout: post
 banner: /img/2016/06/img_2326.jpg
 date: 2016-06-02T10:53:39+00:00
 geo_latitude:

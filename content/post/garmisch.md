@@ -1,7 +1,6 @@
 ---
 title: Garmisch
 author: patrick
-layout: post
 banner: /img/2016/07/img_3092.jpg
 date: 2016-07-03T10:22:56+00:00
 geo_latitude:

@@ -1,7 +1,6 @@
 ---
 title: Tallinn, Estonia to Białystok, Poland via Latvia and Lithuania
 author: patrick
-layout: post
 banner: /img/2016/06/IMG_2911.jpg
 date: 2016-06-28T10:29:34+00:00
 geo_latitude:

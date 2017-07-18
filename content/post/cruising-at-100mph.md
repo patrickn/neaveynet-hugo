@@ -1,7 +1,6 @@
 ---
 title: Cruising at 100mph
 author: patrick
-layout: post
 date: 2015-07-11T18:25:57+00:00
 categories:
   - Hungarian Tour

@@ -1,7 +1,6 @@
 ---
 title: Belgrade and biker parties
 author: patrick
-layout: post
 date: 2015-07-20T06:36:13+00:00
 categories:
   - Hungarian Tour

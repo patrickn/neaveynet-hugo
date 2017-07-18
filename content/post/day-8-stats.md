@@ -1,7 +1,6 @@
 ---
 title: Day 8 Stats
 author: patrick
-layout: post
 date: 2016-06-08T20:17:24+00:00
 geo_latitude:
   - 62.3945285893

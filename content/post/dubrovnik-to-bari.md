@@ -1,7 +1,6 @@
 ---
 title: Dubrovnik to Bari
 author: patrick
-layout: post
 date: 2016-07-30T12:30:42+00:00
 geo_longitude:
   - 18.1064849

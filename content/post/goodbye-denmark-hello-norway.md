@@ -1,7 +1,6 @@
 ---
 title: Goodbye Denmark, hello Norway
 author: patrick
-layout: post
 banner: /img/2016/06/img_2354-1.jpg
 date: 2016-06-05T15:07:56+00:00
 geo_latitude:

@@ -1,7 +1,6 @@
 ---
 title: First stop…
 author: patrick
-layout: post
 banner: /img/2016/06/IMG_2313.jpg
 date: 2016-06-01T07:41:49+00:00
 geo_public:

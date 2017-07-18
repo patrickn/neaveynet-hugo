@@ -1,7 +1,6 @@
 ---
 title: Warsaw, wow!
 author: patrick
-layout: post
 banner: /img/2016/06/img_3038.jpg
 date: 2016-06-29T12:14:10+00:00
 geo_latitude:

@@ -1,7 +1,6 @@
 ---
 title: Plitvice Lakes National Park
 author: patrick
-layout: post
 banner: img/2015/07/IMG_1996.jpg
 date: 2015-07-22T19:21:27+00:00
 geo_latitude:

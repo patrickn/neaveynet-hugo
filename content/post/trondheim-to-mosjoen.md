@@ -1,7 +1,6 @@
 ---
 title: Trondheim to Mosjøen
 author: patrick
-layout: post
 banner: /img/2016/06/IMG_2595.jpg
 date: 2016-06-14T22:43:18+00:00
 geo_latitude:

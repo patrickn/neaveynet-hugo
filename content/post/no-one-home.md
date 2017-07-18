@@ -1,7 +1,6 @@
 ---
 title: No one home
 author: patrick
-layout: post
 date: 2015-07-13T22:03:08+00:00
 categories:
   - Hungarian Tour

@@ -1,7 +1,6 @@
 ---
 title: Hungarian Tour
 author: patrick
-layout: post
 date: 2015-07-01T11:52:02+00:00
 categories:
   - Hungarian Tour

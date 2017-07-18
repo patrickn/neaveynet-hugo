@@ -1,7 +1,6 @@
 ---
 title: Vignette Matrica
 author: patrick
-layout: post
 banner: /img/2015/07/IMG_1874.jpg
 date: 2015-07-13T22:08:56+00:00
 categories:

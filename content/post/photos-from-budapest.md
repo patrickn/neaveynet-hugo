@@ -1,7 +1,6 @@
 ---
 title: Photos from Budapest
 author: patrick
-layout: post
 date: 2015-07-15T06:34:26+00:00
 categories:
   - Hungarian Tour

@@ -1,7 +1,6 @@
 ---
 title: Romania
 author: patrick
-layout: post
 banner: /img/2015/07/IMG_0015.jpg
 date: 2015-07-17T19:27:02+00:00
 categories:

@@ -1,7 +1,6 @@
 ---
 title: Fossbakken to Alta
 author: patrick
-layout: post
 banner: /img/2016/06/img_2771.jpg
 date: 2016-06-18T18:12:58+00:00
 geo_latitude:

@@ -1,7 +1,6 @@
 ---
 title: Lángos
 author: patrick
-layout: post
 banner: /img/2015/07/IMG_1892.jpg
 date: 2015-07-17T18:59:41+00:00
 categories:

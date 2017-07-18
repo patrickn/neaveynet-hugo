@@ -1,7 +1,6 @@
 ---
 title: That’s all folks
 author: patrick
-layout: post
 banner: /img/2016/08/IMG_3536.jpg
 date: 2016-08-04T11:04:09+00:00
 categories:

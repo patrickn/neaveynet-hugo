@@ -1,7 +1,6 @@
 ---
 title: Some People Never Learn
 author: patrick
-layout: post
 date: 2016-08-04T10:41:47+00:00
 banner: /img/2016/08/IMG_3525.jpg
 categories:

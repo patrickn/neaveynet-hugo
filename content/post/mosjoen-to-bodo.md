@@ -1,7 +1,6 @@
 ---
 title: Mosjøen to Bodø
 author: patrick
-layout: post
 date: 2016-06-14T22:44:52+00:00
 geo_latitude:
   - 67.2885010059

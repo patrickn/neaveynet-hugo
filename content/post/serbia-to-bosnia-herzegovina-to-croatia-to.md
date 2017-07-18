@@ -1,7 +1,6 @@
 ---
 title: 'Serbia to Bosnia & Herzegovina to Croatia to Bosnia & Herzegovina to Crotia'
 author: patrick
-layout: post
 banner: /img/2015/07/IMG_1989.jpg
 date: 2015-07-21T19:03:20+00:00
 categories:

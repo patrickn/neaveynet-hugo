@@ -1,7 +1,6 @@
 ---
 title: If you need a tunnel, call a Norwegian
 author: patrick
-layout: post
 banner: /img/2016/06/img_2467.jpg
 date: 2016-06-06T19:04:47+00:00
 geo_latitude:

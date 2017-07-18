@@ -1,7 +1,6 @@
 ---
 title: Sudden tyre deflation event
 author: patrick
-layout: post
 banner: /img/2016/06/img_2584.jpg
 date: 2016-06-10T17:45:15+00:00
 geo_public:

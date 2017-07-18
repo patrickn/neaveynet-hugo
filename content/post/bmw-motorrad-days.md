@@ -1,7 +1,6 @@
 ---
 title: BMW Motorrad Days
 author: patrick
-layout: post
 date: 2016-07-04T19:54:50+00:00
 geo_latitude:
   - 47.4822692768

@@ -1,7 +1,6 @@
 ---
 title: Home of the worlds longest pigging operation
 author: patrick
-layout: post
 banner: /img/2016/06/IMG_2559.jpg
 date: 2016-06-09T16:48:09+00:00
 geo_latitude:

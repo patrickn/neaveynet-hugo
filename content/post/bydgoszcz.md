@@ -1,7 +1,6 @@
 ---
 title: Bydgoszcz
 author: patrick
-layout: post
 banner: /img/2016/07/IMG_3020.jpg
 date: 2016-07-01T11:50:18+00:00
 geo_latitude:

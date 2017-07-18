@@ -1,7 +1,6 @@
 ---
 title: One more night in Denmark
 author: patrick
-layout: post
 banner: /img/2016/06/img_2352-1.jpg
 date: 2016-06-03T22:07:29+00:00
 geo_latitude:

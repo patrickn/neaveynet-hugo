@@ -1,7 +1,6 @@
 ---
 title: Ich liebe es™
 author: patrick
-layout: post
 banner: /img/2016/06/IMG_2322.jpg
 date: 2016-06-02T21:07:08+00:00
 geo_public:

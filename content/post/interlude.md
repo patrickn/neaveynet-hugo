@@ -1,7 +1,6 @@
 ---
 title: Interlude
 author: patrick
-layout: post
 banner: /img/2016/08/img_3507.jpg
 date: 2016-08-03T07:05:27+00:00
 geo_latitude:

@@ -1,7 +1,6 @@
 ---
 title: Helsinki
 author: patrick
-layout: post
 banner: /img/2016/06/IMG_2854.jpg
 date: 2016-06-23T11:56:27+00:00
 geo_latitude:

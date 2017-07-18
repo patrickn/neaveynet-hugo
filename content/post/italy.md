@@ -1,7 +1,6 @@
 ---
 title: Italy 
 author: patrick
-layout: post
 banner: /img/2016/07/img_3409.jpg
 date: 2016-07-31T16:55:31+00:00
 geo_longitude:

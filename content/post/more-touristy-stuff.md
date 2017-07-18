@@ -1,7 +1,6 @@
 ---
 title: More touristy stuff
 author: patrick
-layout: post
 date: 2015-07-16T19:20:13+00:00
 categories:
   - Hungarian Tour

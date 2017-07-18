@@ -1,7 +1,6 @@
 ---
 title: Lofoton Isles
 author: patrick
-layout: post
 banner: /img/2016/06/img_2748.jpg
 date: 2016-06-16T18:08:51+00:00
 geo_latitude:

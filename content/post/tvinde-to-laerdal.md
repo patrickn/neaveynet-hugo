@@ -1,7 +1,6 @@
 ---
 title: Tvinde to Lærdal
 author: patrick
-layout: post
 date: 2016-06-08T07:36:20+00:00
 geo_latitude:
   - 61.5185129727
