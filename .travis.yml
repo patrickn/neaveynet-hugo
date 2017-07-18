@@ -15,8 +15,8 @@ deploy:
   region: eu-west-1
   local-dir: public
   skip_cleanup: true
-  on:
-     branch: master
+#  on:
+#     branch: master
 #    repo: patrickn/neaveynet-hugo
 notifications:
   email:
