@@ -11,10 +11,15 @@ categories:
   - Sparta
 tags:
   - Germany
-
 ---
 
-There are two things to remember when arriving in France and heading east through Belgium. 1. Services on Belgium highways do not have ATM machines. 2. All the restrooms require 70€/c to use. 
+There are two things to remember when arriving in France and heading east through Belgium. 
+
+1. Services on Belgium highways do not have ATM machines. 
+
+2. All the restrooms require €0.70 to use. 
+
+<!--more-->
 
 At least there are plenty of trees. To make it worse I have a large pot of Euro cents sitting next to my TV. I got the 6:00pm ferry from Dover to Dunkirk and after a 2 hour crossing, hit the highway for Garmisch. It was after 12:00 when I stopped in a rest area for a sleep, and was away early this morning. Garmisch is about 5 hours away so I should easily make that for this evening. 
 
