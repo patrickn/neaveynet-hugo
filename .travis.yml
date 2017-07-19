@@ -2,6 +2,8 @@ language: go
 go:
   - 1.8.x
 sudo: required
+before_install:
+  - git submodule update --init --recursive
 install:
   - go get github.com/spf13/hugo
 script:
@@ -15,8 +17,8 @@ deploy:
   region: eu-west-1
   local-dir: public
   skip_cleanup: true
-  on:
-     branch: master
+#  on:
+#     branch: master
 #    repo: patrickn/neaveynet-hugo
 notifications:
   email:
