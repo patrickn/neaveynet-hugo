@@ -2,7 +2,7 @@
 title: Austria
 author: patrick
 banner: /img/2017/12/groebming-austria.jpeg
-date: 
+date: 19 July 2017 12:35:24
 geo_latitude:
   - 
 geo_longitude: 
