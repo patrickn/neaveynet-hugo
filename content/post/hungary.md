@@ -32,6 +32,6 @@ There are a lot of great camp sites in Hungary, especially in the tourist areas.
 
 I was heading for Baja, because I'd always wanted to go there and the fact that the Baja that I had always wanted to go to was in California didn't seem to matter at the time. So I found a hotel and checked in, just as a 19 strong group of Netherlands bikers were also trying to check in.  Surprisingly I managed to get a room and even decided to stay an extra night. There's not a lot going on in Baja, once you've walked around the centre and had an ice cream you've pretty much seen it all. There is quit a nice beach though, it's on a small tributary of the Danube.
 
-I did find a few small trails on my way through Hungary, I was also sent up a few dead ends by the satnav. I thinks the roads are changing fast round here. 
+I did find a few small trails on my way through Hungary, I was also sent up a few dead ends by the satnav. I think the roads are changing fast round here. 
 
 {{< youtube omYgTP0DUcU >}}
