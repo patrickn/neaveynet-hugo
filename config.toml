@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   author = "Adventure Miles"
-  bio = "Travelling the world, two weeks at a time."
+  bio = "Travelling the world, a few weeks at a time."
   location = "Bristol, UK"
   site_description = "Site Description"
   copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
