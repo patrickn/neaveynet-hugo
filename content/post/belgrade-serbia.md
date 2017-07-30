@@ -23,4 +23,4 @@ On Thursday I was invited to a cycle ride around Lake Ada in the centre of Belgr
 
 We had a quick planning meeting on the Friday evening where it was decided to leave Sunday morning and head south! So with planning over we drank more beer.
 
-Saturday nights entertainment was provided by a local biker club. They were staging a rock concert so we rode a few kilometres outside Belgrade to a field on the banks of the river Sava. It was a typical headbangers event, a lot of the men had longer and better conditioned hair than the women and the music was loud. On arrival we could see lightning in the distance and the evening was interrupted a couple of times by heavy showers. 
+Saturday nights entertainment was provided by a local biker club. They were staging a rock concert so we rode a few kilometres outside Belgrade to a field on the banks of the Danube. It was a typical headbangers event, a lot of the men had longer and better conditioned hair than the women and the music was loud. On arrival we could see lightning in the distance and the evening was interrupted a couple of times by heavy showers. 
