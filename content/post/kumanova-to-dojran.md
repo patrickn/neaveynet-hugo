@@ -1,5 +1,5 @@
 ---
-title: Sparta Tour - Kumanova to Dojran
+title: Kumanova to Dojran
 author: patrick
 banner: /img/2017/24/macedonia-veles.jpeg
 date: 2017-07-24

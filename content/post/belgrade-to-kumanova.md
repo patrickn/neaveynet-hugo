@@ -1,5 +1,5 @@
 ---
-title: Sparta Tour - Belgrade to Kumanova
+title: Belgrade to Kumanova
 author: patrick
 banner: /img/2017/23/day1-lake.jpeg
 date: 2017-07-23
