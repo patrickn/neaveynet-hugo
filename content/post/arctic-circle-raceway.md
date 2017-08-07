@@ -11,7 +11,7 @@ tags:
 ---
 Just north of Mo i Rana and 30km south of the Arctic Circle is the [Arctic Circle Raceway] the biggest race track in Norway.
 
-I can't see anybody about as I ride right up to the pit lane and was able to have a good luck around the pits. Apart from the main circuit there is a motocross and go-kart track, neither of which were in operation at the time.
+I can't see anybody about as I ride right up to the pit lane and was able to have a good look around the pits. Apart from the main circuit there is a motocross and go-kart track, neither of which were in operation at the time.
 
 ![](/img/2016/06/img_2707.jpg)
   
