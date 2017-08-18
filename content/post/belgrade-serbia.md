@@ -1,7 +1,7 @@
 ---
 title: Belgrade, Serbia
 author: patrick
-banner: /img/2017/20/belgrade-sunset.jpeg
+banner: /img/2017/07/20/belgrade-sunset.jpeg
 date: 2017-07-23
 geo_latitude:
   - 

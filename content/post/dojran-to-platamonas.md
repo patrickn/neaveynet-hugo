@@ -1,7 +1,7 @@
 ---
 title: Dojran to Platamonas
 author: patrick
-banner: /img/2017/25/platamonas-beach.jpeg
+banner: /img/2017/07/25/platamonas-beach.jpeg
 date: 2017-07-25
 geo_latitude:
   - 39.990958
@@ -15,7 +15,7 @@ tags:
 ---
 We were up before the sun this morning. 
 
-![Dojran lake at sunrise](/img/2017/25/dojran-sunrise.jpeg)
+![Dojran lake at sunrise](/img/2017/07/25/dojran-sunrise.jpeg)
 
 Packed up and ready to leave before 6:30am. How's that for planning. Everything was going so smoothly, we were finally in Greece. Then we had a problem. We had just been through a toll gate on the E75, me, Marko and Čiča were up ahead when we noticed Milos was missing. So we pulled into a nearby rest stop to wait, and waited and nothing. Čiča had a 2-way radio and was able to just about hear Milos through the static. He was stuck at the toll gate and his bike would not start.
 
@@ -23,7 +23,7 @@ The only way to get back was to carry on and turn around at the next junction, f
 
 The town was Platamonas, and we arrived just before siesta time. Luckily, a local scooter dealer had a new battery in stock that would fit. But it needed charging, and he was just about to close from 2:00pm until 5:00pm. Nothing for it, new battery was put on charge and we headed for the beach. 
 
-![Platamonas beach](/img/2017/25/platamonas-beach2.jpeg)
+![Platamonas beach](/img/2017/07/25/platamonas-beach2.jpeg)
 
 It must have been about 6:00pm when we left Platamonas, it had been a nice enough afternoon on the pebble beach swimming with the sea urchins but we needed to move on. We still didn't have anywhere to stay that night, I did look at a local campsite but to be honest I think I've seen more attractive refuse dumps to spend the night. So we carried on south.
 

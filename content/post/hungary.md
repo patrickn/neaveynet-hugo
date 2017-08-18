@@ -1,7 +1,7 @@
 ---
 title: Hungary
 author: patrick
-banner: /img/2017/17/baja-hungary.jpeg
+banner: /img/2017/07/17/baja-hungary.jpeg
 date: 2017-07-17
 geo_latitude:
   - 
@@ -20,13 +20,13 @@ I could tell I was in Hungary, firstly because the roads consisted of a kilometr
 
 The curvy route option was a bit more of a challenge for my satnav in Hungary. Surprisingly, so was the unpaved route option. With all those horse and carts you would think there would be trails everywhere, maybe there not even classed as roads. I didn't see any horse and carts though.
 
-![Forwards a few kilometres, backwards a few years](/img/2017/17/road-signs-hungary.jpeg)
+![Forwards a few kilometres, backwards a few years](/img/2017/07/17/road-signs-hungary.jpeg)
 
 I did see a lot of Hummers though, well three, but that was in the first two days of getting to Hungary and that's three more than I have seen anywhere else. 
 
 The main thing that struck me in Hungary was how cheap it was. The first night I found a camp site near Sopron and went for dinner next door at the  [Panoráma Étterem](https://g.co/kgs/p1BJTu). This was a really posh joint, and I felt slightly underdressed in my shorts and biker t-shirt, there were a couple of large groups obviously out for a good time. My three course meal including large beer and cold cherry soup starter came to just over £10. Even with the shitty £ it was good value. They had good wifi too, always a bonus.
 
-![Cold Cherry Soup](/img/2017/14/cold-cherry-soup-hungary.jpeg)
+![Cold Cherry Soup](/img/2017/07/14/cold-cherry-soup-hungary.jpeg)
 
 There are a lot of great camp sites in Hungary, especially in the tourist areas. For example, along Lake Balaton there are sites every couple of hundred metres and they all look very busy. Unfortunately I always managed to find those that were slightly lower down the scale, not that there was anything wrong with the sites I choose, they were very clean and tidy but they could have had better facilities. But then again, what do you expect for £5 a night. 
 

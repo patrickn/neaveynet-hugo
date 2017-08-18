@@ -1,7 +1,7 @@
 ---
 title: Belgrade to Kumanovo
 author: patrick
-banner: /img/2017/23/day1-lake.jpeg
+banner: /img/2017/07/23/day1-lake.jpeg
 date: 2017-07-23
 geo_latitude:
   - 
@@ -27,7 +27,7 @@ Bike and rider were both picked up and there was no damage to either.
 
 It was getting very dark by now and we rode into Kumanovo to find something to eat and somewhere to stay. Through the magic of booking.com Marko discovered an apartment in a tower block that was cheap and provided secure parking. We met the owner just around the corner and the deal was done, we unpacked, showered then went for a beer. 
 
-![Kumanovo, Macedonia](/img/2017/24/kumanovo-macedonia.jpeg) 
+![Kumanovo, Macedonia](/img/2017/07/24/kumanovo-macedonia.jpeg) 
 
 
 
