@@ -1,5 +1,5 @@
 ---
-title: Pyrgos to Molos
+title: Pyrgos to Thiva
 author: patrick
 banner: /img/2017/07/30/atalanti.jpeg
 date: 2017-07-30
