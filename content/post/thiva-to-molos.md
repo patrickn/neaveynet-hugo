@@ -2,7 +2,7 @@
 title: Thiva to Molos
 author: patrick
 banner: /img/2017/07/30/molos-beach.jpeg
-date: 2017-07-30
+date: 2017-07-31
 geo_latitude:
   - 38.823967
 geo_longitude: 
