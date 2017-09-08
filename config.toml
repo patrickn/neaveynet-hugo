@@ -21,7 +21,7 @@ enableRobotsTXT = true
   bio = "Travelling the world, a few weeks at a time."
   location = "Bristol, UK"
   site_description = "neavey.net - Adventure Miles"
-  copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
+  copyright  = "Powered by [Hugo](//gohugo.io). Theme by [Digitalcraftsman](https://themes.gohugo.io/hugo-icarus/)."
   avatar = "css/images/logo.png"
   #logo = "css/images/logo.png"
 
