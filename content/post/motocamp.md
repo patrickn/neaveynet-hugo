@@ -1,7 +1,7 @@
 ---
 title: Motocamp
 author: patrick
-banner: /img/2017/08/08/motocamp-club-house.jpeg
+banner: /img/2017/08/09/motocamp.jpeg
 date: 2017-08-08
 geo_latitude:
   - 43.037261
