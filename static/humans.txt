@@ -1,27 +1,12 @@
 /* TEAM */
 Me: Patrick
-Contact: hello [at] neavey.net
+Contact: patrick [at] neavey.net
 Twitter: @neavey
 From: Bristol, UK
 
 /* SITE */
-Last update: 2016/12/04
 Standards: HTML5, CSS3
 Components: Hugo (gohugo.io), Icarus Theme
 Software: BBEdit
-
- ,.-~-.,_,.-~-.,_,.-~-.,_,.-~-.,_,.-~-.,_,.-~-.,_,.-~-.,
-~                                                       ~
-                                    |~~~~|
-                                    |    |
-                                    |    |       __
-                                   @--OO--@    /'  `\
-                                    |  D |    /\-OO-/\
-                                    |    |   |_| *  |_|
-                                    /\__/\     \____/
-                                   /--\/--\     ||||
-                                  / _ ||   \    (|(|
-                                    \\//
-                                     ~~
 
 
