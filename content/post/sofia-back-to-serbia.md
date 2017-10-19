@@ -3,7 +3,6 @@ title: Sofia back to Serbia
 author: patrick
 banner: /img/2017/08/09/central-balkan-national-park-1.jpeg
 date: 2017-08-11
-draft: true
 geo_latitude:
   - 
 geo_longitude: 
@@ -22,7 +21,7 @@ There was a lot of low cloud still about but it was lifting and revealing some a
 
 After leaving the national park behind we continued westwards until mid-afternoon when we stopped for a drink and something to eat at a small cafe somewhere east of Sofia. By now, Davids trust in his bike had been restored and the two of them decided to head south west. I was heading due west to Sofia to get my bike serviced so it was time to say our goodbyes and split up.
 
-![National Park after the cloud lifted](/img/2017/08/09/central-balkan-national-park-2.jpeg)
+![And then the cloud lifted](/img/2017/08/09/central-balkan-national-park-2.jpeg)
 
 I crossed back into Serbia a couple of days later at a quiet, remote border near a small Bulgarian village named Vranje. Border crossings are generally hassle free and apart from the language barrier caused few problems so as I approached this one I was pretty relaxed. There were no other vehicles around and as I reached the barrier it lifted up, so I continued through. Sat on a bench to the left of the road was what I took to be the border officer. I was looking at him waiting for him to tell me to stop, or move, or show some evidence of being alive but none was forthcoming. I gave him the thumbs up and when he didn't respond I took that to mean ok, in typical understated border guard fashion, I mean he didn't tell me to stop so I slowly continued. What I more sensed than actually saw was [Frau Farbissina](https://en.wikipedia.org/wiki/Frau_Farbissina) running and waving out the door to the building behind me on the right, I heard her though;
 
