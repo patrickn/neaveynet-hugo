@@ -1,6 +1,7 @@
 ---
 title: BMW Motorrad Days
 author: patrick
+banner: /img/2016/07/img_3126.jpg
 date: 2016-07-04T19:54:50+00:00
 geo_latitude:
   - 47.4822692768
@@ -15,8 +16,9 @@ tags:
   - Germany
 
 ---
+A few images from BMW Motorrad Days in Garmisch, Germany 2016.
 
-![](/img/2016/07/img_3126.jpg)
+<!--more-->
 
 ![](/img/2016/07/img_3127.jpg)
 

@@ -1,6 +1,7 @@
 ---
 title: Dubrovnik to Bari
 author: patrick
+banner: /img/2016/07/IMG_3190.jpg
 date: 2016-07-30T12:30:42+00:00
 geo_longitude:
   - 18.1064849
@@ -18,8 +19,6 @@ tags:
 I arrived in Dubrovnik late afternoon to discover that the next ferry to Bari, Italy was not until 20:30 the next day. So I needed to find a room for the night. In the end, a room found me as there were plenty of locals touting for rooms at the ferry port. After looking a room over I took one right opposite the ferry port.
 
 Dubrovnik was quite interesting, I rode around the old walled city and walked along the harbour. There were all the usual tourist things, bars and restaurants. I had another variation of the scampi I tried last in Norway, this time it was whole and included with the knife and fork were what resembled pliers to help dismantle the shellfish.
-
-![](/img/2016/07/IMG_3190.jpg)
 
 ![](/img/2016/07/IMG_3193.jpg)
 

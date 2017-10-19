@@ -46,11 +46,6 @@ enableRobotsTXT = true
 
 [[params.menu]]
   before = false
-  label  = "Tags"
-  link   = "tags/"
-
-[[params.menu]]
-  before = false
   label  = "Categories"
   link   = "categories/"
 
