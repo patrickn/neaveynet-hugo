@@ -1,9 +1,8 @@
 ---
 title: Kosovo
 author: patrick
-banner: /img/2017/08/12/bear.jpg
+banner: /img/2017/08/12/bear.jpeg
 date: 2017-08-13
-draft: true
 geo_longitude:
     - 42.5939
 geo_latitude:
