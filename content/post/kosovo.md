@@ -16,7 +16,7 @@ Crossing the border into Kosovo from Serbia was painless unlike the stories I ha
 
 <!--more-->
 
-![My Kosovan Insurance document, looks good enough to frame](/img/2017/08/12/.jpg)
+![Kosovan Insurance document](/img/2017/08/12/insurance_certificate.jpeg)
 
 I was pleasantly surprised to discover that Kosovo uses the Euro, shows how much planning goes into this, and already had Euro so didn't need to immediately hunt down an ATM. One of the minor annoyances with travelling through so many countries is the mountain of small change in different currencies that accumulates. My tank bag was already rattling from Hungarian forints, Bulgarian levs and Serbian dinars. At least now I can separate out the Euro cents and make use of them.
 
