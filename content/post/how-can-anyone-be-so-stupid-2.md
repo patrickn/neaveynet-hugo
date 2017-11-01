@@ -1,8 +1,8 @@
 ---
 title: How Can Anyone Be So Stupid pt 2
 author: patrick
-banner:
-date: 2017-08-15T15:31:21+01:00
+banner: /img/2017/08/15/insurance_certificate-crop.jpeg
+date: 2017-10-15T15:31:21+01:00
 draft: true
 geo_longitude:
     - 42.5939
