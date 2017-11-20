@@ -1,5 +1,5 @@
 ---
-title: How Can Anyone Be So Stupid pt 1
+title: How Can Anyone Be So Stupid? pt 1
 author: patrick
 banner: /img/2017/08/15/keys.jpeg
 date: 2017-08-15T15:31:18+01:00

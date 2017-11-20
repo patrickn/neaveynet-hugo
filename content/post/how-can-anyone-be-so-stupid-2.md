@@ -1,5 +1,5 @@
 ---
-title: How Can Anyone Be So Stupid pt 2
+title: How Can Anyone Be So Stupid? pt 2
 author: patrick
 banner: /img/2017/08/15/insurance_certificate-crop.jpeg
 date: 2017-10-15T15:31:21+01:00
