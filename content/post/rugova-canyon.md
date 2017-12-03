@@ -2,7 +2,7 @@
 title: Rugova Canyon
 author: patrick
 banner: /img/2017/08/14/rugova-1.jpeg
-date: 2017-10-14T17:28:05Z
+date: 2017-08-14T17:28:05Z
 draft: true
 geo_longitude:
   - 42.692222
@@ -18,10 +18,10 @@ I eventually had to admit defeat and gave up looking for my keys, I guess it rea
 
 <!--more-->
 
-The whole place seems to be in a state of chaos, I don't know whether this is tourist season or it's always like this but there are cars and people everywhere. 
+The whole place seems to be in a state of chaos, I don't know whether this is tourist season or it's always like this but there are cars and people everywhere.
 
 
-[Rugova Canyon](https://en.wikipedia.org/wiki/Rugova_Canyon) is one of Europe's longest and deepest canyons at 16 miles long. 
+[Rugova Canyon](https://en.wikipedia.org/wiki/Rugova_Canyon) is one of Europe's longest and deepest canyons at 16 miles long.
 
 
 ![View from the Panorama Restaurant](/img/2017/08/14/rugova-2.jpeg)
