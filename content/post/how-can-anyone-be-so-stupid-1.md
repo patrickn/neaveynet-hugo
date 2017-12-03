@@ -1,5 +1,5 @@
 ---
-title: How Can Anyone Be So Stupid? pt 1
+title: How can anyone be so stupid? pt 1
 author: patrick
 banner: /img/2017/08/14/keys.jpeg
 date: 2017-08-14T15:31:18+01:00
@@ -20,7 +20,7 @@ One of the favourite features of my bike is the keyless ignition. It means I nev
 
 My ignition key stays in my pocket all the time, but on the same keyring are my two luggage keys so I need to take the key out to unlock or lock my luggage to the bike. That's OK, use the keys then put them straight away. Of course what you shouldn't do is balance the keys on the rear of the bike on top of a tail bag and ride off, that would be stupid!
 
-Which of course is just what I did do. Considering the ignition key must be very close (within about 1.5 metres) to the receiver I got quite a long way. It wasn't until a few kilometres down the road that the orange warning light alerted me to the fact that I had lost my keys. They must have sat on my tail bag enjoying the ride for some distance before jumping off. 
+Which of course is just what I did do. Considering the ignition key must be very close (within about 1.5 metres) to the receiver I got quite a long way. It wasn't until a few kilometres down the road that the orange warning light alerted me to the fact that I had lost my keys. They must have sat on my tail bag enjoying the ride for some distance before jumping off.
 
 I rode or walked backwards and forwards along that route for 2 or 3 hours looking for my keys but never did find them. I left my contact details at the hotel just in case they were handed in, asked anyone I saw walking the road, using the international hand signal for 'key', in case they had spotted anything but eventually had to give up.
 
