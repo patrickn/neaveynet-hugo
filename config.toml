@@ -71,6 +71,7 @@ enableRobotsTXT = true
   facebook        = "pneave"
   twitter         = "neavey"
   humans          = "humans.txt"
+  security        = "security.txt"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
