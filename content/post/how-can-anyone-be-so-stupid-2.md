@@ -3,7 +3,6 @@ title: How can anyone be so stupid? pt 2
 author: patrick
 banner: /img/2017/08/15/insurance_certificate-crop.jpeg
 date: 2017-08-15T15:31:21+01:00
-draft: true
 geo_longitude:
     - 42.5939
 geo_latitude:
