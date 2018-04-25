@@ -2,7 +2,7 @@ baseurl = "https://www.neavey.net"
 languageCode = "en-gb"
 title = "neavey.net - Adventure Miles"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "neaveynet"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-87135551-2"
 # Define the number of posts per page
