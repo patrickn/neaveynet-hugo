@@ -18,4 +18,4 @@ tags:
 
 ![Home for the weekend, the tent not the hut](/img/2017/08/27/tent-montenegro.jpeg)
 
-![Quick rest stop on one of the many trails](/img/2017/08/25/reststop-montenegro.jpeg)
+![Quick rest stop on one of the trails](/img/2017/08/25/reststop-montenegro.jpeg)
