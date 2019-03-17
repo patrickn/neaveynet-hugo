@@ -29,7 +29,7 @@ Being fairly remote there wasn't much going on along the road, however I did see
 
 The worst section of road was only about 30km but it took about one and a half hours to reach the Koman Hydroelectric Power Station at this end of the lake. After following a very dark and damp single track tunnel through the mountain for about half a kilometre I reached a dead end at the lake shore. There was no more road, and the only way to continue was by ferry.
 
-
+It was late afternoon and the ferry took 3 hours there and 3 hours back so I wasn't going to do that today. I retraced my track back through the tunnel to a small bar a couple of kms away and had a drink and salad whilst I decided what to do next. I'd noticed a campsite across the road, so after taking a quick look pitched my tent and went to look for beer. 
 
 ![Amazing picturesque canyon](/img/2017/08/20/komani-albania-1.jpeg)
 

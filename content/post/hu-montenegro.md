@@ -14,6 +14,14 @@ tags:
   - Montenegro
 ---
 
+Driving through Kolasin you could be in the Alps, little wooden houses adorn both sides of the road. The houses start to thin out a bit and it's not long until there are just trees. Riding along the narrow road I pass some pretty serious looking construction traffic travelling in both directions, and the road surface starts to deteriorate slightly. It's not long before I come across the reason for the construction traffic, as the road opens out into what looks like a quarry. It's about the size of a football pitch with one or two big lorries and diggers scattered about. 
+
+<!--more-->
+
+I think I must have missed a turning somewhere, but the directions I have been given and my satnav both indicate this is correct. Opposite, I can see what looks like the continuation of the road disappearing through the trees and up into the mountains and so take the most direct route, across the middle of the quarry towards it. Weaving around and between the odd lorry or tractor as I go. 
+
+The road is nothing more than gravel single track at this point with the occasional muddy puddle or lorry to add a bit of excitement. I can't see much as the road has been cut straight through the forest and large trees block the view on both sides. Coming to a T junction I notice a small Horizons Unlimited sticker and an arrow urging me onwards, at least I know I am on the right track. 
+
 ![Campsite in the Montenegrin Mountains near Kolasin](/img/2017/08/27/campsite-montenegro.jpeg)
 
 ![Home for the weekend, the tent not the hut](/img/2017/08/27/tent-montenegro.jpeg)
