@@ -3,7 +3,6 @@ title: Lake Komani
 author: patrick
 banner: /img/2017/08/20/komani-albania.jpeg
 date: 2017-08-20T19:46:44Z
-draft: true
 geo_longitude:
   - 19.8173
 geo_latitude:
@@ -32,6 +31,10 @@ The worst section of road was only about 30km but it took about one and a half h
 It was late afternoon and the ferry took 3 hours there and 3 hours back so I wasn't going to do that today. I retraced my track back through the tunnel to a small bar a couple of kms away and had a drink and salad whilst I decided what to do next. I'd noticed a campsite across the road, so after taking a quick look pitched my tent and went to look for beer. 
 
 ![Amazing picturesque canyon](/img/2017/08/20/komani-albania-1.jpeg)
+
+Leaving my bike at the campsite, I got a lift the short distance back to the ferry port along with some other campers. We negotiated our way onto the ferry and after a short wait, were heading along the river Drin. Putting aside all the plastic bottles and other rubbish in the river it was quite picturesque. The ferry moved slowly along the river so there was plenty of time to take it all in and there were hardly any signs of life along the banks apart from the occasional fisherman or farmer or glimpse of a road running along the ledge.
+
+There are no facilities on the ferry so there is nothing to do apart from watch the scenery go by, so after three hours it's quite a relief to arrive at Fierza and land. Except, there is just as little here, just a ferry jetty. Some of the passengers leave and continue their journey onwards but most just wait for the ferry back. 
 
 ![The ferry snakes along the River Drin to Fierza about three hours away](/img/2017/08/20/komani-albania-2.jpeg)
 
