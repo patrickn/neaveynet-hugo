@@ -22,7 +22,13 @@ I think I must have missed a turning somewhere, but the directions I have been g
 
 The road is nothing more than gravel single track at this point with the occasional muddy puddle or lorry to add a bit of excitement. I can't see much as the road has been cut straight through the forest and large trees block the view on both sides. Coming to a T junction I notice a small Horizons Unlimited sticker and an arrow urging me onwards, at least I know I am on the right track. 
 
+After some tight switchbacks and very muddy ruts, made all the worse by the construction traffic driving up and down, I see what looks like a campsite. Then I spot an enormous 'Horizons Unlimited' poster and I know I am in the right place.
+
+Pulling up I'm quickly met by XXXX and YYYY the organisers, they point me towards a clearing to pitch my tent, tell me about the facilities and show me where the free beer is. Free beer!! all included in the registration fee, and cooled with genuine mountain water in a bucket next to the kitchen hut. 
+
 ![Campsite in the Montenegrin Mountains near Kolasin](/img/2017/08/27/campsite-montenegro.jpeg)
+
+There's a choice of wood cabin or camping, it can get quite cold at night but I still opted for my tent. 
 
 ![Home for the weekend, the tent not the hut](/img/2017/08/27/tent-montenegro.jpeg)
 
