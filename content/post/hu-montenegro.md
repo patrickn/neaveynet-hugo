@@ -33,3 +33,5 @@ There's a choice of wood cabin or camping, it can get quite cold at night but I 
 ![Home for the weekend, the tent not the hut](/img/2017/08/27/tent-montenegro.jpeg)
 
 ![Quick rest stop on one of the trails](/img/2017/08/25/reststop-montenegro.jpeg)
+
+{{< youtube jtW38zBHnR0 >}}
