@@ -3,7 +3,7 @@ title: Horizons Unlimited Meetup - Montenegro
 author: patrick
 banner: /img/2017/08/25/lake-montenegro.jpeg
 date: 2017-08-25T21:07:08+00:00
-draft: true
+draft: false
 geo_latitude:
   - 42.8473
 geo_longitude:
@@ -24,7 +24,7 @@ The road is nothing more than gravel single track at this point with the occasio
 
 After some tight switchbacks and very muddy ruts, made all the worse by the construction traffic driving up and down, I see what looks like a campsite. Then I spot an enormous 'Horizons Unlimited' poster and I know I am in the right place.
 
-Pulling up I'm quickly met by XXXX and YYYY the organisers, they point me towards a clearing to pitch my tent, tell me about the facilities and show me where the free beer is. Free beer!! all included in the registration fee, and cooled with genuine mountain water in a bucket next to the kitchen hut. 
+Pulling up I'm quickly met by Blazo and Tonko the organisers, they point me towards a clearing to pitch my tent, tell me about the facilities and show me where the free beer is. Free beer!! all included in the registration fee, and cooled with genuine mountain water in a bucket next to the kitchen hut. 
 
 ![Campsite in the Montenegrin Mountains near Kolasin](/img/2017/08/27/campsite-montenegro.jpeg)
 
