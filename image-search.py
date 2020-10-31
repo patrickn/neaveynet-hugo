@@ -5,8 +5,8 @@
 
 import os
 import os.path
-import time
 import json
+import datetime
 
 # Constants
 IMAGE_PATH = "static/img"
@@ -36,7 +36,7 @@ for dirpath, dirnames, filenames in os.walk(IMAGE_PATH):
 
 with open(OUTPUT_JSON, "w") as f:
     image_db = {
-        "last_modified": time.ctime(os.path.getmtime(OUTPUT_JSON)),
+        "last_modified": datetime.datetime.fromtimestamp(os.path.getmtime(OUTPUT_JSON)).isoformat(),
         "number_of_images": len(image_list),
         "image_list": image_list
     }
