@@ -1,3 +1,8 @@
+#!/usr/bin/python
+#
+# Creates a JSON file containing a list of all the images used on this site.
+# This is provided to allow 3rd party easy access to the images. 
+
 import os
 import os.path
 import time
