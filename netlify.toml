@@ -1,6 +1,6 @@
 [build] 
   publish = "public"
-  command = "hugo && image_search.py"
+  command = "hugo && python ./image_search.py"
 
 [context.production.environment]
   HUGO_VERSION = "0.76.0" # if older, use format: 0.53 (no trailing zero)
