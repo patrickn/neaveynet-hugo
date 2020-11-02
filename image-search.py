@@ -10,6 +10,7 @@ import datetime
 
 # Constants
 IMAGE_PATH = "static/img"
+SITE_URL = "https://www.neavey.net/"
 FILE_TYPES = (".jpg", ".jpeg")
 OUTPUT_JSON = "public/image_list.json"
 
@@ -17,7 +18,7 @@ image_list = []
 
 for dirpath, dirnames, filenames in os.walk(IMAGE_PATH):
     for filename in [f for f in filenames if f.endswith(FILE_TYPES)]:
-        image_record = {"name": os.path.join(dirpath, filename)}
+        image_record = {"name": SITE_URL + os.path.join(dirpath.replace("static/", ""), filename)}
         image_list.append(image_record)
 
 ##############################################################################
