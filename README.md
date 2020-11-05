@@ -1,8 +1,8 @@
 # neavey.net
 
-![](https://travis-ci.org/patrickn/neaveynet-hugo.svg?branch=master)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6bd28497-7039-4b4f-8090-9d2e591c6d64/deploy-status)](https://app.netlify.com/sites/neaveynet/deploys)
 
-This site has been generated with [Hugo](https://gohugo.io) using the [Icarus theme](https://github.com/digitalcraftsman/hugo-icarus-theme), and stored publicly here on Github. Updates are done on the go using a Git client, changes are then uploaded to Github where a [Travis CI](https://travis-ci.org/) job generates the site and deploys to Amazon S3.
+This site has been generated with [Hugo](https://gohugo.io) using the [Icarus theme](https://github.com/digitalcraftsman/hugo-icarus-theme), and stored publicly here on Github. Updates are done on the go using a Git client, changes are then uploaded to Github and detected by [Netlify](https://www.netlify.com/) to trigger automatic deploys.
 
 The S3 site is behind Amazons CloudFront CDN.
 
