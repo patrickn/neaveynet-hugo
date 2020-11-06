@@ -7,3 +7,4 @@ public/
 ## Sublime Text
 *.sublime-project
 *.sublime-workspace
+/image_list.json
