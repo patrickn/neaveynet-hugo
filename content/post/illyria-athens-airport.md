@@ -1,8 +1,8 @@
 ---
 title: Illyria Adventure
 author: patrick
-# banner: /img/2021/10/02/illyria-fall-route.png
-date:2021-10-01T11:58:00+03:00
+banner: /img/2021/10/02/illyria-fall-route.png
+date: 2021-10-01
 geo_latitude:
   - 37.9363
 geo_longitude:
