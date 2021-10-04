@@ -10,7 +10,7 @@ geo_longitude:
 categories:
   - Illyria Adventure
 tags:
-  - Athens
+  - greece
 
 ---
 Finally, after being cancelled last year due to some pandemic or something, I am sitting in Athens airport on my way to the start of the Illyria Raid. I have about an 8 hour wait here for a connecting flight to take me to Ioannina and the starting point of the rally. I've walked the delarture lounge, looked around WH Smith (in Greece, who knew?) and had a coffee. Only thing left to do now is write some rubbish here. 
