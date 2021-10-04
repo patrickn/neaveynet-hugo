@@ -1,8 +1,8 @@
 ---
 title: Illyria Raid - day 2
 author: patrick
-# banner: /img/2021/10/04/illyria-day-2.jpeg
-date:2021-10-04
+banner: /img/2021/10/04/illyria-day-2.jpeg
+date: 2021-10-04
 geo_latitude:
   - 40.9019
 geo_longitude:
