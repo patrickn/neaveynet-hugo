@@ -21,4 +21,10 @@ Yesterday was the first day of the raid, and to say it was hard going would be a
 
 One other section, a steep drop followed by an incline also required assistance. There was a couple of other sections which had me walking the bike up and down steep banks and across streams. 
 
-I was running out of time and had to skip the last section to make it back to the hotel before it got dark. Even then it was about 19:45 when I eventually arrived in Kastoria.  
+I was running out of time and had to skip the last section to make it back to the hotel before it got dark. Even then it was about 19:45 when I eventually arrived in Kastoria. 
+
+![Day 2 started with a climb up the mountain](/img/2021/10/04/above-the-clouds.jpeg)
+
+Day 2 was a lot less technical than the first day. Leaving Kastoria just after 08:00, first stop was to fill up with fuel. Today was also to be much shorter, but I was still really tired from yesterday so it was not easy going.  
+
+![Fantastic views and great weather](/img/2021/10/04/above-the-clouds-2.jpeg)
