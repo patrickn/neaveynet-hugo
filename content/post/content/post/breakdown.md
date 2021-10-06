@@ -1,8 +1,8 @@
 ---
 title: Illyria Raid - Breakdown
 author: patrick
-banner: /img/2021/10/⁨2021⁩/10⁩/05⁩/breakdown.jpeg
-date: 2021-20-04
+banner: /img/⁨2021⁩/10⁩/05⁩/breakdown.jpeg
+date: 2021-10-04
 geo_latitude:
   - 41.3563
 geo_longitude:
