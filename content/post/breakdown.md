@@ -1,7 +1,7 @@
 ---
 title: Illyria Raid - Breakdown
 author: patrick
-banner: /img/⁨2021⁩/10⁩/05⁩/breakdown.jpeg
+banner: /img/2021/10/05/breakdown.jpeg
 date: 2021-10-04
 geo_latitude:
   - 41.3563
@@ -17,7 +17,7 @@ Today was a good day. After really feeling it on the first day I took a relative
 
 <!-- more -->
 
-The start of the trail was a twisty, steep climb up the mountain. There were a few large rocks lying about but nothing to technical. Then the trails became fast gravel tracks that snaked through some amazing scenery and views. 
+Today's start was a twisty, steep climb up the mountain. There were a few large rocks lying about but nothing to technical. Then the trails became fast gravel tracks that snaked through some amazing scenery and views. 
 
 ![Day 3 consisted of lots of fast trails like this](/img/2021/10/05/trails.jpeg) 
 
