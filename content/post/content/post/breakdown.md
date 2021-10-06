@@ -15,7 +15,7 @@ tags:
 ---
 Today was a good day. After really feeling it on the first day I took a relatively easy second day and recovered enough to feel much better on day 3. Yesterday we left Greece and entered Albania and headed for Pogradec. The trail was a lot less technical but still challenging. I did manage to lose the trail at one point, as the roadbook was not very clear on one particular section. Not having a GPS and not being able to find the trail again the only thing to do was to head for an early lunch. 
 
-<-- more -->
+<!-- more -->
 
 The start of the trail was a twisty, steep climb up the mountain. There were a few large rocks lying about but nothing to technical. Then the trails became fast gravel tracks that snaked through some amazing scenery and views. 
 
