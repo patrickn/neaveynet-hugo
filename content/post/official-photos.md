@@ -16,10 +16,10 @@ tags:
 
 A small collection of photos from the official Illyria Rally photographer.
 
-![](/static/img/2022/01/_ALX3968.JPG)
+![](/img/2022/01/_ALX3968.JPG)
 
-![](/static/img/2022/01/_ALX3969.JPG)
+![](/img/2022/01/_ALX3969.JPG)
 
-![](/static/img/2022/01/_ALX5704.JPG)
+![](/img/2022/01/_ALX5704.JPG)
 
-![](/static/img/2022/01/_ALX5708.JPG)
+![](/img/2022/01/_ALX5708.JPG)
