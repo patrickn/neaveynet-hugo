@@ -2,7 +2,7 @@
 title: Illyria Official Photos
 author: patrick
 banner: /img/2022/01/_ALX3970.JPG
-date:2021-20-04T11:04:09+00:00
+date: 2021-20-04
 geo_latitude:
   - 41.3273
 geo_longitude:
