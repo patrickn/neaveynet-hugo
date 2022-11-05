@@ -3,6 +3,8 @@
 
 ##
 public/
+.netlify/
+.hugo_build.lock
 
 ## Sublime Text
 *.sublime-project
