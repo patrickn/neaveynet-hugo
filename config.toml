@@ -76,6 +76,6 @@ enableRobotsTXT = true
 # Enable and disable widgets for the right sidebar
 [params.widgets]
   recent_articles = true
-  #categories = true
+  categories = true
   #tags = true
   tag_cloud = true
