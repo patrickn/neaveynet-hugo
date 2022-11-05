@@ -11,7 +11,7 @@
     {{ else }}
       <meta name="description" content="{{ .Site.Params.site_description }}">
     {{ end }}
-    {{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}
+    {{ with .OutputFormats.Get "RSS" }}
       <link href="{{ . }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
       <link href="{{ . }}" rel="feed" type="application/rss+xml" title="{{ $.Site.Title }}" />
     {{ end }}
