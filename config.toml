@@ -64,12 +64,12 @@ enableRobotsTXT = true
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
-  github          = "patrickn"
-  instagram       = "pneavey"
-  youtube         = "PatrickN0"
-  googleplus      = "PatrickN0"
-  facebook        = "pneave"
   twitter         = "neavey"
+  mastodon        = "@neavey@mas.to"
+  github          = "patrickn"
+  facebook        = "pneave"
+  youtube         = "PatrickN0"
+  instagram       = "pneavey"
   humans          = "humans.txt"
   security        = "security.txt"
 
