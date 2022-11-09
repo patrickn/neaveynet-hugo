@@ -4,13 +4,12 @@ title = "neavey.net - Adventure Miles"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-87135551-2"
+googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
 theme = "hugo-icarus-theme"
 enableRobotsTXT = true
-
 
 [permalinks]
   post = "/:year/:month/:day/:slug"
@@ -31,7 +30,6 @@ enableRobotsTXT = true
   # Add custom assets with their paths relative to the static folder
 	custom_css = []
 	custom_js  = []
-
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option to
@@ -54,24 +52,21 @@ enableRobotsTXT = true
   label  = "Route Map"
   link   = "map/"
 
-
 # Enter a link for the follow button on the left
 [params.profile]
   follow_button = "https://twitter.com/neavey"
-
 
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
   twitter         = "neavey"
-  mastodon        = "@neavey@mas.to"
+  mastodon        = "mas.to/@neavey"
   github          = "patrickn"
   facebook        = "pneave"
   youtube         = "PatrickN0"
   instagram       = "pneavey"
   humans          = "humans.txt"
-  security        = "security.txt"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]

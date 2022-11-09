@@ -527,8 +527,8 @@ code {
   background: none;
   position: absolute;
   font: 13px font-icon;
-  font-family: "Font Awesome 5 Brands";
-  font-weight: 400;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
 }
 #search-form-wrap .search-form .search-form-submit:before {
   content: '\f002';
@@ -955,7 +955,7 @@ a.article-title:hover {
   content: "\f10d";
   color: #e2e2e2;
   font-size: 32px;
-  font-family: "Font Awesome 5 Brands";
+  font-family: "Font Awesome 6 Free";
   font-weight: 400;
   text-align: center;
   position: absolute;
@@ -1050,7 +1050,7 @@ a.article-title:hover {
 }
 .article-comment-link:before {
   content: "\f075";
-  font-family: "Font Awesome 5 Brands";
+  font-family: "Font Awesome 6 Free";
   font-weight: 400;
   padding-right: 5px;
 }
@@ -1501,7 +1501,7 @@ ol.toc {
   content: "\f0da";
   font-size: 12px;
   margin-right: 6px;
-  font-family: "Font Awesome 5 Brands";
+  font-family: "Font Awesome 6 Free";
   font-weight: 400;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
@@ -1811,7 +1811,7 @@ ol.toc {
   content: "\f0da";
   font-size: 12px;
   margin-right: 6px;
-  font-family: "Font Awesome 5 Brands";
+  font-family: "Font Awesome 6 Free";
   font-weight: 400;
   -webkit-transition: 0.2s ease;
   -moz-transition: 0.2s ease;
