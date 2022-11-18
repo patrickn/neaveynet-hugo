@@ -11,7 +11,7 @@ categories:
   - Morocco Adventure
 tags:
   - Morocco
-draft: true 
+draft: true
 
 ---
 
