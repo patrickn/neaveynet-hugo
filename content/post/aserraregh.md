@@ -2,7 +2,7 @@
 title: Title
 author: patrick
 # banner: /img/2021/10/
-date:2022-11-14T16:47:34+01:00
+date:2022-11-14
 geo_latitude:
   - 30.2175
 geo_longitude:
@@ -11,6 +11,7 @@ categories:
   - Morocco Adventure
 tags:
   - Morocco
+draft: true 
 
 ---
 
