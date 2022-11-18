@@ -1,7 +1,7 @@
 ---
 title: Arrival in Marrakech
 author: patrick
-banner: /img/2021/11/IMG_1742.jpeg
+banner: /img/2022/11/11/IMG_1742.jpeg
 date: 2022-11-11
 geo_latitude: 
   - 31.6295
