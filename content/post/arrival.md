@@ -2,15 +2,15 @@
 title: Arrival in Marrakech
 author: patrick
 banner: /img/2021/11/11/IMG_1742.jpeg
-date:2022-11-11T17:11:11+01:00
+date: 2022-11-11
 geo_latitude: 
-  31.6295
+  - 31.6295
 geo_longitude:
-  -7.9811
+  - -7.9811
 categories:
-  Morocco Adventure
+  - Morocco Adventure
 tags:
-  Morocco
+  - Morocco
 
 ---
 
