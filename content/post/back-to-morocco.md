@@ -1,5 +1,5 @@
 ---
-title: Getting to Morocco
+title: Back to Morocco
 author: patrick
 banner: /img/2022/12/24/IMG_1933.jpeg
 date: 2022-11-11T11:04:09+01:00

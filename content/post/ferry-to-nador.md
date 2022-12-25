@@ -18,4 +18,4 @@ I set my alarm for 06:30, so we could be ready to leave at 07:30. The journey wa
 
 We arrived at the port in Motril at 11:00, just in time to check-in, only to discover that our ferry had left 2 hours earlier! After a brief chat with the guy at the check-in desk we discovered that the only option was to ride back 90km in the direction we had just come from to catch the 13:00 hrs sailing from Almeria to Nador. 
 
-We finallt arrived about 30 minutes before the scheduled departure time and boarded the ferry. Which left about 40 minutes late!
+We finally arrived about 30 minutes before the scheduled departure time and boarded the ferry. Which left about 40 minutes late!
