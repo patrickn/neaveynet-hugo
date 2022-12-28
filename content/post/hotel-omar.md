@@ -1,12 +1,12 @@
 ---
-title: Hotel Beautiful
+title: Hotel Omar
 author: patrick
-banner: /img/2022/12/23/IMG_1915.jpeg
+banner: /img/2022/12/23/IMG_1941.jpeg
 date: 2022-12-23
 geo_latitude:
-  - 35,15097° N
+  - 33,68501° N
 geo_longitude:
-  - 2,91997° W
+  - 4,10926° W
 categories:
   - Morocco Christmas Adventure
 tags:
