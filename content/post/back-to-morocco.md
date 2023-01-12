@@ -2,14 +2,14 @@
 title: Back to Morocco
 author: patrick
 banner: /img/2022/12/24/IMG_1933.jpeg
-date: 2022-11-11T11:04:09+01:00
+date: 2022-11-22
 draft: false
 geo_latitude:
   - 31.6295
 geo_longitude:
   - 7.9811
 categories:
-  - Moroccon Christmas Adventure
+  - Morocco Christmas Adventure
 tags:
   - Morocco
 

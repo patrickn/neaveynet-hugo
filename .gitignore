@@ -5,6 +5,7 @@
 public/
 .netlify/
 .hugo_build.lock
+.vscode
 
 ## Sublime Text
 *.sublime-project
