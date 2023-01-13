@@ -8,7 +8,7 @@ geo_latitude:
 geo_longitude:
   - -7.9811
 categories:
-  - Morocco Adventure
+  - Chris Scott Adventure
 tags:
   - Morocco
 
@@ -16,7 +16,7 @@ tags:
 
 After flying in from a very cool Amsterdam, first impression when getting off the plane in Marrakech is... phew, it's hot 😎. The gauge reads 27°, and is untypically warm for the time of year.
 
-This is the start of Moroccan Adventure (part I). A guided fly and ride tour around Morocco. 
+This is the start of Chris Scott Adventure, a guided fly and ride tour around Morocco led by [Chris Scott](https://sahara-overland.com/about-chris-scott/), the author of "The Adventure Motorcycling Handbook", "Morocco Overland" and several other books. 
 
 <!--more-->
 

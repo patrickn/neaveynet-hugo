@@ -2,7 +2,7 @@
 title: Ferry to A̶l̶ ̶H̶o̶c̶e̶i̶m̶a̶ Nador
 author: patrick
 # banner: /img/2021/10/
-date: 2022-12-24T21:51:09+01:00
+date: 2022-12-22T14:00:56+00:00
 geo_latitude:
   - 31.6295
 geo_longitude:
