@@ -1,3 +1,3 @@
-[submodule "themes/hugo-icarus-theme"]
-	path = themes/hugo-icarus-theme
-	url = https://gitlab.com/toryanderson/hugo-icarus.git
+[submodule "themes/LoveIt"]
+	path = themes/LoveIt
+	url = https://github.com/dillonzq/LoveIt.git

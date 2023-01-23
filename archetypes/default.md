@@ -1,13 +1,16 @@
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
 author: patrick
-banner:
+description:
+featuredImage:
+#featuredImagePreview:
 date: {{ .Date }}
-draft: true
 geo_longitude:
 geo_latitude:
 tags:
 categories:
+toc: false
+draft: true
 ---
 
 <!--more-->

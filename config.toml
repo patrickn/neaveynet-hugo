@@ -1,76 +1,555 @@
-baseurl = "https://www.neavey.net"
-languageCode = "en-gb"
-title = "neavey.net - Adventure Miles"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
-# Define the number of posts per page
-paginate = 10
-footnotereturnlinkcontents = "↩"
-theme = "hugo-icarus-theme"
-enableRobotsTXT = true
+baseURL = "https://www.neavey.net/"
 
-[permalinks]
-  post = "/:year/:month/:day/:slug"
-  #page = "/:slug/"
+# theme
+theme = "LoveIt"
+
+# website title
+title = "neavey.net - Adventure Miles"
+
+# determines default content language ["en", "zh-cn", "fr", "pl", ...]
+defaultContentLanguage = "en"
+# language code ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "en"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+languageName = "English"
+
+# default amount of posts in each pages
+paginate = 12
+# google analytics code [UA-XXXXXXXX-X]
+googleAnalytics = ""
+# copyright description used only for seo schema
+copyright = ""
+
+# whether to use robots.txt
+enableRobotsTXT = true
+# whether to use git commit log
+enableGitInfo = false
+# whether to use emoji code
+enableEmoji = true
+
+# ignore some build errors
+ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+
+# Author config
+[author]
+  name = "Patrick Neave"
+  email = "pneave@neavey.net"
+  link = ""
+
+# Menu config
+[menu]
+  [[menu.main]]
+    weight = 1
+    identifier = "posts"
+    pre = "<i class='fa-solid fa-envelopes-bulk'></i>"
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    # title will be shown when you hover on this menu link
+    title = ""
+  [[menu.main]]
+    weight = 2
+    identifier = "routes"
+    pre = "<i class='fa-solid fa-signs-post'></i>"
+    post = ""
+    name = "Routes"
+    url = "/routes/"
+    title = ""
+  [[menu.main]]
+    weight = 3
+    identifier = "tags"
+    pre = "<i class='fa-solid fa-tags'></i>"
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+  [[menu.main]]
+    weight = 4
+    identifier = "categories"
+    pre = "<i class='fa-solid fa-layer-group'></i>"
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
 
 [params]
-  author = "Adventure Miles"
-  bio = "Travelling the world, a few weeks at a time."
-  location = "Bristol, UK"
-  site_description = "neavey.net - Adventure Miles"
-  copyright  = "Powered by [Hugo](//gohugo.io). Theme by [Digitalcraftsman](https://themes.gohugo.io/hugo-icarus/)."
-  avatar = "css/images/logo.png"
-  #logo = "css/images/logo.png"
+  # site default theme ["auto", "light", "dark"]
+  defaultTheme = "auto"
+  # public git repo url only when enableGitInfo is true
+  gitRepo = "https://github.com/patrickn/neaveynet-hugo"
+  # which hash function used for SRI, when empty, no SRI is used
+  # ["sha256", "sha384", "sha512", "md5"]
+  fingerprint = ""
+  # date format
+  dateFormat = "02 Jan 2006"
+  # website title for Open Graph and Twitter Cards
+  title = "Adventure Miles"
+  # website description for RSS, SEO, Open Graph and Twitter Cards
+  description = "Adventure Miles - A personal travel website"
+  # website images for Open Graph and Twitter Cards
+  images = ["/images/logo.png"]
 
-  # Format dates with Go's time formatting
-  date_format = "2006-01-02"
+  # Header config
+  [params.header]
+    # desktop header mode ["fixed", "normal", "auto"]
+    desktopMode = "fixed"
+    # mobile header mode ["fixed", "normal", "auto"]
+    mobileMode = "auto"
+    # Header title config
+    [params.header.title]
+      logo = "/images/logo.png"
+      # title name
+      name = "Adventure Miles"
+      pre = ""
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = false
 
-  # Add custom assets with their paths relative to the static folder
-	custom_css = []
-	custom_js  = []
+  # Footer config
+  [params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    custom = ""
+    # whether to show Hugo and theme info
+    hugo = true
+    # whether to show copyright info
+    copyright = true
+    # whether to show the author
+    author = true
+    # site creation time
+    since = 2019
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
-# Create custom menu entries by defining a label and a link for
-# them. Since you can also link posts, you've the option to
-# place the links before or after them.
-#
-# E.g.: "Home" appears before all linked posts in the menu
-# and "Tags" / "Categories" after them.
-[[params.menu]]
-  before = true
-  label  = "Home"
-  link   = "/"
+  # Section (all posts) page config
+  [params.section]
+    # special amount of posts in each section page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "02 Jan"
+    # amount of RSS pages
+    rss = 10
 
-[[params.menu]]
-  before = false
-  label  = "Categories"
-  link   = "categories/"
+  # List (category or tag) page config
+  [params.list]
+    # special amount of posts in each list page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "02 Jan"
+    # amount of RSS pages
+    rss = 10
 
-[[params.menu]]
-  before = false
-  label  = "Route Map"
-  link   = "map/"
+  # App icon config
+  [params.app]
+    # optional site title override for the app when added to an iOS home screen or Android launcher
+    title = "Adventure Miles"
+    # whether to omit favicon resource links
+    noFavicon = false
+    # modern SVG favicon to use in place of older style .png and .ico files
+    svgFavicon = ""
+    # Android browser theme color
+    themeColor = "#ffffff"
+    # Safari mask icon color
+    iconColor = "#5bbad5"
+    # Windows v8-11 tile color
+    tileColor = "#da532c"
 
-# Enter a link for the follow button on the left
-[params.profile]
-  follow_button = "https://twitter.com/neavey"
+  # Search config
+  [params.search]
+    enable = true
+    # type of search engine ["lunr", "algolia"]
+    type = "algolia"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # max number of results length
+    maxResultLength = 10
+    # snippet length of the result
+    snippetLength = 30
+    # HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
 
-[social]
-# Add your social network accounts to the profile section on the left
-# by entering your username. The links to your account will be
-# created automatically.
-  twitter         = "neavey"
-  mastodon        = "mas.to/@neavey"
-  github          = "patrickn"
-  facebook        = "pneave"
-  youtube         = "PatrickN0"
-  instagram       = "pneavey"
-  humans          = "humans.txt"
+  # Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      enable = true
+      gravatarEmail = ""
+      avatarURL = ""
+      title = ""
+      subtitle = "Travelling the world, two weeks at a time."
+      typeit = true
+      social = true
+      # disclaimer (HTML format is supported)
+      disclaimer = ""
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # special amount of posts in each home posts page
+      paginate = 10
+  # Social config in home page
+  [params.social]
+    Twitter = "@neavey"
+    Instagram = "pneavey"
+    Facebook = "pneave"
+    RSS = true
+    [params.social.Mastodon]
+      weight = 1
+      id = "@neavey"
+      prefix = "https://mas.to/"
+    [params.social.GitHub]
+      weight = 9
+      id = "patrickn"
+    [params.social.Youtubecustom]
+      weight = 10
+      id = "@adventure-miles"
+      prefix = "https://www.youtube.com/"
 
-# Enable and disable widgets for the right sidebar
-[params.widgets]
-  recent_articles = true
-  categories = true
-  #tags = true
-  tag_cloud = true
+  # Page global config
+  [params.page]
+    # whether to hide a page from home page
+    hiddenFromHomePage = false
+    # whether to hide a page from search results
+    hiddenFromSearch = false
+    # whether to enable twemoji
+    twemoji = false
+    # whether to enable lightgallery
+    lightgallery = false
+    # whether to enable the ruby extended syntax
+    ruby = true
+    # whether to enable the fraction extended syntax
+    fraction = true
+    # whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # whether to show link to Raw Markdown content of the content
+    linkToMarkdown = false
+    # whether to show the full text content in RSS
+    rssFullText = false
+    # Table of the contents config
+    [params.page.toc]
+      # whether to enable the table of the contents
+      enable = true
+      # whether to keep the static table of the contents in front of the post
+      keepStatic = true
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+    # Code config
+    [params.page.code]
+      # whether to show the copy button of the code block
+      copy = true
+      # the maximum number of lines of displayed code by default
+      maxShownLines = 50
+    # KaTeX mathematical formulas config (KaTeX https://katex.org/)
+    [params.page.math]
+      enable = false
+      # default inline delimiter is $ ... $ and \( ... \)
+      inlineLeftDelimiter = ""
+      inlineRightDelimiter = ""
+      # default block delimiter is $$ ... $$, \[ ... \], \begin{equation} ... \end{equation} and some other functions
+      blockLeftDelimiter = ""
+      blockRightDelimiter = ""
+      # KaTeX extension copy_tex
+      copyTex = true
+      # KaTeX extension mhchem
+      mhchem = true
+    # Mapbox GL JS config (Mapbox GL JS https://docs.mapbox.com/mapbox-gl-js)
+    [params.page.mapbox]
+      # access token of Mapbox GL JS
+      accessToken = "pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ"
+      # style for the light theme
+      lightStyle = "mapbox://styles/mapbox/light-v10?optimize=true"
+      # style for the dark theme
+      darkStyle = "mapbox://styles/mapbox/dark-v10?optimize=true"
+      # whether to add NavigationControl (https://docs.mapbox.com/mapbox-gl-js/api/#navigationcontrol)
+      navigation = true
+      # whether to add GeolocateControl (https://docs.mapbox.com/mapbox-gl-js/api/#geolocatecontrol)
+      geolocate = true
+      # whether to add ScaleControl (https://docs.mapbox.com/mapbox-gl-js/api/#scalecontrol)
+      scale = true
+      # whether to add FullscreenControl (https://docs.mapbox.com/mapbox-gl-js/api/#fullscreencontrol)
+      fullscreen = true
+    # Social share links in post page
+    [params.page.share]
+      enable = true
+      Mastodon = true
+      Twitter = true
+      Facebook = true
+      Linkedin = false
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = false
+      HackerNews = false
+      Reddit = false
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = false
+      Instapaper = false
+      Pocket = false
+      Flipboard = false
+      Weibo = true
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
+    # Comment config
+    [params.page.comment]
+      enable = false
+      # Disqus comment config (https://disqus.com/)
+      [params.page.comment.disqus]
+        enable = false
+        # Disqus shortname to use Disqus in posts
+        shortname = ""
+      # Gitalk comment config (https://github.com/gitalk/gitalk)
+      [params.page.comment.gitalk]
+        enable = false
+        owner = ""
+        repo = ""
+        clientId = ""
+        clientSecret = ""
+      # Valine comment config (https://github.com/xCss/Valine)
+      [params.page.comment.valine]
+        enable = true
+        appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
+        appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
+        placeholder = ""
+        avatar = "mp"
+        meta= ""
+        pageSize = 10
+        # automatically adapt the current theme i18n configuration when empty
+        lang = ""
+        visitor = true
+        recordIP = true
+        highlight = true
+        enableQQ = false
+        serverURLs = "https://leancloud.hugoloveit.com"
+        # emoji data file name, default is "google.yml"
+        # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
+        # located in "themes/LoveIt/assets/lib/valine/emoji/" directory
+        # you can store your own data files in the same path under your project:
+        # "assets/lib/valine/emoji/"
+        # ["apple.yml", "google.yml", "facebook.yml", "twitter.yml"]
+        # "assets/lib/valine/emoji/"
+        emoji = ""
+      # Facebook comment config (https://developers.facebook.com/docs/plugins/comments)
+      [params.page.comment.facebook]
+        enable = false
+        width = "100%"
+        numPosts = 10
+        appId = ""
+        # automatically adapt the current theme i18n configuration when empty
+        languageCode = ""
+      # Telegram comments config (https://comments.app/)
+      [params.page.comment.telegram]
+        enable = false
+        siteID = ""
+        limit = 5
+        height = ""
+        color = ""
+        colorful = true
+        dislikes = false
+        outlined = false
+      # Commento comment config (https://commento.io/)
+      [params.page.comment.commento]
+        enable = false
+      # utterances comment config (https://utteranc.es/)
+      [params.page.comment.utterances]
+        enable = false
+        # owner/repo
+        repo = ""
+        issueTerm = "pathname"
+        label = ""
+        lightTheme = "github-light"
+        darkTheme = "github-dark"
+      # giscus comment config (https://giscus.app/)
+      [params.page.comment.giscus]
+        # You can refer to the official documentation of giscus to use the following configuration.
+        enable = false
+        repo = ""
+        repoId = ""
+        category = "Announcements"
+        categoryId = ""
+        # automatically adapt the current theme i18n configuration when empty
+        lang = ""
+        mapping = "pathname"
+        reactionsEnabled = "1"
+        emitMetadata = "0"
+        inputPosition = "bottom"
+        lazyLoading = false
+        lightTheme = "light"
+        darkTheme = "dark"
+    # Third-party library config
+    [params.page.library]
+      [params.page.library.css]
+        # someCSS = "some.css"
+        # located in "assets/"
+        # Or
+        # someCSS = "https://cdn.example.com/some.css"
+      [params.page.library.js]
+        # someJavascript = "some.js"
+        # located in "assets/"
+        # Or
+        # someJavascript = "https://cdn.example.com/some.js"
+    # Page SEO config
+    [params.page.seo]
+      # image URL
+      # 图片 URL
+      images = []
+      # Publisher info
+      [params.page.seo.publisher]
+        name = "xxxx"
+        logoUrl = "/images/logo.png"
+
+  # TypeIt config
+  [params.typeit]
+    # typing speed between each step (measured in milliseconds)
+    speed = 100
+    # blinking speed of the cursor (measured in milliseconds)
+    cursorSpeed = 1000
+    # character used for the cursor (HTML format is supported)
+    cursorChar = "|"
+    # cursor duration after typing finishing (measured in milliseconds, "-1" means unlimited)
+    duration = -1
+
+  # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
+  [params.verification]
+    google = ""
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
+
+  # Site SEO config
+  [params.seo]
+    # image URL
+    image = "/images/Apple-Devices-Preview.png"
+    # thumbnail URL
+    thumbnailUrl = "/images/screenshot.png"
+
+  # Analytics config
+  [params.analytics]
+    enable = false
+    # Google Analytics
+    [params.analytics.google]
+      id = ""
+      # whether to anonymize IP
+      anonymizeIP = true
+    # Fathom Analytics
+    [params.analytics.fathom]
+      id = ""
+      # server url for your tracker if you're self hosting
+      server = ""
+    # Plausible Analytics
+    [params.analytics.plausible]
+      dataDomain = ""
+    # Yandex Metrica
+    [params.analytics.yandexMetrica]
+      id = ""
+
+  # Cookie consent config
+  [params.cookieconsent]
+    enable = false
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
+
+  # CDN config for third-party library files
+  [params.cdn]
+    # CDN data file name, disabled by default
+    # ["jsdelivr.yml"]
+    # located in "themes/LoveIt/assets/data/cdn/" directory
+    # you can store your own data files in the same path under your project:
+    # "assets/data/cdn/"
+    # ["jsdelivr.yml"]
+    data = "jsdelivr.yml"
+
+  # Compatibility config
+  [params.compatibility]
+    # whether to use Polyfill.io to be compatible with older browsers
+    polyfill = false
+    # whether to use object-fit-images to be compatible with older browsers
+    objectFit = false
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = true
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+  # Goldmark is from Hugo 0.60 the default library used for Markdown
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.renderer]
+      # whether to use HTML tags directly in the document
+      unsafe = true
+  # Table Of Contents settings
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 6
+
+# Sitemap config
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# Permalinks config (https://gohugo.io/content-management/urls/#permalinks)
+[Permalinks]
+  # posts = ":year/:month/:filename"
+  posts = ":filename"
+
+# Privacy config (https://gohugo.io/about/hugo-and-gdpr/)
+[privacy]
+  # privacy of the Google Analytics (replaced by params.analytics.google)
+  [privacy.googleAnalytics]
+    # ...
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+# Options to make output .md files
+[mediaTypes]
+  [mediaTypes."text/plain"]
+    suffixes = ["md"]
+
+# Options to make output .md files
+[outputFormats.MarkDown]
+  mediaType = "text/plain"
+  isPlainText = true
+  isHTML = false
+
+# Options to make hugo output files
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML", "MarkDown"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML"]
