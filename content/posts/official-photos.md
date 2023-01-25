@@ -1,7 +1,7 @@
 ---
 title: Illyria Raid Official Photos
 author: patrick
-banner: /img/2022/01/19/_ALX3970.JPG
+featuredImagePreview: /img/2022/01/19/_ALX3970.JPG
 date: 2022-01-19
 geo_latitude:
   - 41.3273
@@ -11,13 +11,14 @@ categories:
   - Illyria Adventure
 tags:
   - Greece
+toc: false
+lightgallery: true
+description: A small collection of photos of the Illyria Raid from the official rally photographer.
 ---
-A small collection of photos from the Illyria Raid by the official rally photographer.
 
-![](/img/2022/01/19/_ALX3968.JPG)
 
-![](/img/2022/01/19/_ALX3969.JPG)
-
-![](/img/2022/01/19/_ALX5704.JPG)
-
-![](/img/2022/01/19/_ALX5708.JPG)
+{{< image src="/img/2022/01/19/_ALX3970.JPG" caption="" >}}
+{{< image src="/img/2022/01/19/_ALX3968.JPG" caption="" >}}
+{{< image src="/img/2022/01/19/_ALX3969.JPG" caption="" >}}
+{{< image src="/img/2022/01/19/_ALX5704.JPG" caption="" >}}
+{{< image src="/img/2022/01/19/_ALX5708.JPG" caption="" >}}
