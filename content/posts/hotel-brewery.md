@@ -1,7 +1,7 @@
 ---
 title: What are the chances?
 author: patrick
-banner: /img/2021/10/05/hotel-brewery.jpeg
+featuredImage: /img/2021/10/05/hotel-brewery.jpeg
 date: 2021-10-05
 geo_latitude:
   - 41.3563
@@ -11,6 +11,7 @@ categories:
   - Illyria Adventure
 tags:
   - albania
+toc: false
 
 ---
 They put us in a hotel owned and run by the brewery next door. Free beer all night! What could go wrong?

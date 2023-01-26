@@ -1,7 +1,7 @@
 ---
 title: Ferry to A̶l̶ ̶H̶o̶c̶e̶i̶m̶a &nbspNador
 author: patrick
-# banner: /img/2021/10/
+featuredImagePreview: /img/2022/12/22/IMG_1911-preview.jpeg
 date: 2022-12-22T14:00:56+00:00
 geo_latitude:
   - 31.6295
@@ -11,7 +11,7 @@ categories:
   - Morocco Christmas Adventure
 tags:
   - Morocco
-
+toc: false
 ---
 
 I set my alarm for 06:30, so we could be ready to leave at 07:30. The journey was about 3 hours to catch the 12:00 ferry from Motril in Spain to Al Hoceima in Morocco. We would arrive in Morocco at dusk but had a hotel booked for the night near the port.
