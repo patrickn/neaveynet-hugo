@@ -53,7 +53,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     pre = "<i class='fa-solid fa-signs-post'></i>"
     post = ""
     name = "Routes"
-    url = "/routes/"
+    url = "/map"
     title = ""
   [[menu.main]]
     weight = 3
