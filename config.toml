@@ -202,13 +202,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RSS = true
     [params.social.Mastodon]
       weight = 1
-      id = "@neavey"
-      prefix = "https://mas.to/"
-    [params.social.GitHub]
-      weight = 9
-      id = "patrickn"
+      id = "@patrick"
+      prefix = "https://app.bikers.social/"
     [params.social.Youtubecustom]
-      weight = 10
+      weight = 9
       id = "@adventure-miles"
       prefix = "https://www.youtube.com/"
 
