@@ -7,3 +7,15 @@ This site has been generated with [Hugo](https://gohugo.io) using the [LoveIt th
 Anyone considering a similiar setup, check out the following articles:
 
 [Hugo on the Go: Static Blogging from an iPhone](http://evanbrown.io/post/hugo-on-the-go/)
+
+# Notes
+
+Images larger than 700k optimized with _optipng_ or _jpegoptim_.
+
+```
+   $ fd -e jpeg -e jpg -S +700k -x jpegoptim --size=600k {}
+```
+
+```
+   $ optipng <filename.png>
+```
