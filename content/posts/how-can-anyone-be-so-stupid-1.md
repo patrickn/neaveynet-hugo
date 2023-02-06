@@ -1,7 +1,7 @@
 ---
 title: How can anyone be so stupid? pt 1
 author: patrick
-banner: /img/2017/08/14/keys.jpeg
+featuredImagePreview: /img/2017/08/14/keys.jpeg
 date: 2017-08-14T15:31:18+01:00
 geo_longitude:
     - 42.5939
@@ -11,6 +11,7 @@ tags:
     - Kosovo
 categories:
     - Sparta
+toc: false
 ---
 The next morning the rain clouds still looked threatening and the forecast didn't offer any positive encouragement to hit the road, so I decided to stay an extra day in Laplje Selo. It was a nice enough if very small village and it had a pizzeria. I walked the length of the main street which seemed to be where all the 'action' was, and that over I went to the cafe for a coffee.
 
@@ -25,5 +26,3 @@ Which of course is just what I did do. Considering the ignition key must be very
 I rode or walked backwards and forwards along that route for 2 or 3 hours looking for my keys but never did find them. I left my contact details at the hotel just in case they were handed in, asked anyone I saw walking the road, using the international hand signal for 'key', in case they had spotted anything but eventually had to give up.
 
 I had spare luggage keys so that was OK, but for the ignition the spare is a small plastic 'emergency key' that has to be held under the rear mudguard before the ignition can be turned on, it means getting of the bike so is much less convenient especially if in a queue of traffic at a border crossing for example. Something that I would be doing a lot of.
-
-
