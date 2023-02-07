@@ -3,10 +3,8 @@ title: Lake Komani
 author: patrick
 featuredImagePreview: /img/2017/08/20/komani-albania.jpeg
 date: 2017-08-20T19:46:44Z
-geo_longitude:
-  - 19.8173
-geo_latitude:
-  - 42.0993
+geo_longitude: 19.8173
+geo_latitude: 42.0993
 tags:
   - Albania
 categories:
@@ -20,7 +18,7 @@ Lake Komani is not far from Shkodër, only about 60km, but after heading south a
 
 <!--more-->
 
-{{< mapbox lng=19.8173 lat=42.0993 zoom=12 light-style="mapbox://styles/mapbox/navigation-preview-day-v4" dark-style="mapbox://styles/mapbox/navigation-preview-night-v4">}}
+{{< show_location >}}
 
 {{< image src="/img/2017/08/20/komani-albania.jpeg" caption="Lake Komani, Albania" >}}
 

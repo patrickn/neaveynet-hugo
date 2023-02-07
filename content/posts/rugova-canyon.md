@@ -3,10 +3,8 @@ title: Rugova Canyon
 author: patrick
 featuredImagePreview: /img/2017/08/14/rugova-1.jpeg
 date: 2017-08-14T17:28:05Z
-geo_longitude:
-  - 20.168611
-geo_latitude:
-  - 42.692222
+geo_longitude: 20.168611
+geo_latitude: 42.692222
 tags:
    - Kosovo
    - Montenegro
@@ -19,7 +17,7 @@ I eventually had to admit defeat and gave up looking for my keys, I guess it rea
 
 <!--more-->
 
-{{< mapbox lng=20.168611 lat=42.692222 zoom=12 light-style="mapbox://styles/mapbox/navigation-preview-day-v4" dark-style="mapbox://styles/mapbox/navigation-preview-night-v4">}}
+{{< show_location >}}
 
 {{< image src="/img/2017/08/14/rugova-1.jpeg" caption="Rugova Canyon, Kosovo" >}}
 
