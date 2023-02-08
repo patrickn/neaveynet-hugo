@@ -10,6 +10,7 @@ geo_latitude:
 tags:
 categories:
 toc: false
+lightgallery: false
 draft: true
 ---
 
