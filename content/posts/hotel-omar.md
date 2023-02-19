@@ -12,7 +12,6 @@ tags:
 toc: false
 lightgallery: true
 description: We left Nador mid morning, and as we were 130km east of our planned entry into Morocco at Al Hoceima we needed to get back on track somehow. So we headed south towards Taza to try and pick up the route.
-draft: true
 ---
 
 <!--more-->
@@ -29,7 +28,11 @@ The sun was getting lower now and we only had about an hour of light left, all w
 
 Local entrepreneur, Omar, was renting out rooms in his parents home to tourists. He had a monopoly as there was nothing for several kilometres around here, and it was very fortunate for us as it wasn't long until the sun set and it became dark. Omar and his family provided us not only with a room and bed for the evening but also an amazing sizzling Tagine and even WiFi. As the wood burner in the corner burnt down it was getting noticeably colder so we decided to retire to bed.
 
+{{< image src="/img/2022/12/23/IMG_1947.JPEG" caption="Steaming hot vegetable Tagine" >}}
+
 Despite adding more and more blankets from the pile in the corner it was really difficult to get warm during the night. I did manage to get some sleep, but was glad for the morning and the relative warmth of the sun.
+
+{{< image src="/img/2022/12/23/IMG_1948.JPEG" caption="The bedroom" >}}
 
 {{< show_location >}}
 
@@ -40,7 +43,8 @@ I managed to get a few photos before it was completely dark and the setting sun 
 {{< image src="/img/2022/12/23/IMG_1939.JPEG" caption="The snow is close" >}}
 {{< image src="/img/2022/12/23/IMG_1938.JPEG" caption="Behind the hotel" >}}
 {{< image src="/img/2022/12/23/IMG_1949.JPEG" caption="The lounge with woodburner at far end" >}}
-{{< image src="/img/2022/12/23/IMG_1947.JPEG" caption="Steaming hot vegetable Tagine" >}}
-{{< image src="/img/2022/12/23/IMG_1948.JPEG" caption="The bedroom" >}}
+
+The next morning was cold and sunny and we suddenly realised that it was Christmas Eve. We had breakfast of omelette and salad and started to pack up the bikes. It was getting a bit warmer as the sun rose in the sky and we left Hotel Omar and headed in the wrong direction!
+
 {{< image src="/img/2022/12/24/IMG_1951.JPEG" caption="Christmas Eve morning" >}}
 {{< image src="/img/2022/12/24/IMG_1953.JPEG" caption="Glorious but cold Christmas morning" >}}
