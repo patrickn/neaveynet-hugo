@@ -4,6 +4,8 @@ author: patrick
 date: 2016-08-09T13:16:50+00:00
 categories:
   - Arctic Roll
+toc: false
+lightgallery: false
 ---
 
 
