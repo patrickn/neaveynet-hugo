@@ -2,6 +2,7 @@
 title: Returning through Italy
 author: patrick
 date: 2016-08-03T07:53:52+00:00
+featuredImagePreview: /img/2016/08/IMG_3498-preview.jpg
 geo_latitude: 45.559120556
 geo_longitude: 9.041455567
 geo_public:
@@ -35,7 +36,5 @@ I left the campsite early the next morning and continued north. I made a detour 
 Lastly on the list for Italy was Pisa. I left Rome later afternoon and it was about 20:00 when I finally arrived in Pisa at the leaning tower. The roads seem to be all one-way and the satnav was determined to send me the wrong way down some of them. It's difficult to comprehend how far the leaning tower actually leans until you stand in front of it. Pictures don't do it justice due to parallax, unless you have a 10m selfie stick.
 
 {{< image src="/img/2016/08/IMG_3487.jpg" caption="" >}}
-
-{{< image src="/img/2016/08/IMG_3498.jpg" caption="" >}}
 
 Italy is like one great big archeological site, and it's hard not to be impressed by the scale and history of these places. Well worth a visit if you can make it. But watch those Italian drivers.
