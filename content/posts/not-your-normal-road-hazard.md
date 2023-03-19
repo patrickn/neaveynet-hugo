@@ -1,19 +1,19 @@
 ---
 title: Not your normal road hazard
 author: patrick
-banner: /img/2017/07/06/sinkhole.jpg
+featuredImage: /img/2017/07/06/sinkhole.jpg
 date: 2017-07-06T12:14:10+00:00
-geo_longitude:
-  - 11.094248
-geo_latitude:
-  - 47.483064
+geo_longitude: 11.094248
+geo_latitude: 47.483064
 categories:
   - Sparta
 tags:
   - Germany
+toc: false
+lightgallery: false
 ---
 
-There are a lot of hazards on the roads, deer, X5 drivers but I didn't expect a sinkhole. Didn't see anything when I got there. 
+There are a lot of hazards on the roads, deer, X5 drivers but I didn't expect a sinkhole. Didn't see anything when I got there.
 
 <!--more-->
 

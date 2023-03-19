@@ -1,19 +1,16 @@
 ---
 title: Italy 
 author: patrick
-banner: /img/2016/07/img_3409.jpg
+featuredImage: /img/2016/07/img_3409.jpg
 date: 2016-07-31T16:55:31+00:00
-geo_longitude:
-  - 15.0878345
-geo_latitude:
-  - 37.5024825
-geo_public:
-  - 1
+geo_longitude: 15.0878345
+geo_latitude: 37.5024825
 categories:
   - Arctic Roll
 tags:
   - Italy
-
+toc: false
+lightgallery: false
 ---
 After checking out of the campus hostel I had some time to kill before meeting up with Marko and friends later that day. They were on the same ferry from Dubrovnik I had arrived on but a day later.
 
