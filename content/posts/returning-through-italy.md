@@ -28,7 +28,7 @@ I didn't want to hang around too long so only planned a couple of stops in Italy
 
 I left the campsite early the next morning and continued north. I made a detour through the centre of Rome to ride around the Colosseum. The scale of these old buildings is amazing. I thought the same at Pompeii, the temples and civic buildings are massive.
 
-{{< image src="/img/2016/08/img_3510.jpg" caption="" >}}
+{{< image src="/img/2016/08/IMG_3482.jpg" caption="" >}}
 
 {{< image src="/img/2016/08/img_3511.jpg" caption="" >}}
 
