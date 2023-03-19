@@ -1,30 +1,31 @@
 ---
 title: Warsaw, wow!
 author: patrick
-banner: /img/2016/06/img_3038.jpg
+featuredImagePreview: /img/2016/06/img_3038.jpg
 date: 2016-06-29T12:14:10+00:00
-geo_latitude:
-  - 52.25
-geo_longitude:
-  - 21
-geo_public:
-  - 1
+geo_latitude: 52.25
+geo_longitude: 21
 categories:
   - Arctic Roll
 tags:
   - Poland
-
+toc: false
+lightgallery: true
 ---
 So, with bike all serviced I left Białystok and headed for Warsaw. Before starting this trip I hadn't any idea what to expect in Poland. In fact I hadn't thought much further than Scandinavia. But since arriving in Poland I had been completely blown away. There is some amazing scenery, the people are friendly and it is very cheap.
 
-![Warsaw Park](/img/2016/06/IMG_2982.jpg)
+{{< image src="/img/2016/06/img_3038.jpg" caption="The storm clouds are gathering" >}}
 
-![Tomb of the Unknown Soldier](/img/2016/06/img_3033.jpg)
+{{< show_location >}}
 
-![The Bristol Hotel](/img/2016/06/img_3034.jpg)
+{{< image src="/img/2016/06/IMG_2982.jpg" caption="Warsaw Park" >}}
 
-![Warsaw University](/img/2016/06/img_3035.jpg)
+{{< image src="/img/2016/06/img_3033.jpg" caption="Tomb of the Unknown Soldier" >}}
 
-![Copernicus once lived here](/img/2016/06/img_3036.jpg)
+{{< image src="/img/2016/06/img_3034.jpg" caption="The Bristol Hotel" >}}
 
-![](/img/2016/06/img_3037.jpg)
+{{< image src="/img/2016/06/img_3035.jpg" caption="Warsaw University" >}}
+
+{{< image src="/img/2016/06/img_3036.jpg" caption="Copernicus once lived here" >}}
+
+{{< image src="/img/2016/06/img_3037.jpg" caption="" >}}

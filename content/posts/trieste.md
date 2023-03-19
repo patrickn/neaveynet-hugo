@@ -1,18 +1,16 @@
 ---
 title: Trieste
 author: patrick
-banner: /img/2016/07/img_3173.jpg
+featuredImage: /img/2016/07/img_3173.jpg
 date: 2016-07-06T19:46:30+00:00
-geo_latitude:
-  - 45.6535974
-geo_longitude:
-  - 13.7785154
-geo_public:
-  - 1
+geo_latitude: 45.6535974
+geo_longitude: 13.7785154
 categories:
   - Arctic Roll
 tags:
   - Italy
+toc: false
+lightgallery: true
 
 ---
 Of the 4 days I spent in Garmisch, 2 were in heavy showers and 2 in glorious sunshine. Luckily the were interleaved, so I did manage to dry out before getting wet again. Leaving on Sunday afternoon I headed south in the general direction of Italy.
@@ -23,16 +21,16 @@ Finding a little farmhouse hostel in Molini in the Province of Trento I booked i
 
 Last year I traversed Croatia from south to north, but somehow missed the Adriatic Coast Highway. Also, Marko, who I had originally arranged to meet in Italy was getting the ferry from Dubrovnik to Bari, Italy. Looking at the map I wasn't far from Trieste and the Croation border. Instead of riding south through Italy, I could ride down the Adriatic Coast Highway to Dubrovnik and get the ferry to Italy. So, that's how I ended up in Trieste.
 
-![Walking towards the main square](/img/2016/07/img_3176.jpg)
+{{< image src="/img/2016/07/img_3176.jpg" caption="Walking towards the main square" >}}
 
-![...boats...](/img/2016/07/img_3175.jpg)
+{{< image src="/img/2016/07/img_3175.jpg" caption="...boats..." >}}
 
-![Main square by day](/img/2016/07/img_3178.jpg)
+{{< image src="/img/2016/07/img_3178.jpg" caption="Main square by day" >}}
 
-![Lots of these narrow alleyways](/img/2016/07/img_3179.jpg)
+{{< image src="/img/2016/07/img_3179.jpg" caption="Lots of these narrow alleyways" >}}
 
-![Main square by night](/img/2016/07/img_3180.jpg)
+{{< image src="/img/2016/07/img_3180.jpg" caption="Main square by night" >}}
 
-![The beer I ordered, the rest was complimentary](/img/2016/07/img_3177.jpg)
+{{< image src="/img/2016/07/img_3177.jpg" caption="The beer I ordered, the rest was complimentary" >}}
 
-![...and more boats](/img/2016/07/IMG_3158.jpg)
+{{< image src="/img/2016/07/img_3176.jpg" caption="...and more boats" >}}

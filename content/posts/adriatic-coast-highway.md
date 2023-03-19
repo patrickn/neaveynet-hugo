@@ -1,18 +1,16 @@
 ---
 title: Adriatic Coast Highway
 author: patrick
-banner: /img/2016/07/img_3160.jpg
+featuredImage: /img/2016/07/img_3160.jpg
 date: 2016-07-19T12:55:29+00:00
-geo_longitude:
-  - 15.2422222
-geo_public:
-  - 1
-geo_latitude:
-  - 44.1197222
+geo_longitude: 15.2422222
+geo_latitude: 44.1197222
 categories:
   - Arctic Roll
 tags:
   - Croatia
+toc: false
+lightgallery: true
 
 ---
 Leaving Trieste I was heading for Zadar in Croatia. It was getting very hot as I got further south which reduced the number of miles I could comfortably cover in a day. I overnighted in a hostel in Zadar before taking the Adriatic Coast Highway south to Dubrovnik.
@@ -21,11 +19,10 @@ The coast highway reminded me a lot of the fiords of Norway. The mountains are n
 
 <!--more-->
 
-![](/img/2016/07/img_3161.jpg)
+{{< image src="/img/2016/07/img_3161.jpg" >}}
 
-![](/img/2016/07/img_3162.jpg)
+{{< image src="/img/2016/07/img_3162.jpg" >}}
 
-![](/img/2016/07/img_3163.jpg)
+{{< image src="/img/2016/07/img_3163.jpg" >}}
 
-![](/img/2016/07/img_3164.jpg)
-
+{{< image src="/img/2016/07/img_3164.jpg" >}}
