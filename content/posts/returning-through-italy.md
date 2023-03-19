@@ -36,6 +36,6 @@ Lastly on the list for Italy was Pisa. I left Rome later afternoon and it was ab
 
 {{< image src="/img/2016/08/img_3509.jpg" caption="" >}}
 
-{{< image src="/img/2016/08/img_3508.jpg" caption="" >}}
+{{< image src="/img/2016/08/img_3498.jpg" caption="" >}}
 
 Italy is like one great big archeological site, and it's hard not to be impressed by the scale and history of these places. Well worth a visit if you can make it. But watch those Italian drivers.
