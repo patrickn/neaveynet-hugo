@@ -3,10 +3,8 @@ title: Something for everyone
 author: patrick
 banner: /img/2022/12/30/IMG_2103.jpeg
 date: 2022-12-30
-geo_latitude:
-  - 33,89666° N
-geo_longitude:
-  - 5,54351° W
+geo_latitude: 33,89666° N
+geo_longitude: -5,54351° W
 categories:
   - Morocco Christmas Adventure
 tags:
