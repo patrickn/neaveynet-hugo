@@ -1,7 +1,7 @@
 ---
 title: The Ténéré Travel Trophy
 author: patrick
-# banner: /img/2021/10/
+# featuredImagePreview: /img/2021/10/
 date: 2023-22-06
 geo_latitude: 48.74230° N
 geo_longitude: -1.39407° E
