@@ -11,7 +11,6 @@ tags:
   - France
   - Andorra 
   - Spain
-draft: true
 toc: false
 lightgallery: true
 description: What better way to celebrate the 40th anniversary of the Yamaha Ténéré than to send 100 riders of all abilities on a mixed on and off road 1500km adventure from France over the Pyrenees to Andorra and finally Spain. 
