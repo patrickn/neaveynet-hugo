@@ -9,7 +9,6 @@ categories:
   - Bosnian Adventure
 tags:
   - Bosnia
-draft: true
 toc: false
 lightgallery: true
 description: After 3 days, 1672,8 km, 5 countries, 1 traffic jam (the entire length of Austria), many coffees and 0 showers! 👃 I am at Adria Ski in Bosnia ready to start the Bosnia Rally.
