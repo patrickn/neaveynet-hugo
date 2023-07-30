@@ -19,3 +19,10 @@ Images larger than 700k optimized with _optipng_ or _jpegoptim_.
 ```
    $ optipng <filename.png>
 ```
+
+HEIC Conversion
+
+```
+   $ heif-convert -q 100 IMG_xxxx.heic IMG_xxxx.jpeg
+   $ convert IMG_xxx.jpeg -resize 1024x1024 IMG_xxx.jpeg
+```
