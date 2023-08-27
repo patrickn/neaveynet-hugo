@@ -9,7 +9,6 @@ categories:
   - Bosnian Adventure
 tags:
   - Bosnia
-draft: true
 toc: false
 lightgallery: true
 description: The rally doesn't start for a couple of days but the prolog is an optional extra stage over a short 60km trail around Kupres. Most of the competitors haven't arrived yet so it's a good chance to test out your kit and bike setup.
