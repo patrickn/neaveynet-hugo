@@ -14,7 +14,7 @@ lightgallery: true
 description: After 3 days, 1672,8 km, 5 countries, 1 traffic jam (the entire length of Austria), many coffees and 0 showers! 👃 I am at Adria Ski in Bosnia ready to start the Bosnia Rally.
 
 ---
-
+<!--more-->
 It was a pretty uneventful journey to Bosnia. I packed the car Wednesday morning and left shortly after lunch just following the satnav. I left Belgium and drove through Germany almost reaching Austria, but stopped just before the border somewhere. It was too late to book a room anywhere so I just slept in the car. It actually worked out quite well, it was fairly comfortable with the seat fully reclined so I had a decent sleep.
 
 I was awake at first light and after washing in the services I left about 05:30. The thinking was that it would be cooler and there would be less traffics about. Things were going great until lunch time when, in Austria, I hit a big traffic jam. At times we were completely stationary, and several drivers and bored kids were getting out of their cars to walk around. After covering over 700km on the first day, I barely reached half that on the second.
