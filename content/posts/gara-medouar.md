@@ -20,7 +20,6 @@ It was Blofeld's secret lair in [Spectre](https://en.wikipedia.org/wiki/Spectre_
 
 {{< image src="/img/2022/12/26/IMG_2008.jpeg" caption="Sheer drops and steep ledges of Gara Medouar." >}}
 
-
 {{< show_location zoom=7 >}}
 
 [Gara Medouar](https://en.wikipedia.org/wiki/Gara_Medouar) is about an hours ride by road from Merzouga, therefore we decided to book an extra night in the hotel so we would have the whole day to get there and explore the area. The hotel was really nice and it was practicall at the base of Erg Chebbi, the largest sand dune in Morocco.

@@ -21,6 +21,8 @@ Arriving early not only gets you a great parking spot at the rally but you also 
 
 As part of the prolog day, in the morning, there is an introduction talk on the use of the roadbook. This is basically an informal walk through of the roadbook we will be using for the prolog and an explanation of the layout and symbols used and doesn't take long.
 
+{{< show_location >}}
+
 After stopping for lunch it is time to start the prolog, the weather is ideal, dry, but not to warm.
 
 I haven't ridden my 701 seriously for some time so I take it easy to begin with. But soon build up the confidence to ride a little harder. The trails are gravel and a few small rocks, nothing to challenging. I take the chance to get used to using the roadbook. In Greece I had a lot of problems with the roadbook as the accuracy was not the best (to put it mildly) but so far this one was spot on. I was finding my ICO a very few metres, if any, out at the junctions.
