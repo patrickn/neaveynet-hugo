@@ -3,8 +3,8 @@ title: Bosnia Rally - The Prolog
 author: patrick
 featuredImagePreview: /img/2023/07/15/IMG_3116_preview.jpeg
 date: 2023-07-15
-geo_latitude: 43,94833° N
-geo_longitude: 17,18907° E
+geo_latitude: 43.948192
+geo_longitude: 17.188539
 categories:
   - Bosnian Adventure
 tags:
