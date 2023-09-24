@@ -196,7 +196,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       paginate = 10
   # Social config in home page
   [params.social]
-    Twitter = "@neavey"
+    # Twitter = "@neavey"
     Instagram = "pneavey"
     Facebook = "pneave"
     RSS = true
@@ -276,7 +276,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.page.share]
       enable = true
       Mastodon = true
-      Twitter = true
+      Twitter = false
       Facebook = true
       Linkedin = false
       Whatsapp = false
