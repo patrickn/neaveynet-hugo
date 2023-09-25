@@ -20,7 +20,7 @@ Yesterday was registration day and the day most of the riders start arriving. Th
 
 I also picked up five days of road books. So the next couple of hours were spent with a big beer on a big table marking up them up.
 
-{{< image src="/img/2023/07/17/IMG_3129.jpeg" caption="And their done" >}}
+{{< image src="/img/2023/07/17/IMG_3129.jpeg" caption="And they’re done" >}}
 
 The morning of day one was quite chaotic. It seemed everyone wanted to get away early. So I waited for the queue to calm a bit before joining. It was about 09:30 before I got away. There was a short asphalt section before we were straight on the trails.
 
