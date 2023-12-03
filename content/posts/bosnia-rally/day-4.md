@@ -1,7 +1,7 @@
 ---
 title: Bosnia Rally - Day 4
 author: patrick
-featuredImagePreview: /img/2023/07/20/IMG_3176.JPEG
+featuredImagePreview: /img/2023/07/20/IMG_3181.JPEG
 date: 2023-07-20
 geo_latitude: 43.948192
 geo_longitude: 17.188539
