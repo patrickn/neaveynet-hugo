@@ -8,7 +8,7 @@ lightgallery: false
 comments:
     - host: app.bikers.social
     - username: patrick
-    - id:
+    - id: 112026832127493019
 ---
 
 I have been thinking of doing this for sometime, there are many sites that sell vinyl wraps not only for the T7. I finally found on that I liked and fit with the red on the seat and the gold wheels. It's not that different from the OEM look, but hopefully will stand out from the crowd more.
