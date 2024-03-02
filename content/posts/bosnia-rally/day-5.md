@@ -11,9 +11,10 @@ tags:
   - Bosnia
 toc: false
 lightgallery: true
-description: Day 5 was the final day and consisted of a loop around Livno in the south west of about 189km. Everything started out great, bike was running fine with no issues apart from still having problems with the clutch. But it was working and I was able to ride as normal.
-
 ---
+Day 5 was the final day and consisted of a loop around Livno in the south west of about 189km. Everything started out great, bike was running fine with no issues apart from still having problems with the clutch. But it was working and I was able to ride as normal.
+
+<!--more-->
 
 We headed up the ski slopes again to the wide plateaus where the trees became less common and the views opened up so you could see for miles. There were some really deep and rocky gravel trails which caught a few people off guard and I passed a number of casualtys stopped by the side of the trail. I always slow down and wait for either a thumbs up or OK signal before carrying on.
 

@@ -14,6 +14,8 @@ lightgallery: true
 description: Yesterday was registration day and the day most of the riders start arriving. The morning was fairly quiet so registration was very quick, just sign your name and pick up your welcome pack and GPS tracker.
 ---
 
+<!--more-->
+
 {{< image src="/img/2023/07/17/BR23-45.jpeg" caption="Marking up the 5 days worth of roadbook" >}}
 
 Yesterday was registration day and the day most of the riders start arriving. The morning was fairly quiet so registration was very quick, just sign your name and pick up your welcome pack and GPS tracker. There was also a ‘technical inspection’, which seemed to just consist of applying a sticker to my bike.

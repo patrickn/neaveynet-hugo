@@ -11,8 +11,6 @@ tags:
   - Bosnia
 toc: false
 lightgallery: true
-# description:
-
 ---
 According to my time card I arrived back yesterday at 17:50, but some people were still out on the trail much later than that. So for the remaining days a time limit was imposed. Everyone was to be back at the bivouac by 18:00. This was so that in case of any problems, the rescue weren’t expected to be out late into the evening.
 
