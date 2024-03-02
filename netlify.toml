@@ -8,15 +8,15 @@
   command = "hugo && python ./image-search.py"
 
 [context.production.environment]
-  HUGO_VERSION = "0.105.0"
+  HUGO_VERSION = "0.111.3"
+  PYTHON_VERSION = "3.12.2"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "false"
-  PYTHON_VERSION = "3.8"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.105.0"
-  PYTHON_VERSION = "3.8"
+  HUGO_VERSION = "0.111.3"
+  PYTHON_VERSION = "3.12.2"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.105.0"
-  PYTHON_VERSION = "3.8"
+  HUGO_VERSION = "0.111.3"
+  PYTHON_VERSION = "3.12.2"
