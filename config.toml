@@ -89,6 +89,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
+  #-------------------------------------
+  # Mastodon comments
+  #-------------------------------------
+  [params.comment.fediverse]
+    host = "app.bikers.social"
+    user = "patrick"
+
   # Header config
   [params.header]
     # desktop header mode ["fixed", "normal", "auto"]
@@ -195,6 +202,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # special amount of posts in each home posts page
       paginate = 10
   # Social config in home page
+
   [params.social]
     # Twitter = "@neavey"
     Instagram = "pneavey"
