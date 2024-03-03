@@ -92,9 +92,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   #-------------------------------------
   # Mastodon comments
   #-------------------------------------
-  [params.comment.fediverse]
-    host = "app.bikers.social"
-    user = "patrick"
+  [params.comment]
+    [params.comment.fediverse]
+      enable = true
+      host = "app.bikers.social"
+      user = "patrick"
 
   # Header config
   [params.header]

@@ -1,3 +1,91 @@
 // ==============================
 // Custom style
 // ==============================
+.mastodon-comment {
+    background-color: var(--block-background-color);
+    border-radius: var(--block-border-radius);
+    border: 1px var(--block-border-color) solid;
+    padding: 20px;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    color: var(--font-color);
+    font-size: var(--font-size);
+}
+
+.mastodon-comment p {
+    margin-bottom: 0px;
+}
+
+.mastodon-comment .author {
+    padding-top: 0;
+    display: flex;
+}
+
+.mastodon-comment .author a {
+    text-decoration: none;
+}
+
+.mastodon-comment .author .avatar img {
+    margin-right: 1rem;
+    min-width: 60px;
+    border-radius: 5px;
+}
+
+.mastodon-comment .author .details {
+    display: flex;
+    flex-direction: column;
+}
+
+.mastodon-comment .author .details .name {
+    font-weight: bold;
+}
+
+.mastodon-comment .author .details .user {
+    color: #5d686f;
+    font-size: medium;
+}
+
+.mastodon-comment .author .date {
+    margin-left: auto;
+    font-size: small;
+}
+
+.mastodon-comment .content {
+    margin: 15px 20px;
+}
+
+.mastodon-comment .attachments {
+    margin: 0px 10px;
+}
+
+.mastodon-comment .attachments>* {
+    margin: 0px 10px;
+}
+
+.mastodon-comment .content p:first-child {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.mastodon-comment .status>div {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.mastodon-comment .status a {
+    color: #5d686f;
+    text-decoration: none;
+}
+
+.mastodon-comment .status .replies.active a {
+    color: #003eaa;
+}
+
+.mastodon-comment .status .reblogs.active a {
+    color: #8c8dff;
+}
+
+.mastodon-comment .status .favourites.active a {
+    color: #ca8f04;
+}
