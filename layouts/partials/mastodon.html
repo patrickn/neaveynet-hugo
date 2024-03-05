@@ -62,7 +62,7 @@
             toot.account.display_name = toot.account.display_name.replace(`:${emoji.shortcode}:`, `<img src="${escapeHtml(emoji.static_url)}" alt="Emoji ${emoji.shortcode}" height="20" width="20" />`);
         });
         mastodonComment =
-            `<div class="mastodon-comment" style="margin-left: calc(var(--mastodon-comment-indent) * ${depth})">
+            `<div class="mastodon-comment" style="margin-left: calc(var(--comment-indent) * ${depth})">
         <div class="author">
           <div class="avatar">
             <img src="${escapeHtml(toot.account.avatar_static)}" height=60 width=60 alt="">
@@ -101,9 +101,17 @@
           </div>
         </div>
       </div>`;
-        document.getElementById('mastodon-comments-list').appendChild(DOMPurify.sanitize(mastodonComment, { 'RETURN_DOM_FRAGMENT': true }));
 
-        render_toots(toots, toot.id, depth + 1)
+        var div = document.createElement("div");
+        div.innerHTML =
+            typeof DOMPurify !== "undefined"
+                ? DOMPurify.sanitize(mastodonComment.trim())
+                : mastodonComment.trim();
+        document
+            .getElementById("mastodon-comments-list")
+            .appendChild(div.firstChild);
+
+        render_toots(toots, toot.id, depth + 1);
     }
 
     function loadComments() {
@@ -120,7 +128,7 @@
                     document.getElementById('mastodon-comments-list').innerHTML = "";
                     render_toots(data['descendants'], id, 0)
                 } else {
-                    document.getElementById('mastodon-comments-list').innerHTML = "<p>Not comments found</p>";
+                    document.getElementById('mastodon-comments-list').innerHTML = "<p>No comments found</p>";
                 }
 
                 commentsLoaded = true;

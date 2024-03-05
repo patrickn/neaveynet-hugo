@@ -1,6 +1,19 @@
 // ==============================
 // Custom style
 // ==============================
+
+:root {
+    --font-color: #5d686f;
+    --font-size: 1.0rem;
+
+    --block-border-width: 1px;
+    --block-border-radius: 3px;
+    --block-border-color: #ededf0;
+    --block-background-color: #f7f8f8;
+
+    --comment-indent: 40px;
+}
+
 .mastodon-comment {
     background-color: var(--block-background-color);
     border-radius: var(--block-border-radius);
