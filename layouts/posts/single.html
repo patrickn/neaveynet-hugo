@@ -99,7 +99,9 @@
     </div>
 
     {{- /* Comment */ -}}
+    {{- if $params.fediverse -}}
     {{- partial "mastodon.html" . -}}
+    {{- end -}}
 
     {{- /* Footer */ -}}
     {{- partial "single/footer.html" . -}}
