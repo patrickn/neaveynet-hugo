@@ -8,11 +8,11 @@ lightgallery: false
 fediverse: 112026832127493019
 ---
 
-I have been thinking of doing this for sometime, there are many sites that sell vinyl wraps not only for the T7. I finally found on that I liked and fit with the red on the seat and the gold wheels. It's not that different from the OEM look, but hopefully will stand out from the crowd more.
+I have been thinking of doing this for sometime, there are many sites that sell vinyl wraps not only for the T7. I finally found one that I liked and fit with the red on the seat and the gold wheels. It's not that different from the OEM look, but hopefully will stand out from the crowd more.
 
 <!--more-->
 
-This is only the second time I have tried applying decals to a bike. I wrapped my 701 after the rally rebuild. I warched a few iinstructional videos and, as always, they make it look far easier than it is.
+This is only the second time I have tried applying decals to a bike. I wrapped my 701 after the rally rebuild. I watched a few instructional videos and, as always, they make it look far easier than it is.
 
 {{< image src="/img/2024/03/02/IMG_3473.jpeg" caption="A new look for 2024">}}
 
