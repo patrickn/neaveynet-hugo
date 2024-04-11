@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #
 # Creates a JSON file containing a list of all the images used on this site.
-# This is provided to allow 3rd party access to the images. 
+# This is provided to allow 3rd party access to the images.
 
 import os
 import os.path
@@ -12,7 +12,7 @@ from PIL import Image
 
 # Constants
 IMAGE_PATH = "static/img"
-SITE_URL = "https://www.neavey.net/"
+SITE_URL = "https://www.adventuremiles.net/"
 FILE_TYPES = (".jpg", ".jpeg")
 OUTPUT_JSON = "public/image_list.json"
 
@@ -31,7 +31,7 @@ if __name__ == "__main__":
     for dirpath, dirnames, filenames in os.walk(IMAGE_PATH):
         for filename in [f for f in filenames if f.endswith(FILE_TYPES)]:
 
-            timestamp = get_timeAndData(os.path.join(dirpath, filename))      
+            timestamp = get_timeAndData(os.path.join(dirpath, filename))
 
             image_record = {"name": SITE_URL + os.path.join(dirpath.replace("static/", ""), filename),
                             "timestamp": timestamp }

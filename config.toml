@@ -1,10 +1,10 @@
-baseURL = "https://www.neavey.net/"
+baseURL = "https://www.adventuremiles.net/"
 
 # theme
 theme = "LoveIt"
 
 # website title
-title = "neavey.net - Adventure Miles"
+title = "Adventure Miles"
 
 # determines default content language ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "en"

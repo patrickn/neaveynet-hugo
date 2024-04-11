@@ -7,111 +7,111 @@ disable_widgets = true
 type = "page"
 layout = "routemap"
 +++
-  <article class="article article-type-post" itemscope="" itemprop="blogPost">
-    <div class="article-inner">
-      <header class="article-header">
-        <a href="https://www.neavey.net/post/2016/11/27/menu-test1">
-          <h1 class="article-title" itemprop="name">Route Map</h1>
-        </a>
-      </header>
-      <div class="article-entry" itemprop="articleBody">
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+  <div class="article-inner">
+    <header class="article-header">
+      <a href="https://www.adventuremiles.net/post/2016/11/27/menu-test1">
+        <h1 class="article-title" itemprop="name">Route Map</h1>
+      </a>
+    </header>
+    <div class="article-entry" itemprop="articleBody">
       <p>
         <br />
         To see the routes taken for some of my journeys select the tour from the menu at the top
         right corner of the map.
       </p>
     </div>
-  </article>
+</article>
 
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css"/>
-  <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
-  <script src="/js/gpx.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet.js"></script>
+<script src="/js/gpx.js"></script>
 
-  <div id="map" style="width: 100%; height: 600px"></div>
+<div id="map" style="width: 100%; height: 600px"></div>
 
-  <script>
-    var morocco = new L.LayerGroup();
-    var hungary = new L.LayerGroup();
-    var arctic = new L.LayerGroup();
-    var sparta = new L.LayerGroup();
-    var morocco_2022 = new L.LayerGroup();
-    var morocco_xmas = new L.LayerGroup();
+<script>
+  var morocco = new L.LayerGroup();
+  var hungary = new L.LayerGroup();
+  var arctic = new L.LayerGroup();
+  var sparta = new L.LayerGroup();
+  var morocco_2022 = new L.LayerGroup();
+  var morocco_xmas = new L.LayerGroup();
 
-    var osmLink = '<a href="https://openstreetmap.org">OpenStreetMap</a>',
-        thunLink = '<a href="https://thunderforest.com/">Thunderforest</a>';
+  var osmLink = '<a href="https://openstreetmap.org">OpenStreetMap</a>',
+    thunLink = '<a href="https://thunderforest.com/">Thunderforest</a>';
 
-    var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
-        osmAttrib = '&copy; ' + osmLink + ' Contributors',
-        landUrl = 'https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png',
-        thunAttrib = '&copy; '+osmLink+' Contributors & '+thunLink;
+  var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+    osmAttrib = '&copy; ' + osmLink + ' Contributors',
+    landUrl = 'https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png',
+    thunAttrib = '&copy; ' + osmLink + ' Contributors & ' + thunLink;
 
-    var osmMap = L.tileLayer(osmUrl, {attribution: osmAttrib}),
-        landMap = L.tileLayer(landUrl, {attribution: thunAttrib});
+  var osmMap = L.tileLayer(osmUrl, { attribution: osmAttrib }),
+    landMap = L.tileLayer(landUrl, { attribution: thunAttrib });
 
-    var map = L.map('map', {
-			layers: [osmMap] // only add one!
-		}).setView([51.4545, -2.5879], 8);
+  var map = L.map('map', {
+    layers: [osmMap] // only add one!
+  }).setView([51.4545, -2.5879], 8);
 
-		var baseLayers = {
-			"Standard": osmMap//,
-			//"Terrain": landMap               Needs license
-		};
+  var baseLayers = {
+    "Standard": osmMap//,
+    //"Terrain": landMap               Needs license
+  };
 
-		var overlays = {
-	    "Wrong Direction": morocco,
-	    "Hungarian Tour": hungary,
-	    "Arctic Roll": arctic,
-	    "Sparta": sparta,
-      "Morocco 2022": morocco_2022,
-      "Morocco Christmas Adv.": morocco_xmas
-    };
+  var overlays = {
+    "Wrong Direction": morocco,
+    "Hungarian Tour": hungary,
+    "Arctic Roll": arctic,
+    "Sparta": sparta,
+    "Morocco 2022": morocco_2022,
+    "Morocco Christmas Adv.": morocco_xmas
+  };
 
-    new L.GPX('/map/gpx/morocco.gpx', {
-      async: true,
-      gpx_options: {
-        parseElements: ['track', 'route', 'waypoint']
-      }
-    }).addTo(morocco);
+  new L.GPX('/map/gpx/morocco.gpx', {
+    async: true,
+    gpx_options: {
+      parseElements: ['track', 'route', 'waypoint']
+    }
+  }).addTo(morocco);
 
-    new L.GPX('/map/gpx/hungary.gpx', {
-      async: true,
-      gpx_options: {
-        parseElements: ['track', 'route', 'waypoint']
-      }
-    }).addTo(hungary);
+  new L.GPX('/map/gpx/hungary.gpx', {
+    async: true,
+    gpx_options: {
+      parseElements: ['track', 'route', 'waypoint']
+    }
+  }).addTo(hungary);
 
-    new L.GPX('/map/gpx/arcticroll.gpx', {
-      async: true,
-      gpx_options: {
-        parseElements: ['track', 'route', 'waypoint']
-      }
-    }).addTo(arctic);
+  new L.GPX('/map/gpx/arcticroll.gpx', {
+    async: true,
+    gpx_options: {
+      parseElements: ['track', 'route', 'waypoint']
+    }
+  }).addTo(arctic);
 
-    new L.GPX('/map/gpx/sparta.gpx', {
-      async: true,
-      gpx_options: {
-        parseElements: ['track', 'route', 'waypoint']
-      }
-    }).addTo(sparta);
+  new L.GPX('/map/gpx/sparta.gpx', {
+    async: true,
+    gpx_options: {
+      parseElements: ['track', 'route', 'waypoint']
+    }
+  }).addTo(sparta);
 
-    new L.GPX('/map/gpx/morocco_2022.gpx', {
-      async: true,
-      gpx_options: {
-        parseElements: ['track', 'route', 'waypoint']
-      }
-    }).addTo(morocco_2022);
+  new L.GPX('/map/gpx/morocco_2022.gpx', {
+    async: true,
+    gpx_options: {
+      parseElements: ['track', 'route', 'waypoint']
+    }
+  }).addTo(morocco_2022);
 
-    new L.GPX('/map/gpx/morocco_christmas_adventure.gpx', {
-      async: true,
-      gpx_options: {
-        parseElements: ['track', 'route', 'waypoint']
-      }
-    }).addTo(morocco_xmas);
+  new L.GPX('/map/gpx/morocco_christmas_adventure.gpx', {
+    async: true,
+    gpx_options: {
+      parseElements: ['track', 'route', 'waypoint']
+    }
+  }).addTo(morocco_xmas);
 
-	L.control.layers(baseLayers, overlays).addTo(map);
+  L.control.layers(baseLayers, overlays).addTo(map);
 
   map.scrollWheelZoom.disable();
-  map.on('click', function() {
+  map.on('click', function () {
     if (map.scrollWheelZoom.enabled()) {
       map.scrollWheelZoom.disable();
     }
@@ -120,4 +120,4 @@ layout = "routemap"
     }
   });
 
-  </script>
+</script>
