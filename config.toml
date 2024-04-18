@@ -15,8 +15,6 @@ languageName = "English"
 
 # default amount of posts in each pages
 paginate = 12
-# google analytics code [UA-XXXXXXXX-X]
-googleAnalytics = ""
 # copyright description used only for seo schema
 copyright = ""
 
@@ -444,7 +442,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Analytics config
   [params.analytics]
-    enable = false
+    enable = true
+    # GoatCounter
+    [params.analytics.goatcounter]
+      id = "adventuremiles"
     # Google Analytics
     [params.analytics.google]
       id = ""
