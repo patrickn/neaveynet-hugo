@@ -1,1 +1,7 @@
-<script data-goatcounter="https://adventuremiles.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{{- $analytics := .Scratch.Get "analytics" | default dict -}}
+
+{{- /* GoatCounter */ -}}
+{{- with $analytics.goatcounter.id -}}
+<script data-goatcounter="https://adventuremiles.goatcounter.com/count" async src="./js/count.js">
+</script>
+{{- end -}}
