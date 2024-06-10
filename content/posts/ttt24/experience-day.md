@@ -1,13 +1,13 @@
 ---
 title: Day 0 - Ténéré Experience
 author: patrick
-featuredImage: ⁨/img⁩/2024⁩/06/09⁩/IMG_3635.jpeg
+featuredImagePreview: ⁨/img⁩/2024⁩/06/09⁩/IMG_3635.jpeg
 date: 2024-06-09
 geo_latitude: 48,87373° N
 geo_longitude: 11,02792° E
 categories:
   - Croatian Adventure
-  - Ténéré Adventure
+  - Ténéré Travel Trophy
 tags:
   - Germany
 toc: false
