@@ -19,6 +19,8 @@ description: The first day after arrival on the Ténéré Travel Trophy is the T
 
 <!--more-->
 
+{{< image src="/img/2024/06/09/IMG_3635.jpeg" caption="The slow race" >}}
+
 We had rain in the night, but by morning the weather was looking a lot better. But even so the motocross track was closed until midday while it dried out a bit. However, there were still other, smaller, tracks that were open. Each was designed to test a particular aspect, riding around obstacles, slow speed manoeuvres etc. We had all day to try the various tracks so it was fairly relaxed. 
 
 There were a couple of additional challenges for today, each challenge earns points and the highest at the end of the week wins a trophy. The first was to take a picture of Pappenheim Castle, with your rider number somewhere in the frame. I couldn’t get very close to the castle so had to settle for a distant view from the road side. 
