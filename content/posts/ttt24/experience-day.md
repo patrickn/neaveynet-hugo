@@ -13,9 +13,11 @@ tags:
 toc: false
 lightgallery: true
 fediverse:
-description: The first proper day on the Ténéré Travel Trophy is the Ténéré Experience. At a motocross track near the campsite routes of different terrain are marked out. 
+description: The first day after arrival on the Ténéré Travel Trophy is the Ténéré Experience. At a motocross track near the campsite routes of different terrain are marked out. 
 
 ---
+
+<!--more-->
 
 We had rain in the night, but by morning the weather was looking a lot better. But even so the motocross track was closed until midday while it dried out a bit. However, there were still other, smaller, tracks that were open. Each was designed to test a particular aspect, riding around obstacles, slow speed manoeuvres etc. We had all day to try the various tracks so it was fairly relaxed. 
 
