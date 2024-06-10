@@ -12,7 +12,7 @@ tags:
   - Germany
 toc: false
 lightgallery: true
-fediverse:
+fediverse: 112590865200553177
 description: The first day after arrival on the Ténéré Travel Trophy is the Ténéré Experience. At a motocross track near the campsite routes of different terrain are marked out. 
 
 ---
