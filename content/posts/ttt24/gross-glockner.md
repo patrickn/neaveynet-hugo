@@ -2,7 +2,7 @@
 title: Day 1 - Autobahns and the Grossglockner
 author: patrick
 featuredImagePreview: /img/2024/06/10/IMG_3647.jpeg
-date: 2024-06-08
+date: 2024-06-11
 geo_latitude: 48,87373° N
 geo_longitude: 11,02792° E
 categories:
