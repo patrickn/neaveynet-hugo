@@ -2,7 +2,7 @@
 title: Day 2 - Out of Austria
 author: patrick
 featuredImagePreview: /img/2024/06/11/IMG_3667.jpeg
-date: 2024-06-11
+date: 2024-06-12
 geo_latitude: 48,87373° N
 geo_longitude: 11,02792° E
 categories:
