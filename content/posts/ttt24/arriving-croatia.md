@@ -27,9 +27,9 @@ We reached a height of about 1200m and although the temperature dropped, because
 
 {{< image src="/img/2024/06/12/IMG_3690.jpeg" caption="Lake Bakar, just past Rijeka" >}}
 
-{{< image src="/img/2024/06/12/IMG_3691.jpeg" >}}
+{{< image src="/img/2024/06/12/IMG_3691.jpeg" caption="Some views from todays trail" >}}
 
-{{< image src="/img/2024/06/12/IMG_3692.jpeg" >}}
+{{< image src="/img/2024/06/12/IMG_3692.jpeg" caption="" >}}
 
 {{< image src="/img/2024/06/12/IMG_3695.jpeg" caption="" >}}
 
