@@ -7,7 +7,7 @@ geo_latitude: 48,87373° N
 geo_longitude: 11,02792° E
 categories:
   - Croatian Adventure
-  - Ténéré Adventure
+  - Ténéré Travel Trophy
 tags:
   - Croatia
 fediverse: 
