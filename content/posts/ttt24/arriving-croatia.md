@@ -11,9 +11,10 @@ categories:
 tags:
   - Slovenia
   - Croatia
+fediverse: 112609204318819272
 toc: false
 lightgallery: true
-description: Packing up and getting ready to leave was again done in the rain, and I left the campsite in wet weather gear. 
+description: Packing up and getting ready to leave was again done in the rain, and I left the campsite in wet weather gear expecting the worst. 
 
 ---
 
