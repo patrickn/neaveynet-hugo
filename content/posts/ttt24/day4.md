@@ -10,7 +10,7 @@ categories:
   - Ténéré Travel Trophy
 tags:
   - Croatia
-fediverse: 
+# fediverse: 
 toc: false
 lightgallery: true
 description: Yesterday when we arrived the weather was great, I even managed to dry some gear out. Later that evening though, it started raining and it didn’t stop all night.  
