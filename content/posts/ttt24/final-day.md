@@ -10,7 +10,8 @@ categories:
   - Ténéré Travel Trophy
 tags:
   - Croatia
-fediverse: 
+fediverse:
+draft: true
 toc: false
 lightgallery: true
 description: description
