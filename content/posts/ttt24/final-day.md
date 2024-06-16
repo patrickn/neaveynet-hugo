@@ -10,7 +10,7 @@ categories:
   - Ténéré Travel Trophy
 tags:
   - Croatia
-fediverse:
+fediverse: 112625180029918892
 toc: false
 lightgallery: true
 description: Today it was like another world. I actually woke up to blue skies and sunshine. It was the final day and I had decided this was to be an early start. 
