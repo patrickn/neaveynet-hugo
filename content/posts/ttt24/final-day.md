@@ -23,7 +23,7 @@ Breakfast was not until 07:00, but I was up at 06:00 to get ready and pack up my
 
 We rode around Lake Peruca to the opposite side and the road ascended with some really nice hairpins up the side of the valley. The roads are mostly really good condition, the traffic is light and it is only at the higher altitudes were the ground freezes do you see much damage. 
 
-{{< image src="/img/2024/06/14/IMG_3735.jpeg" caption="Just stopped at the side of the road" >}}
+{{< image src="/img/2024/06/14/IMG_3735.jpeg" caption="Quick stop at the roadside to take in the view" >}}
 
 {{< image src="/img/2024/06/14/IMG_3729.jpeg" caption="Lake Peruca" >}}
 
