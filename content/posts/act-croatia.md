@@ -1,5 +1,5 @@
 ---
-title: Title
+title: Riding 1/5 of the ACT
 author: patrick
 featuredImagePreview: /img/2024/06/18/IMG_3845-preview.jpeg
 date: 2024-06-18
@@ -12,13 +12,13 @@ tags:
 fediverse:
 toc: false
 lightgallery: true
-description: The #TenereTravelTrophy may be over but I am still in Croatia. Today I got to ride the ACT Croatia trail from near Knin to Rijeka. 
+description: The Tenere Travel Trophy may be over but I am still in Croatia. Today I got to ride the ACT Croatia trail from near Knin to Rijeka. 
 
 ---
 
 <!--more-->
 
-ACT (Adventure Country Tracks)[https://adventurecountrytracks.com/finisher-sticker/] is an organisation setup to discover and preserve off-road trails throughout Europe. There are currently 7 tracks, each lasting 5 days and typically aimed at the bigger adventure bikes (the GS crowd).
+ACT [Adventure Country Tracks](https://adventurecountrytracks.com/finisher-sticker/) is an organisation setup to discover and preserve off-road trails throughout Europe. There are currently 7 tracks, each lasting 5 days and typically aimed at the bigger adventure bikes (the GS crowd).
 
 A new track is presented in a YouTube video about once a year. The track for Croatia can be seen below. 
 
