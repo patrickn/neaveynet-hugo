@@ -9,7 +9,7 @@ categories:
   - Croatian Adventure
 tags:
   - Croatia
-fediverse:
+fediverse: 112639647070339072
 toc: false
 lightgallery: true
 description: The Tenere Travel Trophy may be over but I am still in Croatia. Today I got to ride the ACT Croatia trail from near Knin to Rijeka. 
