@@ -9,7 +9,7 @@ categories:
   - Croatian Adventure
 tags:
   - Croatia
-fediverse: 
+fediverse: 112650655264137997
 toc: false
 lightgallery: true
 description: Day 2 of my ACT Croatia journey and I got to ride ACT Croatia day 1!
