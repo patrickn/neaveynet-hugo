@@ -34,6 +34,7 @@ layout = "routemap"
   var sparta = new L.LayerGroup();
   var morocco_2022 = new L.LayerGroup();
   var morocco_xmas = new L.LayerGroup();
+  var croatian_adv = new L.LayerGroup();
 
   var osmLink = '<a href="https://openstreetmap.org">OpenStreetMap</a>',
     thunLink = '<a href="https://thunderforest.com/">Thunderforest</a>';
@@ -61,7 +62,8 @@ layout = "routemap"
     "Arctic Roll": arctic,
     "Sparta": sparta,
     "Morocco 2022": morocco_2022,
-    "Morocco Christmas Adv.": morocco_xmas
+    "Morocco Christmas Adv.": morocco_xmas,
+    "Croatian Adventure": croatian_adv
   };
 
   new L.GPX('/map/gpx/morocco.gpx', {
@@ -106,6 +108,13 @@ layout = "routemap"
     }
   }).addTo(morocco_xmas);
 
+  new L.GPX('/map/gpx/croatian_adv.gpx', {
+    async: true,
+    gpx_options: {
+      parseElements: ['track', 'route', 'waypoint']
+    }
+  }).addTo(croatian_adv);
+  
   L.control.layers(baseLayers, overlays).addTo(map);
 
   map.scrollWheelZoom.disable();
