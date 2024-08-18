@@ -20,6 +20,8 @@ description: The Tenere Travel Trophy may be over but I am still in Croatia. Tod
 
 ACT [Adventure Country Tracks](https://adventurecountrytracks.com/finisher-sticker/) is an organisation setup to discover and preserve off-road trails throughout Europe. There are currently 7 tracks, each lasting 5 days and typically aimed at the bigger adventure bikes (the GS crowd).
 
+{{< show_location zoom=7 >}}
+
 A new track is presented in a YouTube video about once a year. The track for Croatia can be seen below. 
 
 {{< youtube id=zts9BWA1Q8M?si=Ljecf_xKg0T6KTpA title="ACT Croatia" >}}
