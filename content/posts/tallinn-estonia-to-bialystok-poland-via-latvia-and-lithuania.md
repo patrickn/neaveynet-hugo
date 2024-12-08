@@ -21,7 +21,7 @@ I got the ferry from Helsinki to Tallinn that morning, and arrived in Estonia a 
 
 {{< image src="/img/2016/06/img_2959.jpg" caption="The tall trees of Estonia" >}}
 
-I had had no luck getting my bike serviced in Helsinki. That we're all booked up, so I was heading west via all the BMW Motorrad dealers. Only problem being that today and tomorrow, Thursday and Friday, were national holidays in Estonia. So I was out of luck there.
+I had had no luck getting my bike serviced in Helsinki. They were all booked up, so I was heading west via all the BMW Motorrad dealers. Only problem being that today and tomorrow, Thursday and Friday, were national holidays in Estonia. So I was out of luck there.
 
 {{< show_location >}}
 
@@ -35,7 +35,7 @@ I didn't choose the cheapest place in Riga, but it still only cost €24. Which 
 
 The next morning my bike was still there, and everything intact and as the public holiday seemed to extend into Latvia and Lithunia, there wasn't much to do except continue.
 
-The next BMW Motorrad dealer was just over the border in Poland at a place called Białystok, so that's where I headed. I arrived at the dealer early evening on Friday. They where closed so I started looking for somewhere to stay. Fortunately, right next door was the hotel Belweder. So I booked in, at only £23 a night it was amazing value, cheaper than many Norwegian campsites.
+The next BMW Motorrad dealer was just over the border in Poland at a place called Białystok, so that's where I headed. I arrived at the dealer early evening on Friday. They were closed so I started looking for somewhere to stay. Fortunately, right next door was the hotel Belweder. So I booked in, at only £23 a night it was amazing value.
 
 {{< image src="/img/2016/06/img_3021.jpg" caption="The BMW Motorrad dealer couldn't have been any close to the hotel" >}}
 
