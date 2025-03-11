@@ -8,7 +8,7 @@ geo_longitude:
 categories:
   - Sparta
 tags:
-  - austria
+  - Austria
 toc: false
 lightgallery: true
 ---
