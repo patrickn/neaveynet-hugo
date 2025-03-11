@@ -16,10 +16,8 @@ async function getImagesRecursive(dir) {
             const fileStat = await stat(filePath);
 
             if (fileStat.isDirectory()) {
-                // Recursively scan subdirectories
                 images = images.concat(await getImagesRecursive(filePath));
             } else if (file.match(/\.(jpg|jpeg|png)$/i) && !file.toLowerCase().includes("preview")) {
-                // Get the relative path (remove "static/" part)
                 const relativePath = relative("static", filePath);
                 images.push({ url: `/${relativePath.replace(/\\/g, "/")}`, name: file });
             }
@@ -35,15 +33,17 @@ async function generateNetlifyFunction() {
     try {
         const images = await getImagesRecursive(imageDir);
 
-        // Netlify function template
         const functionCode = `export async function handler() {
-    return new Response(JSON.stringify(${JSON.stringify({ images }, null, 2)}), {
-        status: 200,
-        headers: { "Content-Type": "application/json" }
-    });
+    return {
+        statusCode: 200,
+        headers: {
+            "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*"
+        },
+        body: JSON.stringify(${JSON.stringify({ images }, null, 2)})
+    };
 }`;
 
-        // Ensure the Netlify functions directory exists
         await writeFile(functionFile, functionCode);
         console.log(`✅ Netlify function created: ${functionFile}`);
     } catch (error) {
