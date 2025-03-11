@@ -8,7 +8,5 @@ public/
 .vscode
 resources/
 
-## Sublime Text
-*.sublime-project
-*.sublime-workspace
-/image_list.json
+## Generated files
+netlify/functions/image-api.mjs

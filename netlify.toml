@@ -5,18 +5,18 @@
 
 [build]
   publish = "public"
-  command = "hugo && python ./image-search.py"
+  command = "hugo && node generate-images-json.mjs"
 
 [context.production.environment]
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.126.2"
   PYTHON_VERSION = "3.8"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "false"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.126.2"
   PYTHON_VERSION = "3.8"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.126.2"
   PYTHON_VERSION = "3.8"
