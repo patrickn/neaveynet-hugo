@@ -15,6 +15,17 @@ The very cool Fediverse commenting is courtesy of [Daniel Pecos Martinez](https:
 
 # Notes
 
+### Using the Fediverse commenting system
+
+    1. Create a blog post as normal.
+    2. Copy the URL of the post, and add it in a fedi post
+    3. The URL of the fedi post contains an id, e.g. 114631214554781234
+    4. Add this to the blog post in a 'fediverse: ...' tag.
+    5. Profit...
+
+
+### Images
+
 Images larger than 700k optimized with _optipng_ or _jpegoptim_.
 
 ```
