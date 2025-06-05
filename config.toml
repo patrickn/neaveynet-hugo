@@ -14,7 +14,7 @@ languageCode = "en"
 languageName = "English"
 
 # default amount of posts in each pages
-paginate = 12
+pagination.pagerSize = 12
 # copyright description used only for seo schema
 copyright = ""
 
@@ -555,4 +555,3 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
