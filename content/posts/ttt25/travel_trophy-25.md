@@ -17,6 +17,8 @@ lightgallery: false
 description: Once again for 1 week in June I will be joining 139 other Ténéré riders to take part in the Ténéré Travel Trophy. This time we will be heading north. Starting in Denmark, crossing to Sweden before finishing in Norway. If the previous 2 editions are anything to go by, then this is going to be another amazing trip, and this is Scandinavia, the scenery is going to be stunning.
 ---
 
+Once again for 1 week in June I will be joining 139 other Ténéré riders to take part in the Ténéré Travel Trophy. This time we will be heading north. Starting in Denmark, crossing to Sweden before finishing in Norway. If the previous 2 editions are anything to go by, then this is going to be another amazing trip, and this is Scandinavia, the scenery is going to be stunning.
+
 <!--more-->
 
 If you are interested you can find more information on the [official website](https://www.teneretraveltrophy.com/2025-edition/), as well as the route and what to expect from each stage.
