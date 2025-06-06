@@ -2,7 +2,6 @@
 // Custom style
 // ==============================
 
-
 :root {
     --font-color: #5d686f;
     --font-size: 1.0rem;
@@ -101,4 +100,15 @@
 
 .mastodon-comment .status .favourites.active a {
     color: #ca8f04;
+}
+
+a.link {
+    color: #2d96bd;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease-in-out;
+}
+
+a.link:hover {
+    color: #ef3982;
 }
