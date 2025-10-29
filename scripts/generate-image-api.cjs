@@ -1,5 +1,5 @@
-import { readdir, writeFile, stat } from "fs/promises";
-import { join, relative } from "path";
+const { readdir, writeFile, stat } = require("fs").promises;
+const { join, relative } = require("path");
 const exifr = require("exifr");
 
 const imageDir = "static/img";
