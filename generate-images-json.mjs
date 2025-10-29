@@ -1,5 +1,6 @@
 import { readdir, writeFile, stat } from "fs/promises";
 import { join, relative } from "path";
+import { parse } from "exifr"; // ← import parse directly
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
@@ -7,28 +8,6 @@ const functionFile = join(functionDir, "image-api.mjs");
 
 async function getImagesRecursive(dir) {
   let images = [];
-  let exifr;
-
-  // ✅ Robust dynamic import for exifr with debug
-  try {
-    const exifrModule = await import("exifr");
-    // Handle both default and named exports
-    if (exifrModule?.parse) {
-      exifr = exifrModule; // exifr.parse exists
-    } else if (exifrModule?.default?.parse) {
-      exifr = exifrModule.default; // exifr.default.parse exists
-    } else {
-      exifr = null;
-    }
-
-    if (exifr) {
-      console.log("✅ exifr module loaded successfully");
-    } else {
-      console.warn("⚠️ exifr module loaded but parse function not found");
-    }
-  } catch (err) {
-    console.warn("⚠️ EXIF extraction skipped: 'exifr' package not found.", err);
-  }
 
   try {
     const files = await readdir(dir);
@@ -44,36 +23,32 @@ async function getImagesRecursive(dir) {
         const imageUrl = `/${relativePath.replace(/\\/g, "/")}`;
 
         let exifData = {};
-        if (exifr) {
-          try {
-            const metadata = await exifr.parse(filePath, [
-              "DateTimeOriginal",
-              "GPSLatitude",
-              "GPSLongitude"
-            ]);
+        try {
+          const metadata = await parse(filePath, [
+            "DateTimeOriginal",
+            "GPSLatitude",
+            "GPSLongitude"
+          ]);
 
-            if (metadata) {
-              exifData = {
-                date: metadata.DateTimeOriginal
-                  ? metadata.DateTimeOriginal.toISOString()
-                  : null,
-                location:
-                  metadata.GPSLatitude && metadata.GPSLongitude
-                    ? {
-                        lat: metadata.GPSLatitude,
-                        lon: metadata.GPSLongitude
-                      }
-                    : null
-              };
-              console.log(`✅ EXIF extracted for ${file}`);
-            } else {
-              console.warn(`⚠️ No EXIF data found for ${file}`);
-            }
-          } catch (err) {
-            console.warn(`⚠️ Could not read EXIF for ${file}: ${err.message}`);
+          if (metadata) {
+            exifData = {
+              date: metadata.DateTimeOriginal
+                ? metadata.DateTimeOriginal.toISOString()
+                : null,
+              location:
+                metadata.GPSLatitude && metadata.GPSLongitude
+                  ? {
+                      lat: metadata.GPSLatitude,
+                      lon: metadata.GPSLongitude
+                    }
+                  : null
+            };
+            console.log(`✅ EXIF extracted for ${file}`);
+          } else {
+            console.warn(`⚠️ No EXIF data found for ${file}`);
           }
-        } else {
-          console.warn(`⚠️ Skipping EXIF extraction for ${file} (exifr not loaded)`);
+        } catch (err) {
+          console.warn(`⚠️ Could not read EXIF for ${file}: ${err.message}`);
         }
 
         images.push({
