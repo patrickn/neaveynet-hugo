@@ -4,7 +4,7 @@
     Permissions-Policy = "interest-cohort=()"
 
 [build]
-  command = "npn run build"
+  command = "npm run build"
   publish = "public"
   functions = "netlify/functions"
 
