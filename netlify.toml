@@ -8,6 +8,9 @@
   publish = "public"
   functions = "netlify/functions"
 
+[build.environment]
+  NODE_VERSION = "20"
+
 [context.production.environment]
   HUGO_VERSION = "0.126.2"
   PYTHON_VERSION = "3.8"
