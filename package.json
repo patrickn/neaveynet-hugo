@@ -1,0 +1,12 @@
+{
+    "name": "adventuremiles.net",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "prebuild": "node scripts/generate-image-api.mjs",
+        "build": "hugo"
+    },
+    "dependencies": {
+        "exifr": "^7.1.3"
+    }
+}
