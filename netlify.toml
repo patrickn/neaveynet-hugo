@@ -4,8 +4,9 @@
     Permissions-Policy = "interest-cohort=()"
 
 [build]
+  command = "npn run build"
   publish = "public"
-  command = "hugo && node generate-images-json.mjs"
+  functions = "netlify/functions"
 
 [context.production.environment]
   HUGO_VERSION = "0.126.2"
