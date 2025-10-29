@@ -1,6 +1,6 @@
 import { readdir, writeFile, stat } from "fs/promises";
 import { join, relative } from "path";
-import { parse } from "exifr"; // ← import parse directly
+import { parse } from "exifr"; // ← fixed import
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
@@ -37,10 +37,7 @@ async function getImagesRecursive(dir) {
                 : null,
               location:
                 metadata.GPSLatitude && metadata.GPSLongitude
-                  ? {
-                      lat: metadata.GPSLatitude,
-                      lon: metadata.GPSLongitude
-                    }
+                  ? { lat: metadata.GPSLatitude, lon: metadata.GPSLongitude }
                   : null
             };
             console.log(`✅ EXIF extracted for ${file}`);
