@@ -9,12 +9,25 @@ async function getImagesRecursive(dir) {
   let images = [];
   let exifr;
 
-  // ✅ Properly import exifr and handle both default/named exports
+  // ✅ Robust dynamic import for exifr with debug
   try {
     const exifrModule = await import("exifr");
-    exifr = exifrModule.default || exifrModule;
-  } catch {
-    console.warn("⚠️ EXIF extraction skipped: 'exifr' package not found.");
+    // Handle both default and named exports
+    if (exifrModule?.parse) {
+      exifr = exifrModule; // exifr.parse exists
+    } else if (exifrModule?.default?.parse) {
+      exifr = exifrModule.default; // exifr.default.parse exists
+    } else {
+      exifr = null;
+    }
+
+    if (exifr) {
+      console.log("✅ exifr module loaded successfully");
+    } else {
+      console.warn("⚠️ exifr module loaded but parse function not found");
+    }
+  } catch (err) {
+    console.warn("⚠️ EXIF extraction skipped: 'exifr' package not found.", err);
   }
 
   try {
@@ -52,10 +65,15 @@ async function getImagesRecursive(dir) {
                       }
                     : null
               };
+              console.log(`✅ EXIF extracted for ${file}`);
+            } else {
+              console.warn(`⚠️ No EXIF data found for ${file}`);
             }
           } catch (err) {
             console.warn(`⚠️ Could not read EXIF for ${file}: ${err.message}`);
           }
+        } else {
+          console.warn(`⚠️ Skipping EXIF extraction for ${file} (exifr not loaded)`);
         }
 
         images.push({
