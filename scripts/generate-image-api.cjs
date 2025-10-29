@@ -1,6 +1,6 @@
 import { readdir, writeFile, stat } from "fs/promises";
 import { join, relative } from "path";
-import { parse } from "exifr/node"; // ← Use Node entry point
+const exifr = require("exifr");
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
