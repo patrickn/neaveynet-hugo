@@ -7,6 +7,6 @@
         "build": "hugo"
     },
     "dependencies": {
-        "exifr": "^6.1.0"
+        "exifr": "^7.1.3"
     }
 }

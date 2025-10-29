@@ -1,5 +1,6 @@
 import { readdir, writeFile, stat } from "fs/promises";
 import { join, relative } from "path";
+import { parse } from "exifr/node"; // ← Use Node entry point
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
@@ -7,14 +8,6 @@ const functionFile = join(functionDir, "image-api.mjs");
 
 async function getImagesRecursive(dir) {
   let images = [];
-  let exifr;
-
-  // Dynamically import exifr so build won't crash if missing
-  try {
-    exifr = await import("exifr");
-  } catch {
-    console.warn("⚠️ EXIF extraction skipped: 'exifr' package not found.");
-  }
 
   try {
     const files = await readdir(dir);
@@ -30,27 +23,29 @@ async function getImagesRecursive(dir) {
         const imageUrl = `/${relativePath.replace(/\\/g, "/")}`;
 
         let exifData = {};
-        if (exifr) {
-          try {
-            const metadata = await exifr.parse(filePath, [
-              "DateTimeOriginal",
-              "GPSLatitude",
-              "GPSLongitude"
-            ]);
-            if (metadata) {
-              exifData = {
-                date: metadata.DateTimeOriginal ? metadata.DateTimeOriginal.toISOString() : null,
-                location: metadata.GPSLatitude && metadata.GPSLongitude
-                  ? {
-                      lat: metadata.GPSLatitude,
-                      lon: metadata.GPSLongitude
-                    }
+        try {
+          const metadata = await parse(filePath, [
+            "DateTimeOriginal",
+            "GPSLatitude",
+            "GPSLongitude"
+          ]);
+
+          if (metadata) {
+            exifData = {
+              date: metadata.DateTimeOriginal
+                ? metadata.DateTimeOriginal.toISOString()
+                : null,
+              location:
+                metadata.GPSLatitude && metadata.GPSLongitude
+                  ? { lat: metadata.GPSLatitude, lon: metadata.GPSLongitude }
                   : null
-              };
-            }
-          } catch (err) {
-            console.warn(`⚠️ Could not read EXIF for ${file}: ${err.message}`);
+            };
+            console.log(`✅ EXIF extracted for ${file}`);
+          } else {
+            console.warn(`⚠️ No EXIF data found for ${file}`);
           }
+        } catch (err) {
+          console.warn(`⚠️ Could not read EXIF for ${file}: ${err.message}`);
         }
 
         images.push({
