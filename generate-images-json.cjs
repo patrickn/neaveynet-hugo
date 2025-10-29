@@ -1,6 +1,6 @@
-import { readdir, writeFile, stat } from "fs/promises";
-import { join, relative } from "path";
-import { parse } from "exifr/node"; // ← Use Node entry point
+const { readdir, writeFile, stat } = require("fs").promises;
+const { join, relative } = require("path");
+const exifr = require("exifr"); // CJS import
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
@@ -24,7 +24,7 @@ async function getImagesRecursive(dir) {
 
         let exifData = {};
         try {
-          const metadata = await parse(filePath, [
+          const metadata = await exifr.parse(filePath, [
             "DateTimeOriginal",
             "GPSLatitude",
             "GPSLongitude"

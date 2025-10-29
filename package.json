@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "type": "module",
     "scripts": {
-        "prebuild": "node scripts/generate-image-api.mjs",
+        "prebuild": "node scripts/generate-image-api.cjs",
         "build": "hugo"
     },
     "dependencies": {
-        "exifr": "^7.1.3"
+        "exifr": "^6.1.0"
     }
 }
