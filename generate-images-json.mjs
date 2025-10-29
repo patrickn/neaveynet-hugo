@@ -1,5 +1,6 @@
 import { readdir, writeFile, stat } from "fs/promises";
 import { join, relative } from "path";
+import * as exifr from "exifr";
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
@@ -19,7 +20,36 @@ async function getImagesRecursive(dir) {
                 images = images.concat(await getImagesRecursive(filePath));
             } else if (file.match(/\.(jpg|jpeg|png)$/i) && !file.toLowerCase().includes("preview")) {
                 const relativePath = relative("static", filePath);
-                images.push({ url: `/${relativePath.replace(/\\/g, "/")}`, name: file });
+                const imageUrl = `/${relativePath.replace(/\\/g, "/")}`;
+
+                // 📸 Extract EXIF data (if available)
+                let exifData = {};
+                try {
+                    const metadata = await exifr.parse(filePath, [
+                        "DateTimeOriginal",
+                        "GPSLatitude",
+                        "GPSLongitude"
+                    ]);
+                    if (metadata) {
+                        exifData = {
+                            date: metadata.DateTimeOriginal ? metadata.DateTimeOriginal.toISOString() : null,
+                            location: metadata.GPSLatitude && metadata.GPSLongitude
+                                ? {
+                                      lat: metadata.GPSLatitude,
+                                      lon: metadata.GPSLongitude
+                                  }
+                                : null
+                        };
+                    }
+                } catch (exifError) {
+                    console.warn(`⚠️ Could not read EXIF for ${file}:`, exifError.message);
+                }
+
+                images.push({
+                    url: imageUrl,
+                    name: file,
+                    ...exifData
+                });
             }
         }
     } catch (error) {
@@ -45,7 +75,7 @@ async function generateNetlifyFunction() {
 }`;
 
         await writeFile(functionFile, functionCode);
-        console.log(`✅ Netlify function created: ${functionFile}`);
+        console.log(`✅ Netlify function created with EXIF data: ${functionFile}`);
     } catch (error) {
         console.error("❌ Error generating Netlify function:", error);
     }
