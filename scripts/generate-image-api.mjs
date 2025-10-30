@@ -28,11 +28,13 @@ async function getImagesRecursive(dir) {
 
         let exifData = {};
         try {
-          const metadata = await parse(filePath, [
-            "DateTimeOriginal",
-            "latitude",
-            "longitude"
-          ]);
+          const metadata = await parse(filePath, {
+            mergeOutput: false,
+            DateTimeOriginal: true,
+            latitude: true,
+            longitude: false,
+            gps: true
+          });
 
           if (metadata) {
             exifData = {
