@@ -1,5 +1,6 @@
 import { readdir, writeFile, stat } from "fs/promises";
 import { join, relative } from "path";
+
 import exifr from 'exifr';
 const { parse } = exifr;
 
@@ -7,7 +8,6 @@ const imageDir = "static/img";
 const functionDir = "netlify/functions";
 const functionFile = join(functionDir, "image-api.mjs");
 
-// Renamed variable for clarity
 const IMAGE_EXTENSIONS_REGEX = /\.(jpg|jpeg|png)$/i;
 
 async function getImagesRecursive(dir) {
@@ -28,7 +28,6 @@ async function getImagesRecursive(dir) {
 
         let exifData = {};
         try {
-          // Use 'parse' correctly now
           const metadata = await parse(filePath, [
             "DateTimeOriginal",
             "GPSLatitude",
@@ -37,11 +36,11 @@ async function getImagesRecursive(dir) {
 
           if (metadata) {
             exifData = {
-              // Simplified check and assignment
               date: metadata.DateTimeOriginal?.toISOString() || null,
+
               location:
                 metadata.GPSLatitude && metadata.GPSLongitude
-                  ? { lat: metadata.GPSLatitude, lon: metadata.GPSLongitude }
+                  ? [metadata.GPSLatitude, metadata.GPSLongitude]
                   : null
             };
             console.log(`✅ EXIF extracted for ${file}`);
@@ -70,7 +69,6 @@ async function generateNetlifyFunction() {
   try {
     const images = await getImagesRecursive(imageDir);
 
-    // Improved spacing and use of template literal for clarity
     const functionCode = `export async function handler() {
   return {
     statusCode: 200,
