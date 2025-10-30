@@ -1,6 +1,6 @@
 # The MIT License (MIT)
 
-**Copyright &copy; &lt;2016> &lt;Patrick Neave>**
+**Copyright &copy; &lt;2025> &lt;Patrick Neave>**
 
 * * *
 

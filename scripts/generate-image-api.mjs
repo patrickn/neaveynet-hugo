@@ -30,8 +30,8 @@ async function getImagesRecursive(dir) {
         try {
           const metadata = await parse(filePath, [
             "DateTimeOriginal",
-            "GPSLatitude",
-            "GPSLongitude"
+            "latitude",
+            "longitude"
           ]);
 
           if (metadata) {
@@ -39,8 +39,8 @@ async function getImagesRecursive(dir) {
               date: metadata.DateTimeOriginal?.toISOString() || null,
 
               location:
-                metadata.GPSLatitude && metadata.GPSLongitude
-                  ? [metadata.GPSLatitude, metadata.GPSLongitude]
+                metadata.latitude && metadata.longitude
+                  ? [metadata.latitude, metadata.longitude]
                   : null
             };
             console.log(`✅ EXIF extracted for ${file}`);
