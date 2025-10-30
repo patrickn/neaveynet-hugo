@@ -1,10 +1,13 @@
-const { readdir, writeFile, stat } = require("fs").promises;
-const { join, relative } = require("path");
-const exifr = require("exifr");
+import { readdir, writeFile, stat } from "fs/promises";
+import { join, relative } from "path";
+import { parse } from "exifr";
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
 const functionFile = join(functionDir, "image-api.mjs");
+
+// Renamed variable for clarity
+const IMAGE_EXTENSIONS_REGEX = /\.(jpg|jpeg|png)$/i;
 
 async function getImagesRecursive(dir) {
   let images = [];
@@ -18,12 +21,13 @@ async function getImagesRecursive(dir) {
 
       if (fileStat.isDirectory()) {
         images = images.concat(await getImagesRecursive(filePath));
-      } else if (file.match(/\.(jpg|jpeg|png)$/i) && !file.toLowerCase().includes("preview")) {
+      } else if (file.match(IMAGE_EXTENSIONS_REGEX) && !file.toLowerCase().includes("preview")) {
         const relativePath = relative("static", filePath);
         const imageUrl = `/${relativePath.replace(/\\/g, "/")}`;
 
         let exifData = {};
         try {
+          // Use 'parse' correctly now
           const metadata = await parse(filePath, [
             "DateTimeOriginal",
             "GPSLatitude",
@@ -32,9 +36,8 @@ async function getImagesRecursive(dir) {
 
           if (metadata) {
             exifData = {
-              date: metadata.DateTimeOriginal
-                ? metadata.DateTimeOriginal.toISOString()
-                : null,
+              // Simplified check and assignment
+              date: metadata.DateTimeOriginal?.toISOString() || null,
               location:
                 metadata.GPSLatitude && metadata.GPSLongitude
                   ? { lat: metadata.GPSLatitude, lon: metadata.GPSLongitude }
@@ -66,6 +69,7 @@ async function generateNetlifyFunction() {
   try {
     const images = await getImagesRecursive(imageDir);
 
+    // Improved spacing and use of template literal for clarity
     const functionCode = `export async function handler() {
   return {
     statusCode: 200,
