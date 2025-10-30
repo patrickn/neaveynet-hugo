@@ -1,6 +1,7 @@
 import { readdir, writeFile, stat } from "fs/promises";
 import { join, relative } from "path";
-import { parse } from "exifr";
+import exifr from 'exifr';
+const { parse } = exifr;
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
