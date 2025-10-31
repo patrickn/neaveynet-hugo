@@ -15,6 +15,17 @@ The very cool Fediverse commenting is courtesy of [Daniel Pecos Martinez](https:
 
 # Notes
 
+### Setting the Theme version
+
+This site uses the latest stable release of the [LoveIt theme](https://github.com/dillonzq/LoveIt). There is a table of releases and supported [Hugo](https://gohugo.io) on the theme GitHub page. To set the theme version:
+
+```
+   $ cd submodule
+   $ git checkout <tag>
+```
+
+Commit the changes to the parent repository.
+
 ### Using the Fediverse commenting system
 
     1. Create a blog post as normal.
