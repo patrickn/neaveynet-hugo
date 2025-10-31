@@ -7,6 +7,7 @@
   command = "npm run build"
   publish = "public"
   functions = "netlify/functions"
+  url = "/api/"
 
 [build.environment]
   NODE_VERSION = "22"
