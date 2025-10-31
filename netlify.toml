@@ -8,8 +8,11 @@
   publish = "public"
   functions = "netlify/functions"
 
-[functions]
-  url = "/api/"
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+  force = true
 
 [build.environment]
   NODE_VERSION = "22"
