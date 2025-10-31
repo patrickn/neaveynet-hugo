@@ -12,15 +12,15 @@
   NODE_VERSION = "22"
 
 [context.production.environment]
-  HUGO_VERSION = "0.152.2"
+  HUGO_VERSION = "0.142.0"
   PYTHON_VERSION = "3.12"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "false"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.152.2"
+  HUGO_VERSION = "0.142.0"
   PYTHON_VERSION = "3.12"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.152.2"
+  HUGO_VERSION = "0.142.0"
   PYTHON_VERSION = "3.12"
