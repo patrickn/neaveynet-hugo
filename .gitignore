@@ -9,4 +9,4 @@ public/
 resources/
 
 ## Generated files
-netlify/functions/image-api.mjs
+netlify/functions/*.mjs

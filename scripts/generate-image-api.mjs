@@ -60,7 +60,7 @@ async function getImagesRecursive(dir) {
 
         images.push({
           url: imageUrl,
-          name: file,
+          // name: file,
           ...exifData
         });
       }
