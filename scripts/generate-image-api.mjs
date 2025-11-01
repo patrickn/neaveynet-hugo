@@ -6,7 +6,7 @@ const { parse } = exifr;
 
 const imageDir = "static/img";
 const functionDir = "netlify/functions";
-const functionFile = join(functionDir, "image-api.mjs");
+const functionFile = join(functionDir, "images.mjs");
 
 const IMAGE_EXTENSIONS_REGEX = /\.(jpg|jpeg|png)$/i;
 
