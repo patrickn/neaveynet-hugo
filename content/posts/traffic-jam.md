@@ -1,7 +1,7 @@
 ---
 title: Traffic jam
 author: patrick
-banner: /img/2016/06/IMG_2455.jpg
+featuredImage: /img/2016/06/IMG_2455.jpg
 date: 2016-06-06T19:51:06+00:00
 geo_latitude:
   - 60.7257019601
@@ -13,7 +13,7 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
 ---
 I left Røldal earlyish (for me) and headed straight into a tunnel. I was heading for a small town called Tyssedal. This was the start of the hiking trail for the trolltunga. I wasn't going to do the hike as I didn't have 8-10 hours or a pair of hiking boots but I had heard that the drive to the start was worth a look.
 

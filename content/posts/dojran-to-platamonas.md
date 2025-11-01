@@ -15,6 +15,8 @@ lightgallery: true
 ---
 We were up before the sun this morning.
 
+<!--more-->
+
 {{< show_location >}}
 
 Packed up and ready to leave before 6:30am. How's that for planning. Everything was going so smoothly, we were finally in Greece. Then we had a problem. We had just been through a toll gate on the E75, me, Marko and Čiča were up ahead when we noticed Milos was missing. So we pulled into a nearby rest stop to wait, and waited and nothing. Čiča had a 2-way radio and was able to just about hear Milos through the static. He was stuck at the toll gate and his bike would not start.

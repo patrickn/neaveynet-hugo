@@ -12,7 +12,8 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: false
 ---
 The hotel in Mosjøen was cheap and tidy. The landscape on the way here has changed quite a bit. I am no longer riding through mountains, but now in the valleys between them. The mountains are way in the distance on either side.
 

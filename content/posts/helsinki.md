@@ -16,6 +16,8 @@ lightgallery: true
 ---
 Done the tourist thing in Helsinki, and here are the photos to prove it.
 
+<!--more-->
+
 {{< image src="/img/2016/06/IMG_2854.jpg" >}}
 
 {{< image src="/img/2016/06/img_2887.jpg" >}}

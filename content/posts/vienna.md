@@ -6,7 +6,7 @@ categories:
   - Hungarian Tour
 tags:
   - Austria
-
+toc: false
 ---
 There were no updates yesterday as my phone battery went flat and as I was camping there was nowhere to charge it up! I stopped at [Louis](http://louis.de) in Traun this morning though, and picked up a handlebar bag. Now I can charge as I go along 😀.
 

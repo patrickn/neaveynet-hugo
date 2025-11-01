@@ -1,7 +1,7 @@
 ---
 title: Alta to Rovaniemi, Finland
 author: patrick
-banner: /img/2016/06/img_2781.jpg
+featuredImage: /img/2016/06/img_2781.jpg
 date: 2016-06-22T09:06:27+00:00
 geo_latitude:
   - 66.497033
@@ -14,9 +14,11 @@ categories:
 tags:
   - Finland
   - Norway
-
+toc: false
 ---
 As expected the weather in Alta's microclimate was dry and sunny. Apparently they compare their rainfall here with that in the Sahara, whatever that means. So after packing up I was on the road south. It wasn't long before the cloud thickened and the drizzle started.
+
+<!--more-->
 
 The road was pretty straight and unexciting and there was not much traffic but the occasional reindeer wandering into the road made it interesting. Alta is not far from the Lapland border so it wasn't long before I was saying goodbye to Norway. The scenery didn't change much but the roads seemed to get even straighter and longer.
 

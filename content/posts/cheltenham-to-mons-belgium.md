@@ -6,7 +6,8 @@ categories:
   - Hungarian Tour
 tags:
   - England
-
+toc: false
+lightgallery: true
 ---
 I always knew that the worst bit of the trip to Europe would be getting out of England. It took about 3.5 hours in the end, from Cheltenham to Folkestone. As expected sections of the M25 were like riding through a supermarket car park. Traffic was stationary in places, it was Friday afternoon after all. But then there was the added problem of Operation Stack, this involves turning large sections of the M20 into a lorry park and closing it to other traffic!
 

@@ -8,6 +8,7 @@ categories:
 tags:
   - Serbia
 toc: false
+lightgallery: true
 ---
 
 I left Baja early (ish) morning and headed south to meet Marko in Belgrade. According to the map it was only a three hour ride, but it was getting hotter and hotter which always slows things down a bit. Passing through the border was really easy, present passport, passport stamped, passport returned and away.

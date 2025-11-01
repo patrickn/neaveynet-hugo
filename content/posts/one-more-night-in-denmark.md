@@ -1,7 +1,7 @@
 ---
 title: One more night in Denmark
 author: patrick
-banner: /img/2016/06/img_2352-1.jpg
+featuredImage: /img/2016/06/img_2352-1.jpg
 date: 2016-06-03T22:07:29+00:00
 geo_latitude:
   - 57.465041061
@@ -13,7 +13,8 @@ categories:
   - Arctic Roll
 tags:
   - Denmark
-
+toc: false
+lightgallery: false
 ---
 I was expecting to get to Hirtshals, board the ferry and be in Norway by now but these things never quite work out.
 

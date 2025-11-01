@@ -1,7 +1,7 @@
 ---
 title: Norway
 author: patrick
-banner: /img/2016/06/img_2436.jpg
+featuredImage: /img/2016/06/img_2436.jpg
 date: 2016-06-05T16:27:27+00:00
 geo_latitude:
   - 59.817211152
@@ -13,7 +13,8 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: true
 ---
 Hjørring ferry terminal looks pretty much like every other ferry terminal. Same facilities too, i.e. none. After a fairly uneventful 4 hour crossing I finally arrived in Larvik, Norway. Larvik ferry terminal looks pretty much like every other ferry terminal.
 

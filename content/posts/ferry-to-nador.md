@@ -12,6 +12,7 @@ categories:
 tags:
   - Morocco
 toc: false
+lightgallery: true
 ---
 
 I set my alarm for 06:30, so we could be ready to leave at 07:30. The journey was about 3 hours to catch the 12:00 ferry from Motril in Spain to Al Hoceima in Morocco. We would arrive in Morocco at dusk but had a hotel booked for the night near the port.

@@ -6,7 +6,8 @@ categories:
   - Hungarian Tour
 tags:
   - Serbia
-
+toc: false
+lightgallery: true
 ---
 Left Sibiu after breakfast and headed west towards Belgrade. Most of the journey was backtracking my earlier route, just turned left at Timisoara. First impression of Serbia was how straight and flat the roads are, some of the straights must be 2-3 miles and you can see way in the distance. Then there is a 90° corner and another 2 mile straight.
 

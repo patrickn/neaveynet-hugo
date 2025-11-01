@@ -6,9 +6,11 @@ categories:
   - Hungarian Tour
 tags:
   - Hungary
-format: gallery
-
+toc: false
+lightgallery: true
 ---
+
+<!--more-->
 
 ![Pets and Scooters](/img/2015/07/IMG_1881.jpg)
 

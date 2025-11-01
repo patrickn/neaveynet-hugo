@@ -12,11 +12,12 @@ tags:
 toc: false
 lightgallery: true
 ---
-{{< image src="/img/2017/07/12/groebming-austria.jpeg" caption="View from the hotel terrace" >}}
 
 I left Garmisch Partenkirchen early on the Monday morning. I wasn't the last to leave the Motorrad Days site, but not far off. The tearing down of the site itself was well underway and the town was a different place without the continuous hum of BMW after BMW passing through. It was actually quite a peaceful place.
 
 <!--more-->
+
+{{< image src="/img/2017/07/12/groebming-austria.jpeg" caption="View from the hotel terrace" >}}
 
 I had plenty of time before I needed to be in Belgrade so I set my satnav to the opposite, south-east, corner of Austria, which gave me a destination of somewhere around Graz. I also set it to stay off autoroutes and prefer curvy roads rather than the fastest route.
 

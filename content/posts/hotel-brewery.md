@@ -12,6 +12,7 @@ categories:
 tags:
   - albania
 toc: false
-
+toc: false
+lightgallery: true
 ---
 They put us in a hotel owned and run by the brewery next door. Free beer all night! What could go wrong?

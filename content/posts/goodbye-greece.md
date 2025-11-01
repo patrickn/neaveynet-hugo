@@ -10,6 +10,7 @@ categories:
 tags:
   - Greece
 toc: false
+lightgallery: true
 ---
 There are hundreds, if not thousands of these shrines along the sides of the road. All different sizes, some new, some old and weathered, some plain, some fancy and some completely dilapidated and abandoned. It's like an allegory for the rest of Greece.
 

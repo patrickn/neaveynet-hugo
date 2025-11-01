@@ -1,14 +1,14 @@
 ---
 title: 'Serbia to Bosnia & Herzegovina to Croatia to Bosnia & Herzegovina to Crotia'
 author: patrick
-banner: /img/2015/07/IMG_1989.jpg
+featuredImage: /img/2015/07/IMG_1989.jpg
 date: 2015-07-21T19:03:20+00:00
 categories:
   - Hungarian Tour
 tags:
   - 'Bosnia and Herzegovina'
   - Croatia
-
+toc: false
 ---
 Spent the night in Mira’s ‘guest’ room, it was very comfortable and I slept well despite the heat. The next morning there were a couple of people that had stayed after the party so we all had breakfast together.
 

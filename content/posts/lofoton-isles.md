@@ -1,7 +1,7 @@
 ---
 title: Lofoton Isles
 author: patrick
-banner: /img/2016/06/img_2748.jpg
+featuredImage: /img/2016/06/img_2748.jpg
 date: 2016-06-16T18:08:51+00:00
 geo_latitude:
   - 67.9
@@ -13,9 +13,12 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: true
 ---
 I was really looking forward to the Lofoton Isles as I had heard good things. However the combination of arriving off the ferry at 04:30, the grey overcast sky and the freezing drizzle wasn't all that appealing.
+
+<!--more-->
 
 I did manage to visit the village of Å, difficult to miss as its the most southerly point. Any further and you'd be in the Atlantic. I had a walk around the stockfish frames, this is a method of drying fish, mainly cod, in the cold dry air which is a major export for the islands. The large wooden frames are all over the islands and contain hundreds of hanging fish.
 

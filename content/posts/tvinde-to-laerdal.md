@@ -1,7 +1,7 @@
 ---
 title: Tvinde to Lærdal
 author: patrick
-banner: /img/2016/06/img_2518.jpg
+featuredImage: /img/2016/06/img_2518.jpg
 date: 2016-06-08T07:36:20+00:00
 geo_latitude:
   - 61.5185129727
@@ -13,7 +13,8 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: true
 ---
 A few images of the journey from Tvinde to Lærdal.
 

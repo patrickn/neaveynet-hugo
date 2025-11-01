@@ -14,6 +14,8 @@ lightgallery: true
 ---
 The ride from Rovaniemi south was pretty uneventful. It was mostly main road, with the occasional lorry or camper van to negotiate. I did manage to find a cabin with its own beach though, near a town called Salo. The campsite was on a little island reachable by bridge.
 
+<!--more-->
+
 {{< show_location >}}
 
 {{< image src="/img/2016/06/img_2873.jpg" >}}

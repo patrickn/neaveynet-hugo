@@ -1,7 +1,7 @@
 ---
 title: Trondheim to Mosjøen
 author: patrick
-banner: /img/2016/06/IMG_2595.jpg
+featuredImage: /img/2016/06/IMG_2595.jpg
 date: 2016-06-14T22:43:18+00:00
 geo_latitude:
   - 65.8462926106
@@ -13,7 +13,8 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: true
 ---
 I was hoping to make Bodø today but after spending the morning trying to find somewhere to make a more permanent tyre repair it was getting to late. Being Saturday all car repair shops are closed so despite a helpful BMW dealer phoning around I had no choice but to continue.
 

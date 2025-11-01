@@ -1,7 +1,7 @@
 ---
 title: To the rescue
 author: patrick
-banner: /img/2016/06/IMG_2472.jpg
+featuredImage: /img/2016/06/IMG_2472.jpg
 date: 2016-06-08T07:36:39+00:00
 geo_latitude:
   - 61.5185134043
@@ -13,7 +13,7 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
 ---
 I was stopped at a petrol station having a coffee this morning when what looked like the Norwegian Girls Ducati Owners Club rode up. Or at least three of them and their friend on a Suzuki bandit. Unfortunately, the little Suzuki would not start.
 

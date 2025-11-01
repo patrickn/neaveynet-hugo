@@ -12,7 +12,8 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: true
 ---
 
 _      |_

@@ -1,7 +1,7 @@
 ---
 title: Fossbakken to Alta
 author: patrick
-banner: /img/2016/06/img_2771.jpg
+featuredImage: /img/2016/06/img_2771.jpg
 date: 2016-06-18T18:12:58+00:00
 geo_latitude:
   - 68.5556824
@@ -13,9 +13,12 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: true
 ---
 Returning to the mainland after Lofoton the weather didn't get any better. If anything it was getting worse. I stopped for a couple of hours just to warm up a bit and have something to eat. I was considering turning around and heading south in the hope of warmer weather.
+
+<!--more-->
 
 I had still covered nearly 280 miles that day so as it was getting late I decided I would find a cabin, have something to eat and get some sleep. If the weather didn't look any better in the morning I could turn back then.
 

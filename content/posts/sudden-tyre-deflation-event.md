@@ -1,7 +1,7 @@
 ---
 title: Sudden tyre deflation event
 author: patrick
-banner: /img/2016/06/img_2584.jpg
+featuredImage: /img/2016/06/img_2584.jpg
 date: 2016-06-10T17:45:15+00:00
 geo_public:
   - 1
@@ -13,7 +13,8 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: true
 ---
 Or puncture if you like. I was getting an amber warning when leaving Lunde about rear tyre pressure. So at the next garage I checked the tyre and couldn't see anything obvious. I topped up the air and carried, keeping an eye on the pressure. About 180 miles later whilst waiting for the Aukra ferry I glanced down at the tyre and noticed the head of a nail sticking out. How I missed it earlier I don't know.
 

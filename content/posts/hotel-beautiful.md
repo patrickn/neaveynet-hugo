@@ -11,7 +11,6 @@ tags:
   - Morocco
 toc: false
 lightgallery: true
-
 ---
 The ferry crossing to Nador was about six hours and as we hadn't paid the extra for a cabin, all we could do was find somewhere to sit. After having some lunch we moved to a lounge area. There was a TV in the corner showing what looked like the weekly lottery number selection. The number selection was punctuated with two kids chanting some sort of prayer in Arabic, in very annoying high pitched voices. This seemed to go on for hours, and me and Chris were both chanting along by the end.
 

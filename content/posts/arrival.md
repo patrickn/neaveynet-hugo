@@ -12,6 +12,7 @@ categories:
 tags:
   - Morocco
 toc: false
+lightgallery: true
 ---
 
 After flying in from a very cool Amsterdam, first impression when getting off the plane in Marrakech is... phew, it's hot 😎. The gauge reads 27°, and is untypically warm for the time of year.

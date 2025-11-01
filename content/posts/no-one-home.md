@@ -6,7 +6,7 @@ categories:
   - Hungarian Tour
 tags:
   - Hungary
-
+toc: false
 ---
 Got to Budapest about 20:00, after a 2 hour blast along the autoroute. There are no toll booths for the Hungarian autoroutes, but you do need to pay. You purchase something called a ‘vignette’ which is basically just a receipt to show the police if stopped. I paid €6.10 at a little portacabin at a Shell station just before the border. This is valid for 10 days use of the autoroutes and was the minimum I could buy.
 

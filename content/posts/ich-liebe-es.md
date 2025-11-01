@@ -1,7 +1,7 @@
 ---
 title: Ich liebe es™
 author: patrick
-banner: /img/2016/06/IMG_2322.jpg
+featuredImage: /img/2016/06/IMG_2322.jpg
 date: 2016-06-02T21:07:08+00:00
 geo_public:
   - 1
@@ -14,7 +14,8 @@ categories:
 tags:
   - Denmark
   - Germany
-
+toc: false
+lightgallery: false
 ---
 So the North European Tour of McDonalds 'restaurants' continues. I am currently stopped in Flensburg for a coffee and apfelkuchen. I have discovered one flaw with Mickey D's wifi though. They give you 3 hours free use a day, but that starts when you first log on. If you log on then travel 3 hours north it still counts. So despite being sat over 200km from where I first logged on, my daily allowance has been used up.
 

@@ -10,6 +10,9 @@ tags:
 toc: false
 lightgallery: true
 ---
+
+<!--more-->
+
 {{< image src="/img/2016/08/img_3474.jpg" >}}
 
 {{< image src="/img/2016/08/img_3471.jpg" >}}

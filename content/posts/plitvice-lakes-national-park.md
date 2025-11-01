@@ -1,7 +1,7 @@
 ---
 title: Plitvice Lakes National Park
 author: patrick
-banner: img/2015/07/IMG_1996.jpg
+featuredImage: /img/2015/07/IMG_1996.jpg
 date: 2015-07-22T19:21:27+00:00
 geo_latitude:
   - 44.8653966
@@ -13,9 +13,12 @@ categories:
   - Hungarian Tour
 tags:
   - Croatia
-
+toc: false
+lightgallery: true
 ---
 Plitvice Lakes is the largest national park in Croatia. There are 16 lakes that cascade into each other as they descend. It is an amazing and stunning place and well worth a visit. Whats more there is free bike parking and secure storage for leaving helmet, boots etc.
+
+<!--more-->
 
 I spent the day walking along and around the lakes and didn’t get to see everything.
 

@@ -6,7 +6,7 @@ categories:
   - Hungarian Tour
 tags:
   - England
-
+toc: false
 ---
 Daniel is on a school trip in a couple of weeks to Hungary. As part of the school orchestra he will be performing 3 concerts in Budapest.
 

@@ -13,7 +13,8 @@ categories:
   - Morocco Christmas Adventure
 tags:
   - Morocco
-toc: true
+toc: false
+lightgallery: true
 description: My third trip to Morocco started from home in sub zero temperatures. I hoped to get through Belgium and France as quickly as possible and find better weather in Spain.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: If you need a tunnel, call a Norwegian
 author: patrick
-banner: /img/2016/06/img_2467.jpg
+featuredImage: /img/2016/06/img_2467.jpg
 date: 2016-06-06T19:04:47+00:00
 geo_latitude:
   - 60.7256517458
@@ -13,7 +13,8 @@ categories:
   - Arctic Roll
 tags:
   - Norway
-
+toc: false
+lightgallery: false
 ---
 Last nights accommodation was a slight improvement on the shed in Hjørring. It was more like a converted portakabin. The 'cottage' was in a ski resort in Røldal, there's shared showers and kitchens but as there didn't seem to be anyone else around I had the place to myself. Opposite was, guess what? A waterfall.
 
