@@ -75,15 +75,21 @@ async function getImagesRecursive(dir) {
 async function generateNetlifyFunction() {
   try {
     const images = await getImagesRecursive(imageDir);
+    const bodyContent = JSON.stringify({ images }, null, 2);
+
+    // Generate a simple ETag based on the current timestamp
+    // The "W/" prefix indicates a weak validator (suitable for dynamically generated content)
+    const etag = `W/"${Date.now()}"`;
 
     const functionCode = `export async function handler() {
   return {
     statusCode: 200,
     headers: {
       "Content-Type": "application/json",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+      "ETag": "${etag}"
     },
-    body: JSON.stringify(${JSON.stringify({ images }, null, 2)})
+    body: \`${bodyContent}\`
   };
 }`;
 
