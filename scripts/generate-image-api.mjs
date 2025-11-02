@@ -85,9 +85,9 @@ async function generateNetlifyFunction() {
   return {
     statusCode: 200,
     headers: {
-      "Content-Type": "application/json",
-      "Access-Control-Allow-Origin": "*",
-      "ETag": "${etag}"
+      'Content-Type': 'application/json',
+      'Access-Control-Allow-Origin': '*',
+      'ETag': '${etag}'
     },
     body: \`${bodyContent}\`
   };
