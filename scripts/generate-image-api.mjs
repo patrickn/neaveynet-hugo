@@ -47,7 +47,10 @@ async function getImagesRecursive(dir) {
 
               location:
                 metadata.latitude && metadata.longitude
-                  ? [metadata.latitude, metadata.longitude]
+                  ? {
+                      latitude: metadata.latitude,
+                      longitude: metadata.longitude
+                    }
                   : null
             };
             console.log(`✅ EXIF extracted for ${file}`);
