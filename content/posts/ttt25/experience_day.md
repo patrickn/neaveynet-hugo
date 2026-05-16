@@ -6,13 +6,14 @@ date: 2026-02-01
 geo_latitude: 57,45509° N
 geo_longitude: 9,99080° E
 categories:
-  - Ténéré Travel Trophy 2025
+  - Ténéré Travel Trophy
 tags:
   - Denmark
 toc: false
 lightgallery: true
 description: This will be my third year on the Ténéré Travel Trophy. Following on from Andora and Croatia, the destination for this year is Norway. 150 Ténérés will be starting in Denmark and heading north through Sweden before reaching the finish line. 
 ---
+<!--more-->
 
 ### The warm up
 
