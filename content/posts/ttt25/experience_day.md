@@ -35,4 +35,4 @@ This was one of the trip highlights, I discovered that by staying close to where
 
 I waited for the tide to recede before quickly navigating as close to the rocks as possible the 20m or so before I had successfully passed the danger point. There were still bikes behind me, and with the tide coming in, passing this point was only going to get harder. 
 
-After the drama on the beach it was an uneventful B road ride back to the camp. We had to pick up our gear and head to the ferry. We were going to Copenhagen. 
+After the drama on the beach it was an uneventful B road ride back to the camp. We had to pick up our gear and head to the ferry. We were going to Gothenburg. 

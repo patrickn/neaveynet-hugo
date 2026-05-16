@@ -6,7 +6,7 @@ date: 2025-06-05
 geo_latitude: 57,45509° N
 geo_longitude: 9,99080° E
 categories:
-  - Ténéré Travel Trophy 2025
+  - Ténéré Travel Trophy
 tags:
   - Denmark
   - Sweden
