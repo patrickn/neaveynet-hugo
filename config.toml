@@ -551,10 +551,3 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   mediaType = "text/plain"
   isPlainText = true
   isHTML = false
-
-# Options to make hugo output files
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-  page = ["HTML", "MarkDown"]
-  section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
