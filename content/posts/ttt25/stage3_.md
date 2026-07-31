@@ -1,5 +1,5 @@
 ---
-title: Day 3
+title: Stage 3 - Flisa to Vang i Valdres, Norway
 author: patrick
 featuredImagePreview: /img/2025/06/19/IMG_4641.JPEG
 date: 2026-02-04
@@ -11,7 +11,6 @@ tags:
   - Norway
 toc: false
 lightgallery: true
-draft: true
 description: 
 ---
 

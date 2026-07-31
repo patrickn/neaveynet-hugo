@@ -1,5 +1,5 @@
 ---
-title: Day 5
+title: Stage 5 - Grimsbu to Åndalsnes, Norway
 author: patrick
 featuredImagePreview: /img/2025/06/21/IMG_4711.JPEG
 date: 2026-02-06
@@ -11,7 +11,6 @@ tags:
   - Norway
 toc: false
 lightgallery: true
-draft: true
 description:  
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Day 1 
+title: Stage 1 - Gothenburg to Dals Långed, Sweden
 author: patrick
 featuredImagePreview: /img/2025/06/17/IMG_4543.JPEG
 date: 2026-02-02

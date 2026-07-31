@@ -1,5 +1,5 @@
 ---
-title: Day 4
+title: Stage 4 - Vang i Valdres to Grimsbu, Norway
 author: patrick
 featuredImagePreview: /img/2025/06/20/IMG_4686.JPEG
 date: 2026-02-05
@@ -11,7 +11,6 @@ tags:
   - Norway
 toc: false
 lightgallery: true
-draft: true
 description:  
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Day 2
+title: Stage 2 - Dals Långed to Flisa, Norway
 author: patrick
 featuredImagePreview: /img/2025/06/18/IMG_4589.JPEG
 date: 2026-02-03
@@ -12,7 +12,6 @@ tags:
   - Norway
 toc: false
 lightgallery: true
-draft: true
 description:  
 ---
 
